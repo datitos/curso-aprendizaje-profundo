@@ -1,7 +1,5 @@
 # Curso Aprendizaje Profundo
 
-1. Introduction
-2. Preliminaries
 3. Linear Neural Networks
 4. Multilayer Perceptrons
 5. Deep Learning Computation
