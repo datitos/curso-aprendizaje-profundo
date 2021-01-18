@@ -1,17 +1,26 @@
 # Curso Aprendizaje Profundo
+## Cronograma
 
-3. Linear Neural Networks
-4. Multilayer Perceptrons
-5. Deep Learning Computation
-6. Convolutional Neural Networks
-7. Modern Convolutional Neural Networks
-8. Recurrent Neural Networks
-9. Modern Recurrent Neural Networks
-10. Attention Mechanisms
-11. Optimization Algorithms
-12. Computational Performance
-13. Computer Vision
-14. Natural Language Processing: Pretraining
-15. Natural Language Processing: Applications
-16. Recommender Systems
-17. Generative Adversarial Networks
+1. Elementos de Machine Learning (90)
+2. Herramientas generales para Deep Learning (40) ¿50 restante sea de práctica?
+3. Regresión lineal, lineal con SoftMax (120)
+  * Matemática 
+  * Implementación y Código 
+4. MLP: Multilayer Perceptrons (90)
+  * Matemática
+  * Implementación y Código
+5. Selección de modelos: Underfittng y Overfitting (90)
+6. Personalización de ANN y bloques (60)
+7. Convolutional Neural Networks (90)
+8. Modern Convolutional Neural Networks (90)
+9. Computer Vision (2 clases?)
+10. Computer Vision 
+11. Gneerative Adversarial Networks
+12. Recurrent Neural Networks                   | refactoring
+13. Modern Recurrent Neural Networks            | refactoring
+14. Attention Mechanisms                        | refactoring
+15. Natural Language Processing: Pretraining    | refactoring
+16. Natural Language Processing: Applications   | refactoring
+17. Optimization Algorithms (90)
+18. Computational Performance (?)
+19. Recommender Systems
