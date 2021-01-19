@@ -16,11 +16,11 @@
 9. Computer Vision (2 clases?)
 10. Computer Vision 
 11. Gneerative Adversarial Networks
-12. Recurrent Neural Networks                   | refactoring
-13. Modern Recurrent Neural Networks            | refactoring
-14. Attention Mechanisms                        | refactoring
-15. Natural Language Processing: Pretraining    | refactoring
-16. Natural Language Processing: Applications   | refactoring
+12. Recurrent Neural Networks                   (90)
+13. Modern Recurrent Neural Networks            (180)
+14. Attention Mechanisms                        (270)
+15. Natural Language Processing: Pretraining    (45)
+16. Natural Language Processing: Applications   (45)
 17. Optimization Algorithms (90)
 18. Computational Performance (?)
 19. Recommender Systems
