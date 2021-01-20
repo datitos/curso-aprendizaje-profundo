@@ -1,16 +1,10 @@
-¿Qué hacemos con el buffer? 
-
-¿Son realmente presenciales las clases?
-
-¿Que tanta libertad habrá con los proyectos?
-
 Deep Learning
 Stanford / Winter 2021
 
 Natural language processing
 
 Logistics
-    Lectures:
+    Lectures: son presenciales 
     Lecture videos:
     Office hours:
     Contact:
@@ -37,7 +31,9 @@ Assignments
 
 Examen Global
 
-Final Project Los proyectos serán iniciados un mes antes de terminar el curso  
+Final Project:
+	Competecias de Kagle
+	Los proyectos serán iniciados un mes antes de terminar el curso  
 
 Practicalities
     Team size: (si hay solo 5 personas, ¿Tiene sentido armar grupos?)
