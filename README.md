@@ -12,11 +12,18 @@
   * Implementación y Código
 4. Selección de modelos: Underfittng y Overfitting 26/02/2021 (90)
 5. Personalización de ANN y bloques 1/03/2021 (60)
+  (20). Optimization Algorithms 23/04/2021 (90)
 6. Convolutional Neural Networks 5/03/2021 (90)
 7. Modern Convolutional Neural Networks 8/03/2021 (90)
-8. Computer Vision 12/03/2021 (180)
+8. Computer Vision 12/03/2021
+  * Tranfering y Fine-Tuning
+  * Style Transfer
 9. Computer Vision 15/03/2021
-10. Gneerative Adversarial Networks 19/03/2021
+  * Object recognition
+10. Generative Adversarial Networks 19/03/2021
+  * Convolución traspuesta
+  * GANs
+  * Segmentación semática
 11. Recurrent Neural Networks 22/03/2021                  (90)
 12. Modern Recurrent Neural Networks I 26/03/2021         (90)
   * hasta bidireccional (aprox)
