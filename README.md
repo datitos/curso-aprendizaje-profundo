@@ -101,20 +101,46 @@
 | --> Embeddings de palabras: Word2Vec||
 | --> Embeddings de palabras: GloVe||
 | --> Embeddings de morfemas: fastText||
+| --> Implementación con RNN||
 |||
-15. Machine Translation 29/03/2021
-  * Seq2Seq
-  * Embedings
-16. Attention Mechanisms 05/04/2021 (90)
-  * Matemática
-17. Attention Mechanisms 09/04/2021 (90)
-  * Atencion on RNN
-18. Attention Mechanisms 12/04/2021 (90)
-  * Transformer
-19. BERT 16/04/2021
-20. BERT: Inference 19/04/2021
-21. Predicción de calificaciones 26/04/2021 
-22. Ranking personalizado 30/04/2021
-23. Retroalimentación implicita 30/04/2021
-
-
+|17. Mecanismo de atencion|12/04/2021|
+| --> Concepto de atención||
+| --> Pooling de atención||
+| --> Métricas de atención||
+|||
+|18. Atención en RNN|16/04/2021|
+| --> Modelo de Bahdanau||
+| --> Multiples cabezales||
+| --> Autoatención|| <-- revisar nombre
+|||
+|19. Transformers|19/04/2021|
+| --> MLP sensible a la posición||
+| --> Normalización por capas||
+| --> Atención con máscaras||
+| --> Codificación posicional||
+|||
+|20. Transformers bidireccionales: BERT|23/04/2021|
+| --> Embeddings sensibles al contexto||
+| --> Arquitectura independiete de la tarea||
+| --> Modelado del lenguaje con máscaras||
+|||
+|21. Aplicaciones de BERT|26/04/2021|
+| --> Predicción de próxima oraciones||
+| --> Etiquetado automático||
+| --> Respuesta automatizada a preguntas||
+| --> Inferencia del lenguaje||
+|||
+|22. Sistemas de recomencación con datos explicitos|30/04/2021|
+| --> Sistemas de recomencación: clasificación ||
+| --> Factorización de matrices||
+| --> Predicción de calificación con autoencoder||
+|||
+|23. Sistemas de recomendación con ranking|03/05/2021|
+| --> Funciones de perdida para ranking||
+| --> Muestreo negativo||
+| --> Factorización de matrices con MLP: NeuMF||
+| --> Sensibildiad a la secuencia:  Caser||
+|||
+|24. Sistemas de recomencación con datos implicitos|07/05/2021|
+| --> Máquinas de factorización||
+| --> Máquinas de factorización Profundas||
