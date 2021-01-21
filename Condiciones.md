@@ -4,11 +4,11 @@ Stanford / Winter 2021
 Natural language processing
 
 Logistics
-    Lectures: 
-    Lecture videos: GRABACIONES presenciales 
-    Office hours:
-    Contact:
-    oyentes y inscriptos:
+    * Lectures: 
+    * Lecture videos: GRABACIONES presenciales 
+    * Office hours:
+    * Contact:
+    * oyentes y inscriptos:
     	los oyentes tiene acceso solamente a los videos
 	los inscriptos tienen posbilidada de tener sus trabajos prácticos corregidos
 
