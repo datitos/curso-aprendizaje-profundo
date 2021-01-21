@@ -1,3 +1,7 @@
+¿Estamos yendo muy rápido?
+¿Como van a funcionar las clases y los encuentros sincrónicos?
+¿Hay clases buffer? ¿Donde y como?
+
 Deep Learning
 Stanford / Winter 2021
 
