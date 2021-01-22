@@ -13,7 +13,6 @@
 | --> Entornos de ejecución||
 | --> Manipulación y preprocesamiento de datos||
 | --> Cálculo automático de gradientes||
-| --> Cálculo automático de gradientes||
 |||
 |3. Redes neuronales de una capa|22/02/2021|
 | --> Regresión lineal||
@@ -28,25 +27,27 @@
 | --> Implementación desde cero||
 | --> Implementación usando frameworks||
 |||
-|5. Algoritmos de Optimización|01/03/2021|
-| --> Descendo de gradiente||
-| --> Variaciones de descenso de gradiente||
-| --> Momentum||
-| --> Sistemás dinámicos|| <-- revisar esta parte (adagrad, delta RMS y adadelta)
-| --> ADAM||
-|||
-|6. Selección de modelos|05/03/2021|
-| --> Underfittng||
-| --> Overfitting||
-| --> Regularización de los pesos||
-| --> Dropout||
-|||
-|7. Cuestiones de implementación|08/03/2021|
+|5. MLP a medida|01/03/2021|
 | --> Capas y Bloques||
 | --> Capas diseñadas a medida||
 | --> Inicialización y manejo de parámetros||
 | --> Operaciones de I/O||
 | --> GPU||
+|||
+|6. Algoritmos de Optimización|05/03/2021|
+| --> Descenso de gradiente||
+| --> Descenso estocástico de gradiente||
+| --> Momentum||
+| --> ADAGRAD||
+| --> Delta RMS||
+| --> ADADelta||
+| --> ADAM||
+|||
+|7. Selección de modelos|08/03/2021|
+| --> Underfittng||
+| --> Overfitting||
+| --> Regularización de los pesos||
+| --> Dropout||
 |||
 |8. Redes convolucionales (CNN)|12/03/2021|
 | --> Convoluciones en imágenes||
