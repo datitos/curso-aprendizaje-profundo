@@ -38,7 +38,7 @@
 |6. Selección de modelos|05/03/2021|
 | --> Underfittng||
 | --> Overfitting||
-| --> Regulación de los pesos||
+| --> Regularización de los pesos||
 | --> Dropout||
 |||
 |7. Cuestiones de implementación|08/03/2021|
