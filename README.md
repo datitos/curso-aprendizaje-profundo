@@ -75,7 +75,7 @@
 | --> Detección multiescala: SSD||
 | --> Detección basada en regiones: R-CNN||
 |||
-|12. Convolución traspuesta|26/03/2021| <-- Revisar nombre!
+|12. Upsampling |26/03/2021|
 | --> Convolución traspuesta||
 | --> Segmentación semática: FCN||
 | --> Modelos generativos: GANs||
