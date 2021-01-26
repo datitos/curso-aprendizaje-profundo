@@ -1,13 +1,9 @@
-¿Estamos yendo muy rápido?
-¿Como van a funcionar las clases y los encuentros sincrónicos?
-¿Hay clases buffer? ¿Donde y como?
-
-Deep Learning
-Stanford / Winter 2021
-
-Natural language processing
-
 Logistics
+    
+Este curso se implmentará como un aula invertida:
+    Este tipo de curso fuciona de la siguiente manera:
+        Hay clases presenciales o en este caso grabadas
+        
     * Lectures: 
     * Lecture videos: GRABACIONES presenciales 
     * Office hours:
@@ -36,11 +32,11 @@ Assignments
 Examen Global
 
 Final Project:
-	Competecias de Kagle
-	Los proyectos serán iniciados un mes antes de terminar el curso  
+    Competecias de Kagle
+    Los proyectos serán iniciados un mes antes de terminar el curso  
 
 Practicalities
     Team size: (si hay solo 5 personas, ¿Tiene sentido armar grupos?)
-	(Ojo con el plagio)
+    (Ojo con el plagio)
 
 Schedule (in progress)
