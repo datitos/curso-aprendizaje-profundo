@@ -10,16 +10,6 @@ Analisis del data set FIFA: limitaciones de las regresiones lineales
 
 Implementación de NeRF 
 
-Los ejercicios de este TP deberían consistir en su mayoría en armar bloques y arquitecturas desde 0.
-
-Ej: 
-
-Armar una arquitectura de 3 o más capas
-	con diferentes algoritmos de entrenamiento
-	con diferentes funciones de activación
-armar un bloque de 4 capas
-combinar 2 o más bloques
-
 Ejemplo de preguntas de examen
 
 posibles pregunta teóricas:
@@ -32,16 +22,16 @@ Comparar:
 
 TP 3:
 
-A partir de uno o dos ejemplos de los ejemplo del práctico 2, implementar dropout y L1 o L2
+Dropout, Underfitting y Overfifting en data set FIFA
 
 Ejemplo de preguntas de examen
 
 Dada una serie de datos con 1000 puntos: --> 1000 funciones Linealmente Independiente
 
 ¿Que grado requiere un polinomio que ajuste perfecto?  999
-*¿Cuantos senos y cosenos requiere un ajuste perfecto? 1 constante 500 senos y cosenos (frecuencia es dato) FFT
-*¿Cuantas exponenciales con distinta base se necesitan para un ajuste perfecto? 1000
-*¿Puede encontrar una relación entre las 3 anteriores?
+¿Cuantos senos y cosenos requiere un ajuste perfecto? 1 constante 500 senos y cosenos (frecuencia es dato) FFT
+¿Cuantas exponenciales con distinta base se necesitan para un ajuste perfecto? 1000
+¿Puede encontrar una relación entre las 3 anteriores?
 
 Considere una función de perdida con L2:  L2(w) = 0
 
@@ -50,7 +40,7 @@ f(w,b) + k*L2(w)
 ¿que ocurre si ahora w y k pueden varia libremente? ¿Qué tipo de problema es?
 En función de lo anterior, ¿Qué efecto en general cree que tendran los términos de tipo Lp?
 
-* ¿Que otros ejemplos hay de normas Lp? ¿Qué ocurre con p -> infinito?
+¿Que otros ejemplos hay de normas Lp? ¿Qué ocurre con p -> infinito?
 
 Analizar las normas L1, L2, L3, L0.5 y Linfinito (grafiquitos)
 
