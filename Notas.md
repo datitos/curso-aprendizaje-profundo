@@ -1,4 +1,14 @@
+TP 1:
+
+Hay una parte de tutorial para py torch, colab y Jupyter
+
+Usar lo anterior para acondicionar data set FIFA.
+
 TP 2:
+
+Analisis del data set FIFA: limitaciones de las regresiones lineales
+
+Implementación de NeRF 
 
 Los ejercicios de este TP deberían consistir en su mayoría en armar bloques y arquitecturas desde 0.
 
