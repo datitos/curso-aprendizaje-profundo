@@ -22,14 +22,15 @@ Trabajo Practico 3:
 
 Trabajo Practico 4: 
 
-  Implementación general de CNN: Clase 8,9
+  Implementación general de CNN: Clase 8
   
-   Convoluciones
-   Arquitecturas
+  Convoluciones
 
 Trabajo Practico 5:
 
-  Fine-Tuning: Clase 10
+  Fine-Tuning: Clase 9,10
+  
+  Arquitecturas
 
 Trabajo Practico 6:
 
