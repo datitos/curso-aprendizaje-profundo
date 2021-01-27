@@ -68,9 +68,9 @@ visualizar features
 
 Diferentes capas se especializan en diferentes "nichos" (Hablar de "neuronas abuela" y líneas)
 
-efecto de trancos y pools
+efecto de stride y pools
 
-definida una imagen de n x m con un pading p, una convolución p x q y un paso s, como es la nueva  imagen i x j 
+definida una imagen de n x m con un pading p, una convolución p x q y un stride s, como es la nueva  imagen i x j 
 
 convolucion 1x1
 
@@ -80,9 +80,11 @@ convolución como operadores --> derivadas, integrales, transformadas de fourier
 
 como elimina ruido una CNN --> filtros pasabajo (eliminación de frecuencias altas y promedio)
 
-autoencoder como disminución de ruido y compresión jpg
-
 TP5 
+
+Elegir un data set y "juegue" (clasificación)
+
+mejorar score en Kaggle Chap 13,14
 
 A partir del práctico 4, implementar fine tuning
 
@@ -97,6 +99,52 @@ para clase: fine-tuning, transferencia de aprendizeje, modularidad del cerebro y
 para clase: Analogias entre Lenguajes Naturales fonémicos y de señas (modilaridad del lenguje en cerebros) relacionar con fine tuning
 
 para clase:  Sapolsky <-- 
+
+TP 6
+
+UpSampling
+
+Usar datos de yema de vid para segmentación semática
+
+autoencoder como disminución de ruido y compresión jpg
+
+generar los hijos ilegitmos de Messi y Ronaldo
+
+dada una convolución 2x2 que elegiremos y escribiremos para que resuelvan:
+
+¿existen dos o más combinaciones que nos devuelvan una misma salida? ¿Es inyectiva?
+
+¿una convolución transpuesta es suryectiva?
+
+¿una convolución transpuesta es inversa de una convolución?
+
+enunciar el teorema del nucleo y la imagen
+
+¿que relación encuentra con teorema del nucleo y la imagen?
+
+TP 7
+
+data set de sentiminetos (multiclase)
+
+¿Qué ventajas tienen las variables ocultas frente a las secuencias aisladas?
+
+¿Cual es el trabajo de la compuerta Reset y Update en GRU?
+
+¿Que similitudes hay entre la compuerta Reset y Update y las compuertas Input, Forget y Output de LSTM?
+
+¿Que similitudes hay en la profundidad de las CNN y las RNN? ¿Que sucede semánticamente en las capas superiores con respecto a las inferiores?
+
+¿Que limitaciones trae el uso de redes bidireccionales? ¿Por que no todos los problemas pueden atacar con este enfoque?
+
+TP 8
+
+Embeddings:
+
+"Hay un pequeño texto sobre lenguajes polisintéticos, sintéticos, aglutinantes y analíticos" <-- Tom scott
+
+https://www.youtube.com/watch?v=bxARj07jFp0
+
+¿Que lenguajes cree que seran mejor codificados con embedings de morfemas?
 
 TP10
 
