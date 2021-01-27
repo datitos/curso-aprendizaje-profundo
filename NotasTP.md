@@ -50,7 +50,8 @@ En función de los gráficos:
 ¿Por qué no se usa L0.5? ¿Por qué no se usa L3?
 ¿Por qué no se usa Linfinito?
 
-*Norma con matrices
+Norma con matrices
+
   1) multiplicación de matrices
   2) no cualquier matriz <-- 
   3) casi lo mismo L2
@@ -62,6 +63,8 @@ In Bayesian statistics we use the product of prior and likelihood to arrive at a
 TP4
 
 Elegir alguna de las arquitecturas descriptas e implmentarlas
+
+visualizar features
 
 Diferentes capas se especializan en diferentes "nichos" (Hablar de "neuronas abuela" y líneas)
 
