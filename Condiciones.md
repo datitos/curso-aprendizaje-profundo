@@ -13,53 +13,55 @@ Condiciones del cursado
 
 Dadas las características de un aula invertida, las clases sincrónicas no son de carácter obligatorio. Sin embargo, dado que son clases de consulta y de puesta en común, se recomienda la asistencia para un mejor desempeño durante el cursado.
 
-* El material del curso consiste en:
-	* clases grabadas disponibles desde los primeros días
-	* 10 guías de trabajos prácticos:
-		* Estos en general tendrán dos partes:
-			* La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución es de caracter obligatorio.
-			* La segunda constará de preguntas de desarrollo que permiten apropiarse de los conceptos subyacentes en los contenidos.
-		* La primera parte de los trabajos prácticos deberán ser entregados para su corrección y formarán parte de la nota final del curso.
-		* Se recomienda respetar las fechas de entrega acordadas durante el curso.
+El material del curso consiste en:
+* Clases grabadas disponibles desde los primeros días
+* 10 guías de trabajos prácticos. Estos en general tendrán dos partes
+	* La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución serán de caracter obligatorio.
+	* La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Se recomienda la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
+* Se recomienda respetar las fechas de entrega acordadas durante el curso.
+
+Examen Global:
+
+Una vez terminado el cronograma de las clases sincrónicas, se coordinará un examen global. Las preguntas de este examen serán similares a las preguntas conceptuales de los trabajos prácticos.
 
 Proyecto Final:
 
 Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado.
 
-Examen Global:
+Modalidades de cursado:
 
-La nota 
-        
-    * Lectures: 
-    * Lecture videos: GRABACIONES presenciales 
+1. Alumnos Inscriptos:
+	* Tendrán acceso al material.
+	* Tendrán seguimiento de avances.
+	* Serán evaluados en las tres instancian señaladas:
+		1. Ejercicios Obligatorios
+		2. Examen Global
+		3. Proyecto Final
+2. Alumnos Oyentes: 
+	* Solamente tendrán acceso al material.
+
+Prerequisistos:
+
+* Manejo básico de Python
+* Cálculo de una variable y Cálculo vectorial
+* Algebra lineal
+* Conocimiento básico de probabilidad y estadística.
+
     * Office hours:
     * Contact:
-    * oyentes y inscriptos:
-    	los oyentes tiene acceso solamente a los videos
-	los inscriptos tienen posbilidada de tener sus trabajos prácticos corregidos
 
-Content
 
-What is this course about?
+Programa:
 
-Prerequisites
-    Saber Python
-    College Calculus, Linear Algebra
-    Basic Probability and Statistics
+~~~a completar~~~
+
+Cronograma de encuentos presenciales:
+
+~~~a completar~~~
 
 Reference Texts
 
 Coursework
-
-Assignments
-
-10 tareas: será estricto con las tardanzas
-
-
-
-Final Project:
-    Competecias de Kagle
-    Los proyectos serán iniciados un mes antes de terminar el curso  
 
 Practicalities
     Team size: (si hay solo 5 personas, ¿Tiene sentido armar grupos?)
