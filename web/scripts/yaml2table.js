@@ -3,6 +3,12 @@ const yaml = require('js-yaml');
 
 const args = process.argv;
 
+const targetDir = args[3] ?? '.'
+
+if (!fs.existsSync(targetDir)){
+  fs.mkdirSync(targetDir)
+}
+
 const file = fs.readFileSync(args[2], 'utf8')
 const doc = yaml.load(file)
 
@@ -43,4 +49,6 @@ for (const row of doc.body) {
 out.push('  </tbody>')
 out.push('</table>')
 
-fs.writeFileSync(args[3], out.join('\n'))
+const filename = args[2].replace(/\.\w+$/, '.html')
+
+fs.writeFileSync(`${targetDir}/${filename}`, out.join('\n'))

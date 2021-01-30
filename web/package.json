@@ -4,9 +4,9 @@
   "description": "Very simple static site generator",
   "main": "index.js",
   "scripts": {
-    "build-cal": "node yaml2table.js calendario.yml calendario.md",
-    "build-md": "node md2html.js '*.md'",
-    "build-lay": "node renderLayout.js '*.html' layout.mustache index.html",
+    "build-md": "node scripts/md2html.js '*.md' tmp",
+    "build-cal": "node scripts/yaml2table.js calendario.yml tmp",
+    "build-lay": "node scripts/renderLayout.js 'tmp/*.html' layout.mustache build/index.html",
     "watch": "onchange '*.mustache' -- npm run build",
     "serve": "browser-sync --files '*.html,*.css'"
   },
