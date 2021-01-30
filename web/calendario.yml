@@ -1,0 +1,34 @@
+---
+header:
+  tipo: Event type
+  fecha: Date
+  desc: Description
+  rec: Course materials
+
+body:
+- tipo: Lecture 4
+  fecha: Thursday April 16
+  desc: |
+    Neural Networks and Backpropagation
+    Backpropagation
+    Multi-layer Perceptrons
+    The neural viewpoint
+  rec: |
+    [slides](url)
+    [backprop notes](url)
+    [linear backprop example](url)
+    [derivatives notes](url) (optional)
+    [Efficient BackProp](url) (optional)
+- tipo: Discussion Section
+  fecha: Friday April 17
+  desc: Backprop tutorial
+  rec: |
+    [slides](url)
+    [annotated slides](url)
+  class: práctica
+- tipo: A1 Due
+  fecha: Wednesday April 22
+  desc: |
+    Assignment 1 due
+    kNN, SVM, SoftMax, two-layer network
+  class: entrega
