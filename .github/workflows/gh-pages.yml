@@ -16,8 +16,8 @@ jobs:
         run: |
           cd web
           npm install
-          npm run build-cal
           npm run build-md
+          npm run build-cal
           npm run build-lay
 
       - name: Deploy 🚀
@@ -25,5 +25,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: web
+          FOLDER: web/build
           CLEAN: true
