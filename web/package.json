@@ -6,7 +6,7 @@
   "scripts": {
     "build-md": "node scripts/md2html.js '*.md' tmp",
     "build-yml": "node scripts/yaml2table.js 05_CALENDARIO.yml tmp",
-    "build-layout": "node scripts/renderLayout.js 'tmp/*.html' LAYOUT.mustache build/index.html",
+    "build-layout": "node scripts/renderLayout.js 'tmp/*.html' 00_LAYOUT.mustache build/index.html",
     "build": "npm run build-md && npm run build-yml && npm run build-layout",
     "watch": "onchange '*.mustache' -- npm run build",
     "serve": "browser-sync --files '*.html,*.css'"
