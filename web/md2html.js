@@ -4,7 +4,7 @@ const showdown = require('showdown')
 
 const args = process.argv;
 
-const converter = new showdown.Converter()
+const converter = new showdown.Converter({ headerLevelStart: 2 })
 
 fg.sync(args[2]).forEach(path => {
   console.log(`Converting ${path} to HTML...`)
