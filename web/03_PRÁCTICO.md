@@ -1,5 +1,5 @@
-Tareas
-======
+Práctico
+========
 
 When to Hand in
 ---------------

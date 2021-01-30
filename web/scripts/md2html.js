@@ -10,7 +10,7 @@ if (!fs.existsSync(targetDir)){
   fs.mkdirSync(targetDir)
 }
 
-const converter = new showdown.Converter({ headerLevelStart: 2 })
+const converter = new showdown.Converter({ headerLevelStart: 2, noHeaderId: true })
 
 fg.sync(args[2]).forEach(path => {
   console.log(`Converting ${path} to HTML...`)
