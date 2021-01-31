@@ -5,7 +5,7 @@
     @apply text-3xl;
   }
   h2 {
-    @apply text-2xl mt-8;
+    @apply text-2xl mt-8 text-yellow-500;
   }
   h3 {
     @apply text-xl mt-6;
@@ -21,6 +21,9 @@
   }
   table {
     @apply table-auto;
+  }
+  ul {
+    @apply list-disc list-inside;
   }
 }
 
