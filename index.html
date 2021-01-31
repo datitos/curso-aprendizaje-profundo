@@ -1,159 +1,178 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8X222K8YZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-V8X222K8YZ');
+  </script>
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-  <!--<link href="tailwind.css" rel="stylesheet">-->
+  <!--<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">-->
+  <link href="styles.css" rel="stylesheet">
 </head>
-<body>
-  <h1>Aprendizaje profundo</h1>
-  Datitos / Otoño 2021
+<body class="bg-purple-100">
+  <div class="md:container md:mx-auto">
+    <div class="text-center">
+      <h1>Aprendizaje profundo</h1>
+      por Datitos / Otoño 2021
+    </div>
 
-  <p>Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.</p>
+    <p>Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.</p>
 
-  <h2>Instructores</h2>
+    <h2>Instructores</h2>
 
-  ...
+    Luciano
+    Pablo
+    Matías
 
-  <h2>Logística</h2>
-  <ul>
-  <li>Lectures: are on Tuesday/Thursday 4:30-5:50pm Pacific Time (Remote, Zoom link is posted on Canvas).</li>
-  <li>Lecture videos for enrolled students: are posted on Canvas (requires login) shortly after each lecture ends. Unfortunately, it is not possible to make these videos viewable by non-enrolled students.</li>
-  <li>Publicly available lecture videos and versions of the course: Complete videos from the 2019 edition are available (free!) on the Stanford Online Hub and on the CS224N YouTube channel. Anyone is welcome to enroll in XCS224N: Natural Language Processing with Deep Learning, the Stanford Artificial Intelligence Professional Program version of this course, throughout the year (medium fee, community TAs and certificate). You can enroll in CS224N via Stanford online in the (northern hemisphere) Autumn to do the course in the Winter (high cost, gives Stanford credit). The lecture slides and assignments are updated online each year as the course progresses. We are happy for anyone to use these resources, but we are happy to get acknowledgements.</li>
-  <li>Office hours: We've switched to using Nooks for office hours. Information here.</li>
-  <li>Contact: Students should ask all course-related questions in the Ed forum (not Piazza), where you will also find announcements. For external enquiries, emergencies, or personal matters that you don't wish to put in a private Ed post, you can email us at cs224n-win2021-staff@lists.stanford.edu.</li>
-  </ul>
-  <h2>Contenido</h2>
-  <h3>What is this course about?</h3>
-  <p>Natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, etc. In recent years, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. As piloted last year, CS224n will be taught using PyTorch this year.</p>
-  <h3>Prerequisites</h3>
-  <h4>Proficiency in Python</h4>
-  <p>All class assignments will be in Python (using NumPy and PyTorch). If you need to remind yourself of Python, or you're not very familiar with NumPy, you can come to the Python review session in week 1 (listed in the schedule). If you have a lot of programming experience but in a different language (e.g. C/C++/Matlab/Java/Javascript), you will probably be fine.</p>
-  <h4>College Calculus, Linear Algebra (e.g. MATH 51, CME 100)</h4>
-  <p>You should be comfortable taking (multivariable) derivatives and understanding matrix/vector notation and operations.</p>
-  <h4>Basic Probability and Statistics (e.g. CS 109 or equivalent)</h4>
-  <p>You should know basics of probabilities, gaussian distributions, mean, standard deviation, etc.</p>
-  <h4>Foundations of Machine Learning (e.g. CS221, CS229, or CS230)</h4>
-  <p>We will be formulating cost functions, taking derivatives and performing optimization with gradient descent. If you already have basic machine learning and/or deep learning knowledge, the course will be easier; however it is possible to take CS224n without it. There are many introductions to ML, in webpage, book, and video form. One approachable introduction is Hal Daumé’s in-progress A Course in Machine Learning. Reading the first 5 chapters of that book would be good background. Knowing the first 7 chapters would be even better!</p>
-  <h3>Recursos de referencia</h3>
-  <p>The following texts are useful, but none are required. All of them can be read free online.</p>
-  <ul>
-  <li>Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)</li>
-  <li>Jacob Eisenstein. Natural Language Processing</li>
-  <li>Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing</li>
-  </ul>
+    <h2>Logística</h2>
+    <ul>
+    <li>Lectures: are on Tuesday/Thursday 4:30-5:50pm Pacific Time (Remote, Zoom link is posted on Canvas).</li>
+    <li>Lecture videos for enrolled students: are posted on Canvas (requires login) shortly after each lecture ends. Unfortunately, it is not possible to make these videos viewable by non-enrolled students.</li>
+    <li>Publicly available lecture videos and versions of the course: Complete videos from the 2019 edition are available (free!) on the Stanford Online Hub and on the CS224N YouTube channel. Anyone is welcome to enroll in XCS224N: Natural Language Processing with Deep Learning, the Stanford Artificial Intelligence Professional Program version of this course, throughout the year (medium fee, community TAs and certificate). You can enroll in CS224N via Stanford online in the (northern hemisphere) Autumn to do the course in the Winter (high cost, gives Stanford credit). The lecture slides and assignments are updated online each year as the course progresses. We are happy for anyone to use these resources, but we are happy to get acknowledgements.</li>
+    <li>Office hours: We've switched to using Nooks for office hours. Information here.</li>
+    <li>Contact: Students should ask all course-related questions in the Ed forum (not Piazza), where you will also find announcements. For external enquiries, emergencies, or personal matters that you don't wish to put in a private Ed post, you can email us at cs224n-win2021-staff@lists.stanford.edu.</li>
+    </ul>
+    <h2>Contenido</h2>
+    <h3>What is this course about?</h3>
+    <p>Natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, etc. In recent years, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. As piloted last year, CS224n will be taught using PyTorch this year.</p>
+    <h3>Prerequisites</h3>
+    <h4>Proficiency in Python</h4>
+    <p>All class assignments will be in Python (using NumPy and PyTorch). If you need to remind yourself of Python, or you're not very familiar with NumPy, you can come to the Python review session in week 1 (listed in the schedule). If you have a lot of programming experience but in a different language (e.g. C/C++/Matlab/Java/Javascript), you will probably be fine.</p>
+    <h4>College Calculus, Linear Algebra (e.g. MATH 51, CME 100)</h4>
+    <p>You should be comfortable taking (multivariable) derivatives and understanding matrix/vector notation and operations.</p>
+    <h4>Basic Probability and Statistics (e.g. CS 109 or equivalent)</h4>
+    <p>You should know basics of probabilities, gaussian distributions, mean, standard deviation, etc.</p>
+    <h4>Foundations of Machine Learning (e.g. CS221, CS229, or CS230)</h4>
+    <p>We will be formulating cost functions, taking derivatives and performing optimization with gradient descent. If you already have basic machine learning and/or deep learning knowledge, the course will be easier; however it is possible to take CS224n without it. There are many introductions to ML, in webpage, book, and video form. One approachable introduction is Hal Daumé’s in-progress A Course in Machine Learning. Reading the first 5 chapters of that book would be good background. Knowing the first 7 chapters would be even better!</p>
+    <h3>Recursos de referencia</h3>
+    <p>The following texts are useful, but none are required. All of them can be read free online.</p>
+    <ul>
+    <li>Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)</li>
+    <li>Jacob Eisenstein. Natural Language Processing</li>
+    <li>Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing</li>
+    </ul>
 
-  <h2>Proyecto</h2>
-  <h3>Overview</h3>
-  <p>The Course Project is an opportunity for you to apply what you have learned in class to a problem of your interest. Potential projects usually fall into these two tracks:</p>
-  <ul>
-  <li>Applications. If you're coming to the class with a specific background and interests (e.g. biology, engineering, physics), we'd love to see you apply ConvNets to problems related to your particular domain of interest. Pick a real-world problem and apply ConvNets to solve it.</li>
-  <li>Models. You can build a new model (algorithm) with ConvNets, or a new variant of existing models, and apply it to tackle vision tasks. This track might be more challenging, and sometimes leads to a piece of publishable work.</li>
-  </ul>
-  <p>One restriction to note is that this is a Computer Vision class, so your project should involve pixels of visual data in some form somewhere. E.g. a pure NLP project is not a good choice, even if your approach involves ConvNets.</p>
-  <p>To get a better feeling for what we expect from CS231n projects, we encourage you to take a look at the project reports from previous years:</p>
-  <ul>
-  <li>Spring 2017</li>
-  <li>Winter 2016</li>
-  <li>Winter 2015</li>
-  </ul>
-  <p>To inspire ideas, you might also look at recent deep learning publications from top-tier conferences, as well as other resources below.</p>
-  <ul>
-  <li>CVPR: IEEE Conference on Computer Vision and Pattern Recognition</li>
-  <li>ICCV: International Conference on Computer Vision</li>
-  <li>ECCV: European Conference on Computer Vision</li>
-  <li>NIPS: Neural Information Processing Systems</li>
-  <li>ICLR: International Conference on Learning Representations</li>
-  <li>ICML: International Conference on Machine Learning</li>
-  <li>Publications from the Stanford Vision Lab</li>
-  <li>Awesome Deep Vision</li>
-  <li>Past CS229 Projects: Example projects from Stanford's machine learning class</li>
-  <li>Kaggle challenges: An online machine learning competition website. For example, a Yelp classification challenge.</li>
-  </ul>
-  <h3>Hay más</h3>
-  <p>Sigue…</p>
-  <h2>Calendario</h2>
+    <h2>Proyecto</h2>
+    <h3>Overview</h3>
+    <p>The Course Project is an opportunity for you to apply what you have learned in class to a problem of your interest. Potential projects usually fall into these two tracks:</p>
+    <ul>
+    <li>Applications. If you're coming to the class with a specific background and interests (e.g. biology, engineering, physics), we'd love to see you apply ConvNets to problems related to your particular domain of interest. Pick a real-world problem and apply ConvNets to solve it.</li>
+    <li>Models. You can build a new model (algorithm) with ConvNets, or a new variant of existing models, and apply it to tackle vision tasks. This track might be more challenging, and sometimes leads to a piece of publishable work.</li>
+    </ul>
+    <p>One restriction to note is that this is a Computer Vision class, so your project should involve pixels of visual data in some form somewhere. E.g. a pure NLP project is not a good choice, even if your approach involves ConvNets.</p>
+    <p>To get a better feeling for what we expect from CS231n projects, we encourage you to take a look at the project reports from previous years:</p>
+    <ul>
+    <li>Spring 2017</li>
+    <li>Winter 2016</li>
+    <li>Winter 2015</li>
+    </ul>
+    <p>To inspire ideas, you might also look at recent deep learning publications from top-tier conferences, as well as other resources below.</p>
+    <ul>
+    <li>CVPR: IEEE Conference on Computer Vision and Pattern Recognition</li>
+    <li>ICCV: International Conference on Computer Vision</li>
+    <li>ECCV: European Conference on Computer Vision</li>
+    <li>NIPS: Neural Information Processing Systems</li>
+    <li>ICLR: International Conference on Learning Representations</li>
+    <li>ICML: International Conference on Machine Learning</li>
+    <li>Publications from the Stanford Vision Lab</li>
+    <li>Awesome Deep Vision</li>
+    <li>Past CS229 Projects: Example projects from Stanford's machine learning class</li>
+    <li>Kaggle challenges: An online machine learning competition website. For example, a Yelp classification challenge.</li>
+    </ul>
+    <h3>Hay más</h3>
+    <p>Sigue…</p>
+    <h2>Calendario</h2>
 
-  <p>Updated lecture slides will be posted here shortly before each lecture. Other links contain last year's slides, which are mostly similar.</p>
+    <p>Updated lecture slides will be posted here shortly before each lecture. Other links contain last year's slides, which are mostly similar.</p>
 
-  <p>Lecture notes will be uploaded a few days after most lectures. The notes (which cover approximately the first half of the course content) give supplementary detail beyond the lectures.</p>
+    <p>Lecture notes will be uploaded a few days after most lectures. The notes (which cover approximately the first half of the course content) give supplementary detail beyond the lectures.</p>
 
-  <table>
-    <thead>
-      <tr>
-        <th>
-          Event type
-        </th>
-        <th>
-          Date
-        </th>
-        <th>
-          Description
-        </th>
-        <th>
-          Course materials
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          Lecture 4
-        </td>
-        <td>
-          Thursday April 16
-        </td>
-        <td>
-          Neural Networks and Backpropagation<br>Backpropagation<br>Multi-layer Perceptrons<br>The neural viewpoint
-        </td>
-        <td>
-          [slides](url)<br>[backprop notes](url)<br>[linear backprop example](url)<br>[derivatives notes](url) (optional)<br>[Efficient BackProp](url) (optional)
-        </td>
-      </tr>
-      <tr class="práctica">
-        <td>
-          Discussion Section
-        </td>
-        <td>
-          Friday April 17
-        </td>
-        <td>
-          Backprop tutorial
-        </td>
-        <td>
-          [slides](url)<br>[annotated slides](url)
-        </td>
-      </tr>
-      <tr class="entrega">
-        <td>
-          A1 Due
-        </td>
-        <td>
-          Wednesday April 22
-        </td>
-        <td>
-          Assignment 1 due<br>kNN, SVM, SoftMax, two-layer network
-        </td>
-        <td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <h2>FAQ</h2>
-  <h4>What's the grading policy for Spring 2020?</h4>
-  <p>According to the official faculty senate legislation, grading will be Satisfactory/No Credit (S/NC) for Spring 2020. We are still deciding on the grading details, and we will be updating them soon.</p>
-  <h4>Academic accommodations:</h4>
-  <p>If you need an academic accommodation based on a disability, you should initiate the request with the Office of Accessible Education (OAE). The OAE will evaluate the request, recommend accommodations, and prepare a letter for faculty. Students should contact the OAE as soon as possible and at any rate in advance of assignment deadlines, since timely notice is needed to coordinate accommodations. It is the student’s responsibility to reach out to the teaching staff regarding the OAE letter. Please send your letters to cs231n-spr1920-staff@lists.stanford.edu</p>
-  <h4>Can I take this course on credit/no cred basis?</h4>
-  <p>Yes. Credit will be given to those who would have otherwise earned a C- or above.</p>
-  <h4>Can I audit or sit in?</h4>
-  <p>In general we are very open to auditing if you are a member of the Stanford community (registered student, staff, and/or faculty). Out of courtesy, we would appreciate that you first email us or talk to the instructor after the first class you attend.</p>
-  <h4>Can I work in groups for the Final Project?</h4>
-  <p>Yes, in groups of up to three people.</p>
-  <h4>I have a question about the class. What is the best way to reach the course staff?</h4>
-  <p>Almost all questions should be asked on Piazza. If you have a sensitive issue you can email the instructors directly.</p>
-  <h4>Can I combine the Final Project with another course?</h4>
-  <p>Yes, you may; however before doing so you must receive permission from the instructors of both courses.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>
+            Event type
+          </th>
+          <th>
+            Date
+          </th>
+          <th>
+            Description
+          </th>
+          <th>
+            Course materials
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Lecture 4
+          </td>
+          <td>
+            Thursday April 16
+          </td>
+          <td>
+            Neural Networks and Backpropagation<br>Backpropagation<br>Multi-layer Perceptrons<br>The neural viewpoint
+          </td>
+          <td>
+            [slides](url)<br>[backprop notes](url)<br>[linear backprop example](url)<br>[derivatives notes](url) (optional)<br>[Efficient BackProp](url) (optional)
+          </td>
+        </tr>
+        <tr class="práctica">
+          <td>
+            Discussion Section
+          </td>
+          <td>
+            Friday April 17
+          </td>
+          <td>
+            Backprop tutorial
+          </td>
+          <td>
+            [slides](url)<br>[annotated slides](url)
+          </td>
+        </tr>
+        <tr class="entrega">
+          <td>
+            A1 Due
+          </td>
+          <td>
+            Wednesday April 22
+          </td>
+          <td>
+            Assignment 1 due<br>kNN, SVM, SoftMax, two-layer network
+          </td>
+          <td>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>FAQ</h2>
+    <h4>What's the grading policy for Spring 2020?</h4>
+    <p>According to the official faculty senate legislation, grading will be Satisfactory/No Credit (S/NC) for Spring 2020. We are still deciding on the grading details, and we will be updating them soon.</p>
+    <h4>Academic accommodations:</h4>
+    <p>If you need an academic accommodation based on a disability, you should initiate the request with the Office of Accessible Education (OAE). The OAE will evaluate the request, recommend accommodations, and prepare a letter for faculty. Students should contact the OAE as soon as possible and at any rate in advance of assignment deadlines, since timely notice is needed to coordinate accommodations. It is the student’s responsibility to reach out to the teaching staff regarding the OAE letter. Please send your letters to cs231n-spr1920-staff@lists.stanford.edu</p>
+    <h4>Can I take this course on credit/no cred basis?</h4>
+    <p>Yes. Credit will be given to those who would have otherwise earned a C- or above.</p>
+    <h4>Can I audit or sit in?</h4>
+    <p>In general we are very open to auditing if you are a member of the Stanford community (registered student, staff, and/or faculty). Out of courtesy, we would appreciate that you first email us or talk to the instructor after the first class you attend.</p>
+    <h4>Can I work in groups for the Final Project?</h4>
+    <p>Yes, in groups of up to three people.</p>
+    <h4>I have a question about the class. What is the best way to reach the course staff?</h4>
+    <p>Almost all questions should be asked on Piazza. If you have a sensitive issue you can email the instructors directly.</p>
+    <h4>Can I combine the Final Project with another course?</h4>
+    <p>Yes, you may; however before doing so you must receive permission from the instructors of both courses.</p>
+    <h2>Formulario</h2>
+
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="700" class="mx-auto">Cargando formulario de inscripción...</iframe>
+  </div>
 </body>
 </html>
