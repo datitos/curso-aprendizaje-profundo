@@ -1,0 +1,28 @@
+@tailwind base;
+
+@layer base {
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl mt-8;
+  }
+  h3 {
+    @apply text-xl mt-6;
+  }
+  h4 {
+    @apply font-semibold mt-4;
+  }
+  p {
+    @apply my-1;
+  }
+  a {
+    @apply text-blue-600 underline;
+  }
+  table {
+    @apply table-auto;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
