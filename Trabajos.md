@@ -1,8 +1,8 @@
-Trabajo Practico 1:
+## Trabajo Practico 1:
 
   Familiarizandonos con los frameworks: Clase 1,2
   
-Trabajo Practico 2:
+## Trabajo Practico 2:
 
   Redes neuronales: Clase 3,4,7
   
@@ -11,8 +11,9 @@ Trabajo Practico 2:
    Capas
    Bloques
 
-Trabajo Practico 3: 
+## Trabajo Practico 3: 
 
+  Basado en el práctico 2 de la electiva "Aprendizaje de Máquinas" de la UTN
   Selección de modelos: Clase 6
   
    Underfitting
@@ -20,25 +21,29 @@ Trabajo Practico 3:
    Dropout
    Regulurización
 
-Trabajo Practico 4: 
+## Trabajo Practico 4: 
 
+  Basado en el assignment 2 (ConvolutionalNetworks.ipynb y PyTorch.ipynb) Y 3 (NetworkVisualization-PyTorch.ipynb) de CS231n: Convolutional Neural Networks for Visual Recognition
   Implementación general de CNN: Clase 8
   
   Convoluciones
 
-Trabajo Practico 5:
+## Trabajo Practico 5:
 
+  Basado en el assignment 3 (StyleTransfer-PyTorch.ipynb) de CS231n: Convolutional Neural Networks for Visual Recognition
   Fine-Tuning: Clase 9,10
   
   Arquitecturas
 
-Trabajo Practico 6:
+## Trabajo Practico 6:
 
+  Basado en el assignment 3 (Generative_Adversarial_Networks_PyTorch.ipynb) de CS231n: Convolutional Neural Networks for Visual Recognition
   Convolución Transpuesta: Clase 12
   
    GANs
 
-Trabajo Practico 7:
+## Trabajo Practico 7:
+
 
   RNN y NLP: Clase 13,14,15
   
