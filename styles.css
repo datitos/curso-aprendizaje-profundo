@@ -546,6 +546,10 @@ video {
   height: auto;
 }
 
+section {
+  scroll-margin-top: 5rem;
+}
+
 h1 {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -554,40 +558,65 @@ h1 {
 h2 {
   font-size: 1.5rem;
   line-height: 2rem;
+  margin-bottom: 0.75rem;
   margin-top: 2rem;
   --tw-text-opacity: 1;
-  color: rgba(245, 158, 11, var(--tw-text-opacity));
+  color: rgba(239, 68, 68, var(--tw-text-opacity));
 }
 
 h3 {
   font-size: 1.25rem;
   line-height: 1.75rem;
-  margin-top: 1.5rem;
+  margin-top: 0.75rem;
 }
 
 h4 {
   font-weight: 600;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
 
-p {
+p, ul {
   margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-}
-
-a {
-  --tw-text-opacity: 1;
-  color: rgba(37, 99, 235, var(--tw-text-opacity));
-  text-decoration: underline;
-}
-
-table {
-  table-layout: auto;
 }
 
 ul {
   list-style-position: inside;
   list-style-type: disc;
+}
+
+a {
+  --tw-text-opacity: 1;
+  color: rgba(37, 99, 235, var(--tw-text-opacity));
+}
+
+table {
+  margin-top: 1rem;
+  table-layout: auto;
+  width: 100%;
+}
+
+th, td {
+  padding: 0.5rem;
+}
+
+th {
+  text-align: left;
+}
+
+tbody > tr {
+  --tw-border-opacity: 1;
+  border-color: rgba(248, 113, 113, var(--tw-border-opacity));
+  border-top-width: 1px;
+}
+
+.práctica {
+  --tw-bg-opacity: 1;
+  background-color: rgba(199, 210, 254, var(--tw-bg-opacity));
+}
+
+.entrega {
+  --tw-bg-opacity: 1;
+  background-color: rgba(253, 230, 138, var(--tw-bg-opacity));
 }
 
 .container {
