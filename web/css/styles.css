@@ -1,29 +1,47 @@
 @tailwind base;
 
 @layer base {
+  section {
+    scroll-margin-top: 5rem;
+  }
   h1 {
     @apply text-3xl;
   }
   h2 {
-    @apply text-2xl mt-8 text-yellow-500;
+    @apply text-2xl text-red-500 mt-8 mb-3;
   }
   h3 {
-    @apply text-xl mt-6;
+    @apply text-xl mt-3;
   }
   h4 {
-    @apply font-semibold mt-4;
+    @apply font-semibold mt-3;
   }
-  p {
-    @apply my-1;
-  }
-  a {
-    @apply text-blue-600 underline;
-  }
-  table {
-    @apply table-auto;
+  p, ul {
+    @apply mt-1;
   }
   ul {
     @apply list-disc list-inside;
+  }
+  a {
+    @apply text-blue-600;
+  }
+  table {
+    @apply table-auto w-full mt-4;
+  }
+  th, td {
+    @apply p-2;
+  }
+  th {
+    @apply text-left;
+  }
+  tbody > tr {
+    @apply border-t border-red-400;
+  }
+  .práctica {
+    @apply bg-indigo-200;
+  }
+  .entrega {
+    @apply bg-yellow-200;
   }
 }
 

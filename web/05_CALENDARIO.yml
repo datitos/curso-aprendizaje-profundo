@@ -9,22 +9,22 @@ body:
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
-    Neural Networks and Backpropagation
+    <b>Neural Networks and Backpropagation</b>
     Backpropagation
     Multi-layer Perceptrons
     The neural viewpoint
   rec: |
-    [slides](url)
-    [backprop notes](url)
-    [linear backprop example](url)
-    [derivatives notes](url) (optional)
-    [Efficient BackProp](url) (optional)
+    <a href="#">slides</a>
+    backprop notes
+    linear backprop example
+    derivatives notes (optional)
+    Efficient BackProp (optional)
 - tipo: Discussion Section
   fecha: Friday April 17
   desc: Backprop tutorial
   rec: |
-    [slides](url)
-    [annotated slides](url)
+    slides
+    annotated slides
   class: práctica
 - tipo: A1 Due
   fecha: Wednesday April 22

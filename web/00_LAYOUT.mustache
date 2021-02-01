@@ -11,47 +11,89 @@
     gtag('config', 'G-V8X222K8YZ');
   </script>
 
+  <title>AP 2021</title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!--<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">-->
   <link href="styles.css" rel="stylesheet">
 </head>
 <body class="bg-purple-100">
-  <div class="md:container md:mx-auto">
-    <div class="text-center">
+  <nav class="h-12 bg-white fixed top-0 inset-x-0 z-50">
+    <div class="container mx-auto px-4 max-w-screen-xl w-full h-full flex justify-start items-center">
+      <a href="#" class="flex items-center">
+        <img height="20" src="img/nyan.png" class="h-10 mr-1">
+        Datitos
+      </a>
+      <a href="#calendario" class="ml-32">
+        Calendario
+      </a>
+      <a href="#formulario" class="ml-8">
+        Inscripción
+      </a>
+    </div>
+  </nav>
+
+  <div class="container mx-auto px-4 max-w-screen-xl mt-20 mb-7">
+    <div class="text-center mb-10">
       <h1>Aprendizaje profundo</h1>
       por Datitos / Otoño 2021
     </div>
 
     <p>Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.</p>
 
-    <h2>Instructores</h2>
+    <section id="equipo">
+      <h2>Instructores</h2>
+      <div class="flex flex-wrap">
+        <div class="p-4 text-center">
+          <img src="img/luciano.jpg" class="h-32 mb-4 rounded-full">
+          Luciano Robino
+        </div>
 
-    Luciano
-    Pablo
-    Matías
+        <div class="p-4 text-center">
+          <img src="img/pablo.jpg" class="h-32 mb-4 rounded-full">
+          <a href="http://dharma.frm.utn.edu.ar/perfil/pmarinozi">Pablo Marinozi</a>
+        </div>
 
-    {{> 01_LOGÍSTICA }}
+        <div class="p-4 text-center">
+          <img src="img/matías.jpg" class="h-32 mb-4 rounded-full">
+          Matías Battocchia<br>Coordinador
+        </div>
+      </div>
+    </section>
 
-    {{> 02_CONTENIDO }}
+    <section id="info">
+      {{> 01_LOGÍSTICA }}
 
-    {{> 03_PRÁCTICOS }}
+      {{> 02_CONTENIDO }}
+    </section>
 
-    {{> 04_PROYECTO }}
+    <section id="tareas">
+      {{> 03_PRÁCTICOS }}
 
-    <h2>Calendario</h2>
+      {{> 04_PROYECTO }}
+    </section>
 
-    <p>Updated lecture slides will be posted here shortly before each lecture. Other links contain last year's slides, which are mostly similar.</p>
+    <section id="calendario">
+      <h2 >Calendario</h2>
 
-    <p>Lecture notes will be uploaded a few days after most lectures. The notes (which cover approximately the first half of the course content) give supplementary detail beyond the lectures.</p>
+      <p>Updated lecture slides will be posted here shortly before each lecture. Other links contain last year's slides, which are mostly similar.</p>
 
-    {{> 05_CALENDARIO }}
+      <p>Lecture notes will be uploaded a few days after most lectures. The notes (which cover approximately the first half of the course content) give supplementary detail beyond the lectures.</p>
 
-    {{> 06_FAQ }}
+      {{> 05_CALENDARIO }}
+    </section>
 
-    <h2>Formulario</h2>
+    <section id="faq">
+      {{> 06_FAQ }}
+    </section>
 
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="700" class="mx-auto">Cargando formulario de inscripción...</iframe>
+    <section id="formulario">
+      <h2>Inscripción</h2>
+
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 text-center">Ir al formulario</a>
+
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="800" class="mx-auto hidden md:block">Cargando formulario de inscripción...</iframe>
+    </section>
   </div>
 </body>
 </html>
