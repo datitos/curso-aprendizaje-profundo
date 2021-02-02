@@ -1,6 +1,8 @@
+# Curso aprendizaje profundo
+
 Este curso implmentará la metodología llamada aula invertida.
 
-En un aula invertida el materal de estudio está disponible todo el tiempo para los alumnos. Además se coordinan encuentros sincrónicos entre alumnos y docentes. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. En los encuentros sincrónicos, los docentes resolverán dudas tanto conceptuales como de aplicación. Además, los encuentros sincrónicos servirán para:
+En un aula invertida: el materal de estudio está disponible todo el tiempo para los alumnos. Además se coordinan encuentros sincrónicos entre alumnos y docentes. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. En los encuentros sincrónicos, los docentes resolverán dudas tanto conceptuales como de aplicación. Además, los encuentros sincrónicos servirán para:
 
 * Hacer puestas en común
 * Resolver ejercicios
@@ -9,7 +11,7 @@ En un aula invertida el materal de estudio está disponible todo el tiempo para 
 * Proponer sugerencias
 * Promover la discusión de los temas del curso
 
-Condiciones del cursado
+## Condiciones del cursado
 
 Dadas las características de un aula invertida, las clases sincrónicas no son de carácter obligatorio. Sin embargo, dado que son clases de consulta y de puesta en común, se recomienda la asistencia para un mejor desempeño durante el cursado.
 
@@ -20,15 +22,15 @@ El material del curso consiste en:
 	* La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Se recomienda la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
 * Se recomienda respetar las fechas de entrega acordadas durante el curso.
 
-Examen Global:
+## Examen Global:
 
 Una vez terminado el cronograma de las clases sincrónicas, se coordinará un examen global. Las preguntas de este examen serán similares a las preguntas conceptuales de los trabajos prácticos.
 
-Proyecto Final:
+## Proyecto Final:
 
-Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado.
+Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Ejemplos de posibles temas se encuentran en el apartado "Proyectos Finales". Estos temas podran elegirse si alguno de los grupos no supiera que tema elegir para el trabajo final. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.
 
-Modalidades de cursado:
+## Modalidades de cursado:
 
 1. Alumnos Inscriptos:
 	* Tendrán acceso al material.
@@ -40,7 +42,7 @@ Modalidades de cursado:
 2. Alumnos Oyentes: 
 	* Solamente tendrán acceso al material.
 
-Prerequisistos:
+# Prerequisistos:
 
 * Manejo básico de Python
 * Cálculo de una variable y Cálculo vectorial
@@ -51,20 +53,48 @@ Prerequisistos:
     * Contact:
 
 
-Programa:
+## Programa:
 
-~~~a completar~~~
+### Unidad 1: Machine Learning
+
+* Machine Learning: Concepto
+* Manipulación de data-sets
+* Regresión lineal y redes de una capa
+* Perceptrones multicapa y redes multicapa
+* Overfitting y Underfitting
+* Backward propagation y Foward propagation
+* Algoritmos de optimización:
+
+	* Descenso de gradiente estocástico
+	* Momentum
+	* ADAGrad
+
+### Unidad 2 Computer Vision
+
+* Convolución: Concepto
+* Redes neuronales convolucionales
+* Arquitecturas de redes convolucionales
+* Tranfer Learning y Fine-Tuning
+* Deteccción de objetos
+* Up-Sampling y convolución transpuesta
+* Segmentación semántica
+* GANs
+
+### Unidad 3: Procesamiento de Lenguaje Natural
+
+* Modelos secuenciales y variables ocultas
+* Perplejidad, verosimilitud y entropia
+* Backpropagation dependiente del tiempo
+* Arquitecturas de RNN
+* 
 
 Cronograma de encuentos presenciales:
+
 
 ~~~a completar~~~
 
 Reference Texts
 
 Coursework
-
-Practicalities
-    Team size: (si hay solo 5 personas, ¿Tiene sentido armar grupos?)
-    (Ojo con el plagio)
 
 Schedule (in progress)
