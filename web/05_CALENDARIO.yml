@@ -73,8 +73,8 @@ body:
     <li>Bloques NiN</li>
     <li>GoogLeNet y el bloque Inception</li>
     <li>Batch Normalization</li>
-    <li>Conexiones residuales": ResNet</li>
-    <li>Bloques densos": DenseNet</li></ul>
+    <li>Conexiones residuales":" ResNet</li>
+    <li>Bloques densos":" DenseNet</li></ul>
 - tipo: Clase 10
   fecha: miércoles, 14 de abril de 2021
   desc: Transfer Learning
