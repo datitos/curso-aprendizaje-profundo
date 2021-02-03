@@ -1,7 +1,7 @@
 FAQ
 ===
 
-### What's the grading policy for Spring 2020?
+### What's the grading policy for Spring 2020? 
 According to the official faculty senate legislation, grading will be Satisfactory/No Credit (S/NC) for Spring 2020. We are still deciding on the grading details, and we will be updating them soon.
 
 ### Academic accommodations:
