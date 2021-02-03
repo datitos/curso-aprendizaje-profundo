@@ -171,7 +171,6 @@ body:
   desc: Sistemas de recomencación con datos implicitos
     <ul><li>Máquinas de factorización</li>
     <li>Máquinas de factorización Profundas</li></ul>
-
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
