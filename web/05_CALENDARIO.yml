@@ -14,7 +14,6 @@ body:
     <li> Tipo de problemas de aprendizaje </li>
     <li> Aprendizaje profundo en la vida cotidiana </li>
     </ul>
-  rec:  
 - tipo: 2. Implementación de los modelos
   fecha: 19/02/2021
   desc: | 
@@ -45,7 +44,6 @@ body:
     <li> Implementación desde cero </li>
     <li> Implementación usando frameworks </li>
     </ul>
-  rec: 
 - tipo: 5. MLP a medida
   fecha: 01/03/2021
   desc: | 
@@ -56,7 +54,6 @@ body:
     <li> Operaciones de I/O </li>
     <li> GPU </li>
     </ul>
-  rec: 
 - tipo: 6. Algoritmos de Optimización
   fecha: 05/03/2021
   desc: | 
@@ -67,7 +64,6 @@ body:
     <li> ADAGRAD </li>
     <li> ADAM </li>
     </ul>
-  rec: 
 - tipo: 7. Selección de modelos
   fecha: 08/03/2021
   desc: | 
@@ -77,7 +73,6 @@ body:
     <li> Regularización de los pesos </li>
     <li> Dropout </li>
     </ul>
-  rec: 
 - tipo: 8. Redes convolucionales (CNN)
   fecha: 12/03/2021
   desc: | 
@@ -88,7 +83,6 @@ body:
     <li> Arquitectura LeNet </li>
     <li> Implementacion de LeNet </li>
     </ul>
-  rec: 
 - tipo: 9. Arquitecturas CNN Modernas
   fecha: 15/03/2021
   desc: | 
@@ -101,7 +95,6 @@ body:
     <li> Conexiones residuales: ResNet </li>
     <li> Bloques densos: DenseNet </li>
     </ul>
-  rec: 
 - tipo: 10. Transfer Learning
   fecha: 19/03/2021
   desc: | 
@@ -110,7 +103,6 @@ body:
     <li> Fine-Tuning </li>
     <li> Aplicación: Transferencia de estilos </li>
     </ul>
-  rec: 
 - tipo: 11. Detección de Objetos
   fecha: 22/03/2021
   desc: | 
@@ -119,7 +111,6 @@ body:
     <li> Detección multiescala: SSD </li>
     <li> Detección basada en regiones: R-CNN </li>
     </ul>
-  rec: 
 - tipo: 12. Upsampling
   fecha: 26/03/2021
   desc: | 
@@ -128,9 +119,7 @@ body:
     <li> Segmentación semática: FCN </li>
     <li> Modelos generativos: GANs </li>
     </ul>
-  rec: 
--
-  tipo: 13. Redes recurrentes: RNN
+- tipo: 13. Redes recurrentes: RNN
   fecha: 29/03/2021
   desc: | 
     <ul>
@@ -141,7 +130,6 @@ body:
     <li> Implementación desde cero </li>
     <li> Implementación usando frameworks </li>
     </ul>
-  rec: 
 - tipo: 14. Arquitecturas RNN Modernas
   fecha: 02/04/2021
   desc: | 
@@ -150,7 +138,6 @@ body:
     <li> Recurrencia con memoria: LSTM </li>
     <li> Recurrencia bidireccional </li>
     </ul>
-  rec: 
 - tipo: 15. Analisis de sentimiento
   fecha: 05/04/2021
   desc: | 
@@ -158,7 +145,6 @@ body:
     <li> Implementación con RNN </li>
     <li> Implementación con CNN </li>
     </ul>
-  rec: 
 - tipo: 16. Traducción automática
   fecha: 09/04/2021
   desc: | 
@@ -169,7 +155,6 @@ body:
     <li> Embeddings de morfemas: fastText </li>
     <li> Implementación con RNN </li>
     </ul>
-  rec: 
 - tipo: 17. Mecanismo de atencion
   fecha: 12/04/2021
   desc: | 
@@ -178,7 +163,6 @@ body:
     <li> Pooling de atención </li>
     <li> Métricas de atención </li>
     </ul>
-  rec: 
 - tipo: 18. Atención en RNN
   fecha: 16/04/2021
   desc: | 
@@ -187,7 +171,6 @@ body:
     <li> Multiples cabezales </li>
     <li> Autoatención </li>
     </ul>
-  rec: 
 - tipo: 19. Transformers
   fecha: 19/04/2021
   desc: | 
@@ -197,7 +180,6 @@ body:
     <li> Atención con máscaras </li>
     <li> Codificación posicional </li>
     </ul>
-  rec: 
 - tipo: 20. Transformers bidireccionales: BERT
   fecha: 23/04/2021
   desc: | 
@@ -206,7 +188,6 @@ body:
     <li> Arquitectura independiete de la tarea </li>
     <li> Modelado del lenguaje con máscaras </li>
     </ul>
-  rec: 
 - tipo: 21. Aplicaciones de BERT
   fecha: 26/04/2021
   desc: | 
@@ -216,7 +197,6 @@ body:
     <li> Respuesta automatizada a preguntas </li>
     <li> Inferencia del lenguaje </li>
     </ul>
-  rec: 
 - tipo: 22. Sistemas de recomencación con datos explicitos
   fecha: 30/04/2021
   desc: | 
@@ -225,7 +205,6 @@ body:
     <li> Factorización de matrices </li>
     <li> Predicción de calificación con autoencoder </li>
     </ul>
-  rec: 
 - tipo: 23. Sistemas de recomendación con ranking
   fecha: 03/05/2021
   desc: | 
@@ -235,15 +214,14 @@ body:
     <li> Factorización de matrices con MLP: NeuMF </li>
     <li> Sensibildiad a la secuencia:  Caser </li>
     </ul>
-  rec: 
 - tipo: 24. Sistemas de recomencación con datos implicitos
   fecha: 07/05/2021
   desc: | 
     <ul>
     <li> Máquinas de factorización </li>
     <li> Máquinas de factorización Profundas </li>
-    </ul>
-  rec:  
+    </ul> 
+
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
