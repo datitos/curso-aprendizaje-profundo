@@ -1,249 +1,249 @@
 ---
 header:
-    tipo: ""
-    fecha: Fecha
-    desc: Descripción
-    rec: Recursos
+  tipo:   
+  fecha: Fecha
+  desc: Descripción
+  rec: Recursos
 
 body:
--   tipo: 1. Introducción, motivación y bienvenida
-    fecha: 15/02/2021
-    desc: | 
-        <ul> 
-        <li> <li> Definición de componentes claves  </li> </li>
-        <li> Tipo de problemas de aprendizaje </li>
-        <li> Aprendizaje profundo en la vida cotidiana </li>
-        </ul>
-    rec: | 
--   tipo: 2. Implementación de los modelos
-    fecha: 19/02/2021
-    desc: | 
-        <ul>
-        <li> Frameworks de aprendizaje profundo </li>
-        <li> Entornos de ejecución </li>
-        <li> Manipulación y preprocesamiento de datos </li>
-        <li> Cálculo automático de gradientes </li>
-        </ul>
-    rec: | 
--   tipo: 3. Redes neuronales de una capa
-    fecha: 22/02/2021
-    desc: | 
-        <ul>
-        <li> Regresión lineal </li>
-        <li> Regresión SoftMax </li>
-        <li> Implementación desde cero </li>
-        <li> Implementación usando frameworks </li>
-        </ul>
-    rec: |
--   tipo: 4. Redes neuronales de multicapa
-    fecha: 26/02/2021
-    desc: | 
-        <ul>
-        <li> Perceptrón Multicapa (MLP) </li>
-        <li> Foward Propagation </li>
-        <li> Backward Propagation </li>
-        <li> Implementación desde cero </li>
-        <li> Implementación usando frameworks </li>
-        </ul>
-    rec: |
--   tipo: 5. MLP a medida
-    fecha: 01/03/2021
-    desc: | 
-        <ul>
-        <li> Capas y Bloques </li>
-        <li> Capas diseñadas a medida </li>
-        <li> Inicialización y manejo de parámetros </li>
-        <li> Operaciones de I/O </li>
-        <li> GPU </li>
-        </ul>
-    rec: |
--   tipo: 6. Algoritmos de Optimización
-    fecha: 05/03/2021
-    desc: | 
-        <ul>
-        <li> Descenso de gradiente </li>
-        <li> Descenso estocástico de gradiente </li>
-        <li> Momentum </li>
-        <li> ADAGRAD </li>
-        <li> ADAM </li>
-        </ul>
-    rec: |
--   tipo: 7. Selección de modelos
-    fecha: 08/03/2021
-    desc: | 
-        <ul>
-        <li> Underfittng </li>
-        <li> Overfitting </li>
-        <li> Regularización de los pesos </li>
-        <li> Dropout </li>
-        </ul>
-    rec: |
--   tipo: 8. Redes convolucionales (CNN)
-    fecha: 12/03/2021
-    desc: | 
-        <ul>
-        <li> Convoluciones en imágenes </li>
-        <li> Pooling </li>
-        <li> Padding y striding </li>
-        <li> Arquitectura LeNet </li>
-        <li> Implementacion de LeNet </li>
-        </ul>
-    rec: |
--   tipo: 9. Arquitecturas CNN Modernas
-    fecha: 15/03/2021
-    desc: | 
-        <ul>
-        <li> AlexNet e ImageNet </li>
-        <li> Bloques VGG </li>
-        <li> Bloques NiN </li>
-        <li> GoogLeNet y el bloque Inception </li>
-        <li> Batch Normalization </li>
-        <li> Conexiones residuales: ResNet </li>
-        <li> Bloques densos: DenseNet </li>
-        </ul>
-    rec: |
--   tipo: 10. Transfer Learning
-    fecha: 19/03/2021
-    desc: | 
-        <ul>
-        <li> Redes preentrenadas </li>
-        <li> Fine-Tuning </li>
-        <li> Aplicación: Transferencia de estilos </li>
-        </ul>
-    rec: |
--   tipo: 11. Detección de Objetos
-    fecha: 22/03/2021
-    desc: | 
-        <ul>
-        <li> Bounding Boxes </li>
-        <li> Detección multiescala: SSD </li>
-        <li> Detección basada en regiones: R-CNN </li>
-        </ul>
-    rec: |
--   tipo: 12. Upsampling
-    fecha: 26/03/2021
-    desc: | 
-        <ul>
-        <li> Convolución traspuesta </li>
-        <li> Segmentación semática: FCN </li>
-        <li> Modelos generativos: GANs </li>
-        </ul>
-    rec: |
+- tipo: 1. Introducción, motivación y bienvenida
+  fecha: 15/02/2021
+  desc: | 
+    <ul> 
+    <li> <li> Definición de componentes claves  </li> </li>
+    <li> Tipo de problemas de aprendizaje </li>
+    <li> Aprendizaje profundo en la vida cotidiana </li>
+    </ul>
+  rec:  
+- tipo: 2. Implementación de los modelos
+  fecha: 19/02/2021
+  desc: | 
+    <ul>
+    <li> Frameworks de aprendizaje profundo </li>
+    <li> Entornos de ejecución </li>
+    <li> Manipulación y preprocesamiento de datos </li>
+    <li> Cálculo automático de gradientes </li>
+    </ul>
+  rec:  
+- tipo: 3. Redes neuronales de una capa
+  fecha: 22/02/2021
+  desc: | 
+    <ul>
+    <li> Regresión lineal </li>
+    <li> Regresión SoftMax </li>
+    <li> Implementación desde cero </li>
+    <li> Implementación usando frameworks </li>
+    </ul>
+  rec: 
+- tipo: 4. Redes neuronales de multicapa
+  fecha: 26/02/2021
+  desc: | 
+    <ul>
+    <li> Perceptrón Multicapa (MLP) </li>
+    <li> Foward Propagation </li>
+    <li> Backward Propagation </li>
+    <li> Implementación desde cero </li>
+    <li> Implementación usando frameworks </li>
+    </ul>
+  rec: 
+- tipo: 5. MLP a medida
+  fecha: 01/03/2021
+  desc: | 
+    <ul>
+    <li> Capas y Bloques </li>
+    <li> Capas diseñadas a medida </li>
+    <li> Inicialización y manejo de parámetros </li>
+    <li> Operaciones de I/O </li>
+    <li> GPU </li>
+    </ul>
+  rec: 
+- tipo: 6. Algoritmos de Optimización
+  fecha: 05/03/2021
+  desc: | 
+    <ul>
+    <li> Descenso de gradiente </li>
+    <li> Descenso estocástico de gradiente </li>
+    <li> Momentum </li>
+    <li> ADAGRAD </li>
+    <li> ADAM </li>
+    </ul>
+  rec: 
+- tipo: 7. Selección de modelos
+  fecha: 08/03/2021
+  desc: | 
+    <ul>
+    <li> Underfittng </li>
+    <li> Overfitting </li>
+    <li> Regularización de los pesos </li>
+    <li> Dropout </li>
+    </ul>
+  rec: 
+- tipo: 8. Redes convolucionales (CNN)
+  fecha: 12/03/2021
+  desc: | 
+    <ul>
+    <li> Convoluciones en imágenes </li>
+    <li> Pooling </li>
+    <li> Padding y striding </li>
+    <li> Arquitectura LeNet </li>
+    <li> Implementacion de LeNet </li>
+    </ul>
+  rec: 
+- tipo: 9. Arquitecturas CNN Modernas
+  fecha: 15/03/2021
+  desc: | 
+    <ul>
+    <li> AlexNet e ImageNet </li>
+    <li> Bloques VGG </li>
+    <li> Bloques NiN </li>
+    <li> GoogLeNet y el bloque Inception </li>
+    <li> Batch Normalization </li>
+    <li> Conexiones residuales: ResNet </li>
+    <li> Bloques densos: DenseNet </li>
+    </ul>
+  rec: 
+- tipo: 10. Transfer Learning
+  fecha: 19/03/2021
+  desc: | 
+    <ul>
+    <li> Redes preentrenadas </li>
+    <li> Fine-Tuning </li>
+    <li> Aplicación: Transferencia de estilos </li>
+    </ul>
+  rec: 
+- tipo: 11. Detección de Objetos
+  fecha: 22/03/2021
+  desc: | 
+    <ul>
+    <li> Bounding Boxes </li>
+    <li> Detección multiescala: SSD </li>
+    <li> Detección basada en regiones: R-CNN </li>
+    </ul>
+  rec: 
+- tipo: 12. Upsampling
+  fecha: 26/03/2021
+  desc: | 
+    <ul>
+    <li> Convolución traspuesta </li>
+    <li> Segmentación semática: FCN </li>
+    <li> Modelos generativos: GANs </li>
+    </ul>
+  rec: 
 -
-    tipo: 13. Redes recurrentes: RNN
-    fecha: 29/03/2021
-    desc: | 
-        <ul>
-        <li> Modelos secuenciales </li>
-        <li> Variables ocultas </li>
-        <li> Perplejidad, verosimilitud y entropia </li>
-        <li> Backpropagation con dependencia temporal </li>
-        <li> Implementación desde cero </li>
-        <li> Implementación usando frameworks </li>
-        </ul>
-    rec: |
--   tipo: 14. Arquitecturas RNN Modernas
-    fecha: 02/04/2021
-    desc: | 
-        <ul>
-        <li> Recurrencias con compuertas: GRU </li>
-        <li> Recurrencia con memoria: LSTM </li>
-        <li> Recurrencia bidireccional </li>
-        </ul>
-    rec: |
--   tipo: 15. Analisis de sentimiento
-    fecha: 05/04/2021
-    desc: | 
-        <ul>
-        <li> Implementación con RNN </li>
-        <li> Implementación con CNN </li>
-        </ul>
-    rec: |
--   tipo: 16. Traducción automática
-    fecha: 09/04/2021
-    desc: | 
-        <ul>
-        <li> Problemas de secuencia a secuecia: Seq2Seq </li>
-        <li> Embeddings de palabras: Word2Vec </li>
-        <li> Embeddings de palabras: GloVe </li>
-        <li> Embeddings de morfemas: fastText </li>
-        <li> Implementación con RNN </li>
-        </ul>
-    rec: |
--   tipo: 17. Mecanismo de atencion
-    fecha: 12/04/2021
-    desc: | 
-        <ul>
-        <li> Concepto de atención </li>
-        <li> Pooling de atención </li>
-        <li> Métricas de atención </li>
-        </ul>
-    rec: |
--   tipo: 18. Atención en RNN
-    fecha: 16/04/2021
-    desc: | 
-        <ul>
-        <li> Modelo de Bahdanau </li>
-        <li> Multiples cabezales </li>
-        <li> Autoatención </li>
-        </ul>
-    rec: |
--   tipo: 19. Transformers
-    fecha: 19/04/2021
-    desc: | 
-        <ul>
-        <li> MLP sensible a la posición </li>
-        <li> Normalización por capas </li>
-        <li> Atención con máscaras </li>
-        <li> Codificación posicional </li>
-        </ul>
-    rec: |
--   tipo: 20. Transformers bidireccionales: BERT
-    fecha: 23/04/2021
-    desc: | 
-        <ul>
-        <li> Embeddings sensibles al contexto </li>
-        <li> Arquitectura independiete de la tarea </li>
-        <li> Modelado del lenguaje con máscaras </li>
-        </ul>
-    rec: |
--   tipo: 21. Aplicaciones de BERT
-    fecha: 26/04/2021
-    desc: | 
-        <ul>
-        <li> Predicción de próxima oraciones </li>
-        <li> Etiquetado automático </li>
-        <li> Respuesta automatizada a preguntas </li>
-        <li> Inferencia del lenguaje </li>
-        </ul>
-    rec: |
--   tipo: 22. Sistemas de recomencación con datos explicitos
-    fecha: 30/04/2021
-    desc: | 
-        <ul>
-        <li> Sistemas de recomencación: clasificación </li>
-        <li> Factorización de matrices </li>
-        <li> Predicción de calificación con autoencoder </li>
-        </ul>
-    rec: |
--   tipo: 23. Sistemas de recomendación con ranking
-    fecha: 03/05/2021
-    desc: | 
-        <ul>
-        <li> Funciones de perdida para ranking </li>
-        <li> Muestreo negativo </li>
-        <li> Factorización de matrices con MLP: NeuMF </li>
-        <li> Sensibildiad a la secuencia:  Caser </li>
-        </ul>
-    rec: |
--   tipo: 24. Sistemas de recomencación con datos implicitos
-    fecha: 07/05/2021
-    desc: | 
-        <ul>
-        <li> Máquinas de factorización </li>
-        <li> Máquinas de factorización Profundas </li>
-        </ul>
-    rec: | 
+  tipo: 13. Redes recurrentes: RNN
+  fecha: 29/03/2021
+  desc: | 
+    <ul>
+    <li> Modelos secuenciales </li>
+    <li> Variables ocultas </li>
+    <li> Perplejidad, verosimilitud y entropia </li>
+    <li> Backpropagation con dependencia temporal </li>
+    <li> Implementación desde cero </li>
+    <li> Implementación usando frameworks </li>
+    </ul>
+  rec: 
+- tipo: 14. Arquitecturas RNN Modernas
+  fecha: 02/04/2021
+  desc: | 
+    <ul>
+    <li> Recurrencias con compuertas: GRU </li>
+    <li> Recurrencia con memoria: LSTM </li>
+    <li> Recurrencia bidireccional </li>
+    </ul>
+  rec: 
+- tipo: 15. Analisis de sentimiento
+  fecha: 05/04/2021
+  desc: | 
+    <ul>
+    <li> Implementación con RNN </li>
+    <li> Implementación con CNN </li>
+    </ul>
+  rec: 
+- tipo: 16. Traducción automática
+  fecha: 09/04/2021
+  desc: | 
+    <ul>
+    <li> Problemas de secuencia a secuecia: Seq2Seq </li>
+    <li> Embeddings de palabras: Word2Vec </li>
+    <li> Embeddings de palabras: GloVe </li>
+    <li> Embeddings de morfemas: fastText </li>
+    <li> Implementación con RNN </li>
+    </ul>
+  rec: 
+- tipo: 17. Mecanismo de atencion
+  fecha: 12/04/2021
+  desc: | 
+    <ul>
+    <li> Concepto de atención </li>
+    <li> Pooling de atención </li>
+    <li> Métricas de atención </li>
+    </ul>
+  rec: 
+- tipo: 18. Atención en RNN
+  fecha: 16/04/2021
+  desc: | 
+    <ul>
+    <li> Modelo de Bahdanau </li>
+    <li> Multiples cabezales </li>
+    <li> Autoatención </li>
+    </ul>
+  rec: 
+- tipo: 19. Transformers
+  fecha: 19/04/2021
+  desc: | 
+    <ul>
+    <li> MLP sensible a la posición </li>
+    <li> Normalización por capas </li>
+    <li> Atención con máscaras </li>
+    <li> Codificación posicional </li>
+    </ul>
+  rec: 
+- tipo: 20. Transformers bidireccionales: BERT
+  fecha: 23/04/2021
+  desc: | 
+    <ul>
+    <li> Embeddings sensibles al contexto </li>
+    <li> Arquitectura independiete de la tarea </li>
+    <li> Modelado del lenguaje con máscaras </li>
+    </ul>
+  rec: 
+- tipo: 21. Aplicaciones de BERT
+  fecha: 26/04/2021
+  desc: | 
+    <ul>
+    <li> Predicción de próxima oraciones </li>
+    <li> Etiquetado automático </li>
+    <li> Respuesta automatizada a preguntas </li>
+    <li> Inferencia del lenguaje </li>
+    </ul>
+  rec: 
+- tipo: 22. Sistemas de recomencación con datos explicitos
+  fecha: 30/04/2021
+  desc: | 
+    <ul>
+    <li> Sistemas de recomencación: clasificación </li>
+    <li> Factorización de matrices </li>
+    <li> Predicción de calificación con autoencoder </li>
+    </ul>
+  rec: 
+- tipo: 23. Sistemas de recomendación con ranking
+  fecha: 03/05/2021
+  desc: | 
+    <ul>
+    <li> Funciones de perdida para ranking </li>
+    <li> Muestreo negativo </li>
+    <li> Factorización de matrices con MLP: NeuMF </li>
+    <li> Sensibildiad a la secuencia:  Caser </li>
+    </ul>
+  rec: 
+- tipo: 24. Sistemas de recomencación con datos implicitos
+  fecha: 07/05/2021
+  desc: | 
+    <ul>
+    <li> Máquinas de factorización </li>
+    <li> Máquinas de factorización Profundas </li>
+    </ul>
+  rec:  
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
