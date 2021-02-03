@@ -21,9 +21,9 @@ Este curso tiene dos modalidades de cursado
     * Tendrán acceso al material.
     * Tendrán seguimiento de avances.
     * Serán evaluados en las tres instancian señaladas:
-        - Ejercicios obligatorios
-        - Examen global
-        - Proyecto final
+        a. Ejercicios obligatorios
+        b. Examen global
+        c. Proyecto final
 2. Alumnos oyentes: 
     * Solamente tendrán acceso al material.
 
