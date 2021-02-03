@@ -7,7 +7,7 @@ header:
 
 body:
 - tipo: 1. Introducción, motivación y bienvenida
-  fecha: 15/02/2021
+  fecha: lunes, 15 de marzo de 2021
   desc: | 
     <ul> 
     <li> Definición de componentes claves  </li>
@@ -15,7 +15,7 @@ body:
     <li> Aprendizaje profundo en la vida cotidiana </li>
     </ul>
 - tipo: 2. Implementación de los modelos
-  fecha: 19/02/2021
+  fecha: miércoles, 17 de marzo de 2021
   desc: | 
     <ul>
     <li> Frameworks de aprendizaje profundo </li>
@@ -25,7 +25,7 @@ body:
     </ul>
   rec:  
 - tipo: 3. Redes neuronales de una capa
-  fecha: 22/02/2021
+  fecha: lunes, 22 de marzo de 2021
   desc: | 
     <ul>
     <li> Regresión lineal </li>
@@ -35,7 +35,7 @@ body:
     </ul>
   rec: 
 - tipo: 4. Redes neuronales de multicapa
-  fecha: 26/02/2021
+  fecha: miércoles, 24 de marzo de 2021
   desc: | 
     <ul>
     <li> Perceptrón Multicapa (MLP) </li>
@@ -45,7 +45,7 @@ body:
     <li> Implementación usando frameworks </li>
     </ul>
 - tipo: 5. MLP a medida
-  fecha: 01/03/2021
+  fecha: lunes, 29 de marzo de 2021
   desc: | 
     <ul>
     <li> Capas y Bloques </li>
@@ -55,7 +55,7 @@ body:
     <li> GPU </li>
     </ul>
 - tipo: 6. Algoritmos de Optimización
-  fecha: 05/03/2021
+  fecha: miércoles, 31 de marzo de 2021
   desc: | 
     <ul>
     <li> Descenso de gradiente </li>
@@ -65,7 +65,7 @@ body:
     <li> ADAM </li>
     </ul>
 - tipo: 7. Selección de modelos
-  fecha: 08/03/2021
+  fecha: lunes, 5 de abril de 2021
   desc: | 
     <ul>
     <li> Underfittng </li>
@@ -74,7 +74,7 @@ body:
     <li> Dropout </li>
     </ul>
 - tipo: 8. Redes convolucionales (CNN)
-  fecha: 12/03/2021
+  fecha: miércoles, 7 de abril de 2021
   desc: | 
     <ul>
     <li> Convoluciones en imágenes </li>
@@ -84,7 +84,7 @@ body:
     <li> Implementacion de LeNet </li>
     </ul>
 - tipo: 9. Arquitecturas CNN Modernas
-  fecha: 15/03/2021
+  fecha: lunes, 12 de abril de 2021
   desc: | 
     <ul>
     <li> AlexNet e ImageNet </li>
@@ -96,7 +96,7 @@ body:
     <li> Bloques densos: DenseNet </li>
     </ul>
 - tipo: 10. Transfer Learning
-  fecha: 19/03/2021
+  fecha: miércoles, 14 de abril de 2021
   desc: | 
     <ul>
     <li> Redes preentrenadas </li>
@@ -104,7 +104,7 @@ body:
     <li> Aplicación: Transferencia de estilos </li>
     </ul>
 - tipo: 11. Detección de Objetos
-  fecha: 22/03/2021
+  fecha: lunes, 19 de abril de 2021
   desc: | 
     <ul>
     <li> Bounding Boxes </li>
@@ -112,7 +112,7 @@ body:
     <li> Detección basada en regiones: R-CNN </li>
     </ul>
 - tipo: 12. Upsampling
-  fecha: 26/03/2021
+  fecha: miércoles, 21 de abril de 2021
   desc: | 
     <ul>
     <li> Convolución traspuesta </li>
@@ -120,7 +120,7 @@ body:
     <li> Modelos generativos: GANs </li>
     </ul>
 - tipo: "13. Redes recurrentes: RNN"
-  fecha: 29/03/2021
+  fecha: lunes, 26 de abril de 2021
   desc: | 
     <ul>
     <li> Modelos secuenciales </li>
@@ -131,7 +131,7 @@ body:
     <li> Implementación usando frameworks </li>
     </ul>
 - tipo: 14. Arquitecturas RNN Modernas
-  fecha: 02/04/2021
+  fecha: miércoles, 28 de abril de 2021
   desc: | 
     <ul>
     <li> Recurrencias con compuertas: GRU </li>
@@ -139,14 +139,14 @@ body:
     <li> Recurrencia bidireccional </li>
     </ul>
 - tipo: 15. Analisis de sentimiento
-  fecha: 05/04/2021
+  fecha: lunes, 3 de mayo de 2021
   desc: | 
     <ul>
     <li> Implementación con RNN </li>
     <li> Implementación con CNN </li>
     </ul>
 - tipo: 16. Traducción automática
-  fecha: 09/04/2021
+  fecha: miércoles, 5 de mayo de 2021
   desc: | 
     <ul>
     <li> Problemas de secuencia a secuecia: Seq2Seq </li>
@@ -156,7 +156,7 @@ body:
     <li> Implementación con RNN </li>
     </ul>
 - tipo: 17. Mecanismo de atencion
-  fecha: 12/04/2021
+  fecha: lunes, 10 de mayo de 2021
   desc: | 
     <ul>
     <li> Concepto de atención </li>
@@ -164,7 +164,7 @@ body:
     <li> Métricas de atención </li>
     </ul>
 - tipo: 18. Atención en RNN
-  fecha: 16/04/2021
+  fecha: miércoles, 12 de mayo de 2021
   desc: | 
     <ul>
     <li> Modelo de Bahdanau </li>
@@ -172,7 +172,7 @@ body:
     <li> Autoatención </li>
     </ul>
 - tipo: 19. Transformers
-  fecha: 19/04/2021
+  fecha: lunes, 17 de mayo de 2021
   desc: | 
     <ul>
     <li> MLP sensible a la posición </li>
@@ -181,7 +181,7 @@ body:
     <li> Codificación posicional </li>
     </ul>
 - tipo: "20. Transformers bidireccionales: BERT"
-  fecha: 23/04/2021
+  fecha: miércoles, 19 de mayo de 2021
   desc: | 
     <ul>
     <li> Embeddings sensibles al contexto </li>
@@ -189,7 +189,7 @@ body:
     <li> Modelado del lenguaje con máscaras </li>
     </ul>
 - tipo: 21. Aplicaciones de BERT
-  fecha: 26/04/2021
+  fecha: lunes, 24 de mayo de 2021
   desc: | 
     <ul>
     <li> Predicción de próxima oraciones </li>
@@ -198,7 +198,7 @@ body:
     <li> Inferencia del lenguaje </li>
     </ul>
 - tipo: 22. Sistemas de recomencación con datos explicitos
-  fecha: 30/04/2021
+  fecha: miércoles, 26 de mayo de 2021
   desc: | 
     <ul>
     <li> Sistemas de recomencación: clasificación </li>
@@ -206,7 +206,7 @@ body:
     <li> Predicción de calificación con autoencoder </li>
     </ul>
 - tipo: 23. Sistemas de recomendación con ranking
-  fecha: 03/05/2021
+  fecha: lunes, 31 de mayo de 2021
   desc: | 
     <ul>
     <li> Funciones de perdida para ranking </li>
@@ -215,7 +215,7 @@ body:
     <li> Sensibildiad a la secuencia:  Caser </li>
     </ul>
 - tipo: 24. Sistemas de recomencación con datos implicitos
-  fecha: 07/05/2021
+  fecha: miércoles, 2 de junio de 2021
   desc: | 
     <ul>
     <li> Máquinas de factorización </li>
