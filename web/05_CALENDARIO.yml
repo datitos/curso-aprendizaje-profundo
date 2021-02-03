@@ -8,229 +8,87 @@ header:
 body:
 - tipo: 1. Introducción, motivación y bienvenida
   fecha: lunes, 15 de marzo de 2021
-  desc: | 
-    <ul> 
-    <li> Definición de componentes claves  </li>
-    <li> Tipo de problemas de aprendizaje </li>
-    <li> Aprendizaje profundo en la vida cotidiana </li>
-    </ul>
+  desc: <ul><li>Definición de componentes claves </li><li>Tipo de problemas de aprendizaje</li><li>Aprendizaje profundo en la vida cotidiana</li></ul>
+  rec:
 - tipo: 2. Implementación de los modelos
   fecha: miércoles, 17 de marzo de 2021
-  desc: | 
-    <ul>
-    <li> Frameworks de aprendizaje profundo </li>
-    <li> Entornos de ejecución </li>
-    <li> Manipulación y preprocesamiento de datos </li>
-    <li> Cálculo automático de gradientes </li>
-    </ul>
+  desc: <ul><li>Frameworks de aprendizaje profundo</li><li>Entornos de ejecución</li><li>Manipulación y preprocesamiento de datos</li><li>Cálculo automático de gradientes</li></ul>
   rec:  
 - tipo: 3. Redes neuronales de una capa
   fecha: lunes, 22 de marzo de 2021
-  desc: | 
-    <ul>
-    <li> Regresión lineal </li>
-    <li> Regresión SoftMax </li>
-    <li> Implementación desde cero </li>
-    <li> Implementación usando frameworks </li>
-    </ul>
+  desc: <ul><li>Regresión lineal</li><li>Regresión SoftMax</li><li>Implementación desde cero</li><li>Implementación usando frameworks</li></ul>
   rec: 
 - tipo: 4. Redes neuronales de multicapa
   fecha: miércoles, 24 de marzo de 2021
-  desc: | 
-    <ul>
-    <li> Perceptrón Multicapa (MLP) </li>
-    <li> Foward Propagation </li>
-    <li> Backward Propagation </li>
-    <li> Implementación desde cero </li>
-    <li> Implementación usando frameworks </li>
-    </ul>
+  desc: <ul><li>Perceptrón Multicapa (MLP)</li><li>Foward Propagation</li><li>Backward Propagation</li><li>Implementación desde cero</li><li>Implementación usando frameworks</li></ul>
 - tipo: 5. MLP a medida
   fecha: lunes, 29 de marzo de 2021
-  desc: | 
-    <ul>
-    <li> Capas y Bloques </li>
-    <li> Capas diseñadas a medida </li>
-    <li> Inicialización y manejo de parámetros </li>
-    <li> Operaciones de I/O </li>
-    <li> GPU </li>
-    </ul>
+  desc: <ul><li>Capas y Bloques</li><li>Capas diseñadas a medida</li><li>Inicialización y manejo de parámetros</li><li>Operaciones de I/O</li><li>GPU</li></ul>
 - tipo: 6. Algoritmos de Optimización
   fecha: miércoles, 31 de marzo de 2021
-  desc: | 
-    <ul>
-    <li> Descenso de gradiente </li>
-    <li> Descenso estocástico de gradiente </li>
-    <li> Momentum </li>
-    <li> ADAGRAD </li>
-    <li> ADAM </li>
-    </ul>
+  desc: <ul><li>Descenso de gradiente</li><li>Descenso estocástico de gradiente</li><li>Momentum</li><li>ADAGRAD</li><li>ADAM</li></ul>
 - tipo: 7. Selección de modelos
   fecha: lunes, 5 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Underfittng </li>
-    <li> Overfitting </li>
-    <li> Regularización de los pesos </li>
-    <li> Dropout </li>
-    </ul>
-- tipo: 8. Redes convolucionales (CNN)
+  desc: <ul><li>Underfittng</li><li>Overfitting</li><li>Regularización de los pesos</li><li>Dropout</li></ul>
+- tipo: "8. Redes convolucionales: CNN"
   fecha: miércoles, 7 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Convoluciones en imágenes </li>
-    <li> Pooling </li>
-    <li> Padding y striding </li>
-    <li> Arquitectura LeNet </li>
-    <li> Implementacion de LeNet </li>
-    </ul>
+  desc: <ul><li>Convoluciones en imágenes</li><li>Pooling</li><li>Padding y striding</li><li>Arquitectura LeNet</li><li>Implementacion de LeNet</li></ul>
 - tipo: 9. Arquitecturas CNN Modernas
   fecha: lunes, 12 de abril de 2021
-  desc: | 
-    <ul>
-    <li> AlexNet e ImageNet </li>
-    <li> Bloques VGG </li>
-    <li> Bloques NiN </li>
-    <li> GoogLeNet y el bloque Inception </li>
-    <li> Batch Normalization </li>
-    <li> Conexiones residuales: ResNet </li>
-    <li> Bloques densos: DenseNet </li>
-    </ul>
+  desc: <ul><li>AlexNet e ImageNet</li><li>Bloques VGG</li><li>Bloques NiN</li><li>GoogLeNet y el bloque Inception</li><li>Batch Normalization</li><li>Conexiones residuales: ResNet</li><li>Bloques densos: DenseNet</li></ul>
 - tipo: 10. Transfer Learning
   fecha: miércoles, 14 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Redes preentrenadas </li>
-    <li> Fine-Tuning </li>
-    <li> Aplicación: Transferencia de estilos </li>
-    </ul>
+  desc: <ul><li>Redes preentrenadas</li><li>Fine-Tuning</li><li>Aplicación: Transferencia de estilos</li></ul>
 - tipo: 11. Detección de Objetos
   fecha: lunes, 19 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Bounding Boxes </li>
-    <li> Detección multiescala: SSD </li>
-    <li> Detección basada en regiones: R-CNN </li>
-    </ul>
+  desc: <ul><li>Bounding Boxes</li><li>Detección multiescala: SSD</li><li>Detección basada en regiones: R-CNN</li></ul>
 - tipo: 12. Upsampling
   fecha: miércoles, 21 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Convolución traspuesta </li>
-    <li> Segmentación semática: FCN </li>
-    <li> Modelos generativos: GANs </li>
-    </ul>
+  desc: <ul><li>Convolución traspuesta</li><li>Segmentación semática: FCN</li><li>Modelos generativos: GANs</li></ul>
 - tipo: "13. Redes recurrentes: RNN"
   fecha: lunes, 26 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Modelos secuenciales </li>
-    <li> Variables ocultas </li>
-    <li> Perplejidad, verosimilitud y entropia </li>
-    <li> Backpropagation con dependencia temporal </li>
-    <li> Implementación desde cero </li>
-    <li> Implementación usando frameworks </li>
-    </ul>
+  desc: <ul><li>Modelos secuenciales</li><li>Variables ocultas</li><li>Perplejidad, verosimilitud y entropia</li><li>Backpropagation con dependencia temporal</li><li>Implementación desde cero</li><li>Implementación usando frameworks</li></ul>
 - tipo: 14. Arquitecturas RNN Modernas
   fecha: miércoles, 28 de abril de 2021
-  desc: | 
-    <ul>
-    <li> Recurrencias con compuertas: GRU </li>
-    <li> Recurrencia con memoria: LSTM </li>
-    <li> Recurrencia bidireccional </li>
-    </ul>
+  desc: <ul><li>Recurrencias con compuertas: GRU</li><li>Recurrencia con memoria: LSTM</li><li>Recurrencia bidireccional</li></ul>
 - tipo: 15. Analisis de sentimiento
   fecha: lunes, 3 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Implementación con RNN </li>
-    <li> Implementación con CNN </li>
-    </ul>
+  desc: <ul><li>Implementación con RNN</li><li>Implementación con CNN</li></ul>
 - tipo: 16. Traducción automática
   fecha: miércoles, 5 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Problemas de secuencia a secuecia: Seq2Seq </li>
-    <li> Embeddings de palabras: Word2Vec </li>
-    <li> Embeddings de palabras: GloVe </li>
-    <li> Embeddings de morfemas: fastText </li>
-    <li> Implementación con RNN </li>
-    </ul>
+  desc: <ul><li>Problemas de secuencia a secuecia: Seq2Seq</li><li>Embeddings de palabras: Word2Vec</li><li>Embeddings de palabras: GloVe</li><li>Embeddings de morfemas: fastText</li><li>Implementación con RNN</li></ul>
 - tipo: 17. Mecanismo de atencion
   fecha: lunes, 10 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Concepto de atención </li>
-    <li> Pooling de atención </li>
-    <li> Métricas de atención </li>
-    </ul>
+  desc: <ul><li>Concepto de atención</li><li>Pooling de atención</li><li>Métricas de atención</li></ul>
 - tipo: 18. Atención en RNN
   fecha: miércoles, 12 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Modelo de Bahdanau </li>
-    <li> Multiples cabezales </li>
-    <li> Autoatención </li>
-    </ul>
+  desc: <ul><li>Modelo de Bahdanau</li><li>Multiples cabezales</li><li>Autoatención</li></ul>
 - tipo: 19. Transformers
   fecha: lunes, 17 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> MLP sensible a la posición </li>
-    <li> Normalización por capas </li>
-    <li> Atención con máscaras </li>
-    <li> Codificación posicional </li>
-    </ul>
+  desc: <ul><li>MLP sensible a la posición</li><li>Normalización por capas</li><li>Atención con máscaras</li><li>Codificación posicional</li></ul>
 - tipo: "20. Transformers bidireccionales: BERT"
   fecha: miércoles, 19 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Embeddings sensibles al contexto </li>
-    <li> Arquitectura independiete de la tarea </li>
-    <li> Modelado del lenguaje con máscaras </li>
-    </ul>
+  desc: <ul><li>Embeddings sensibles al contexto</li><li>Arquitectura independiete de la tarea</li><li>Modelado del lenguaje con máscaras</li></ul>
 - tipo: 21. Aplicaciones de BERT
   fecha: lunes, 24 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Predicción de próxima oraciones </li>
-    <li> Etiquetado automático </li>
-    <li> Respuesta automatizada a preguntas </li>
-    <li> Inferencia del lenguaje </li>
-    </ul>
+  desc: <ul><li>Predicción de próxima oraciones</li><li>Etiquetado automático</li><li>Respuesta automatizada a preguntas</li><li>Inferencia del lenguaje</li></ul>
 - tipo: 22. Sistemas de recomencación con datos explicitos
   fecha: miércoles, 26 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Sistemas de recomencación: clasificación </li>
-    <li> Factorización de matrices </li>
-    <li> Predicción de calificación con autoencoder </li>
-    </ul>
+  desc: <ul><li>Sistemas de recomencación: clasificación</li><li>Factorización de matrices</li><li>Predicción de calificación con autoencoder</li></ul>
 - tipo: 23. Sistemas de recomendación con ranking
   fecha: lunes, 31 de mayo de 2021
-  desc: | 
-    <ul>
-    <li> Funciones de perdida para ranking </li>
-    <li> Muestreo negativo </li>
-    <li> Factorización de matrices con MLP: NeuMF </li>
-    <li> Sensibildiad a la secuencia:  Caser </li>
-    </ul>
+  desc: <ul><li>Funciones de perdida para ranking</li><li>Muestreo negativo</li><li>Factorización de matrices con MLP: NeuMF</li><li>Sensibildiad a la secuencia:  Caser</li></ul>
 - tipo: 24. Sistemas de recomencación con datos implicitos
   fecha: miércoles, 2 de junio de 2021
-  desc: | 
-    <ul>
-    <li> Máquinas de factorización </li>
-    <li> Máquinas de factorización Profundas </li>
-    </ul> 
+  desc: <ul><li>Máquinas de factorización</li><li>Máquinas de factorización Profundas</li></ul>
 
 - tipo: Lecture 4
   fecha: Thursday April 16
-  desc: |
-    <b>Neural Networks and Backpropagation</b>
+  desc: <b>Neural Networks and Backpropagation</b>
     Backpropagation
     Multi-layer Perceptrons
     The neural viewpoint
-  rec: |
-    <a href="#">slides</a>
+  rec: <a href="#">slides</a>
     backprop notes
     linear backprop example
     derivatives notes (optional)
@@ -238,13 +96,13 @@ body:
 - tipo: Discussion Section
   fecha: Friday April 17
   desc: Backprop tutorial
-  rec: |
+  rec: 
     slides
     annotated slides
   class: práctica
 - tipo: A1 Due
   fecha: Wednesday April 22
-  desc: |
+  desc: 
     Assignment 1 due
     kNN, SVM, SoftMax, two-layer network
   class: entrega
