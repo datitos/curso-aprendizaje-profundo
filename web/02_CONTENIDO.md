@@ -10,9 +10,6 @@
 * Overfitting y underfitting
 * Backward propagation y Foward propagation
 * Algoritmos de optimización:
-    * Descenso de gradiente estocástico
-    * Momentum
-    * ADAGrad
 
 ### Unidad 2 Computer vision
 
@@ -37,12 +34,6 @@
 * Analisis de sentimiento
 * Traducción automática y embeddings
 * Atención:
-    * Concepto
-    * Métricas
-    * Pooling
-    * Modelo de Bahdanau     
-    * Multiples cabezales     
-    * Autoatención
 * Transformers
 * Transformers bidireccionales: BERT
 * Aplicaciones de BERT
@@ -51,11 +42,11 @@
 
 * Sistemas de recomencación con datos explicitos
     * Factorización de matrices
-    * Sistemas de recomendación con ranking
-* Funciones de perdida para ranking     
+* Sistemas de recomendación con ranking
+    * Funciones de perdida para ranking     
     * Muestreo negativo     
     * Sensibildiad a la secuencia: Caser
     * Factorización de matrices: NeuMF    
 * Sistemas de recomencación con datos implicitos
-* Máquinas de factorización     
-* Máquinas de factorización profundas
+    * Máquinas de factorización     
+    * Máquinas de factorización profundas
