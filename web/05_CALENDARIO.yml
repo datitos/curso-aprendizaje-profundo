@@ -95,7 +95,7 @@ body:
     <li>Modelos generativos":" GANs</li></ul>
 - tipo: Clase 13
   fecha: lunes, 26 de abril de 2021
-  desc: Redes recurrentes: RNN
+  desc: Redes recurrentes":" RNN
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
     <li>Perplejidad, verosimilitud y entropia</li>
