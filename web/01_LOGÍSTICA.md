@@ -50,4 +50,4 @@ Una vez terminado el cronograma de las clases sincrónicas, se coordinará un ex
 
 ## Proyecto final:
 
-Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Ejemplos de posibles temas se encuentran en el apartado "Proyectos Finales". Estos temas podran elegirse si alguno de los grupos no supiera que tema elegir para el trabajo final. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.
+Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Ejemplos de posibles temas se encuentran en el apartado "Proyectos finales". Estos temas podran elegirse si alguno de los grupos no supiera que tema elegir para el trabajo final. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.
