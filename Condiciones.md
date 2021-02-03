@@ -42,7 +42,7 @@ Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los
 2. Alumnos Oyentes: 
 	* Solamente tendrán acceso al material.
 
-# Prerequisistos:
+## Prerequisistos:
 
 * Manejo básico de Python
 * Cálculo de una variable y Cálculo vectorial
