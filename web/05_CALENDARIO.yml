@@ -6,8 +6,7 @@ header:
     rec: Recursos
 
 body:
--
-    tipo: 1. Introducción, motivación y bienvenida
+-   tipo: 1. Introducción, motivación y bienvenida
     fecha: 15/02/2021
     desc: | 
         <ul> 
@@ -16,8 +15,7 @@ body:
         <li> Aprendizaje profundo en la vida cotidiana </li>
         </ul>
     rec: | 
--
-    tipo: 2. Implementación de los modelos
+-   tipo: 2. Implementación de los modelos
     fecha: 19/02/2021
     desc: | 
         <ul>
@@ -27,8 +25,7 @@ body:
         <li> Cálculo automático de gradientes </li>
         </ul>
     rec: | 
--
-    tipo: 3. Redes neuronales de una capa
+-   tipo: 3. Redes neuronales de una capa
     fecha: 22/02/2021
     desc: | 
         <ul>
@@ -38,8 +35,7 @@ body:
         <li> Implementación usando frameworks </li>
         </ul>
     rec: |
--
-    tipo: 4. Redes neuronales de multicapa
+-   tipo: 4. Redes neuronales de multicapa
     fecha: 26/02/2021
     desc: | 
         <ul>
@@ -50,8 +46,7 @@ body:
         <li> Implementación usando frameworks </li>
         </ul>
     rec: |
--
-    tipo: 5. MLP a medida
+-   tipo: 5. MLP a medida
     fecha: 01/03/2021
     desc: | 
         <ul>
@@ -62,8 +57,7 @@ body:
         <li> GPU </li>
         </ul>
     rec: |
--
-    tipo: 6. Algoritmos de Optimización
+-   tipo: 6. Algoritmos de Optimización
     fecha: 05/03/2021
     desc: | 
         <ul>
@@ -74,8 +68,7 @@ body:
         <li> ADAM </li>
         </ul>
     rec: |
--
-    tipo: 7. Selección de modelos
+-   tipo: 7. Selección de modelos
     fecha: 08/03/2021
     desc: | 
         <ul>
@@ -85,8 +78,7 @@ body:
         <li> Dropout </li>
         </ul>
     rec: |
--
-    tipo: 8. Redes convolucionales (CNN)
+-   tipo: 8. Redes convolucionales (CNN)
     fecha: 12/03/2021
     desc: | 
         <ul>
@@ -97,8 +89,7 @@ body:
         <li> Implementacion de LeNet </li>
         </ul>
     rec: |
--
-    tipo: 9. Arquitecturas CNN Modernas
+-   tipo: 9. Arquitecturas CNN Modernas
     fecha: 15/03/2021
     desc: | 
         <ul>
@@ -111,8 +102,7 @@ body:
         <li> Bloques densos: DenseNet </li>
         </ul>
     rec: |
--
-    tipo: 10. Transfer Learning
+-   tipo: 10. Transfer Learning
     fecha: 19/03/2021
     desc: | 
         <ul>
@@ -121,8 +111,7 @@ body:
         <li> Aplicación: Transferencia de estilos </li>
         </ul>
     rec: |
--
-    tipo: 11. Detección de Objetos
+-   tipo: 11. Detección de Objetos
     fecha: 22/03/2021
     desc: | 
         <ul>
@@ -131,8 +120,7 @@ body:
         <li> Detección basada en regiones: R-CNN </li>
         </ul>
     rec: |
--
-    tipo: 12. Upsampling
+-   tipo: 12. Upsampling
     fecha: 26/03/2021
     desc: | 
         <ul>
@@ -154,8 +142,7 @@ body:
         <li> Implementación usando frameworks </li>
         </ul>
     rec: |
--
-    tipo: 14. Arquitecturas RNN Modernas
+-   tipo: 14. Arquitecturas RNN Modernas
     fecha: 02/04/2021
     desc: | 
         <ul>
@@ -164,8 +151,7 @@ body:
         <li> Recurrencia bidireccional </li>
         </ul>
     rec: |
--
-    tipo: 15. Analisis de sentimiento
+-   tipo: 15. Analisis de sentimiento
     fecha: 05/04/2021
     desc: | 
         <ul>
@@ -173,8 +159,7 @@ body:
         <li> Implementación con CNN </li>
         </ul>
     rec: |
--
-    tipo: 16. Traducción automática
+-   tipo: 16. Traducción automática
     fecha: 09/04/2021
     desc: | 
         <ul>
@@ -185,8 +170,7 @@ body:
         <li> Implementación con RNN </li>
         </ul>
     rec: |
--
-    tipo: 17. Mecanismo de atencion
+-   tipo: 17. Mecanismo de atencion
     fecha: 12/04/2021
     desc: | 
         <ul>
@@ -195,8 +179,7 @@ body:
         <li> Métricas de atención </li>
         </ul>
     rec: |
--
-    tipo: 18. Atención en RNN
+-   tipo: 18. Atención en RNN
     fecha: 16/04/2021
     desc: | 
         <ul>
@@ -205,8 +188,7 @@ body:
         <li> Autoatención </li>
         </ul>
     rec: |
--
-    tipo: 19. Transformers
+-   tipo: 19. Transformers
     fecha: 19/04/2021
     desc: | 
         <ul>
@@ -216,8 +198,7 @@ body:
         <li> Codificación posicional </li>
         </ul>
     rec: |
--
-    tipo: 20. Transformers bidireccionales: BERT
+-   tipo: 20. Transformers bidireccionales: BERT
     fecha: 23/04/2021
     desc: | 
         <ul>
@@ -226,8 +207,7 @@ body:
         <li> Modelado del lenguaje con máscaras </li>
         </ul>
     rec: |
--
-    tipo: 21. Aplicaciones de BERT
+-   tipo: 21. Aplicaciones de BERT
     fecha: 26/04/2021
     desc: | 
         <ul>
@@ -237,8 +217,7 @@ body:
         <li> Inferencia del lenguaje </li>
         </ul>
     rec: |
--
-    tipo: 22. Sistemas de recomencación con datos explicitos
+-   tipo: 22. Sistemas de recomencación con datos explicitos
     fecha: 30/04/2021
     desc: | 
         <ul>
@@ -247,8 +226,7 @@ body:
         <li> Predicción de calificación con autoencoder </li>
         </ul>
     rec: |
--
-    tipo: 23. Sistemas de recomendación con ranking
+-   tipo: 23. Sistemas de recomendación con ranking
     fecha: 03/05/2021
     desc: | 
         <ul>
@@ -258,8 +236,7 @@ body:
         <li> Sensibildiad a la secuencia:  Caser </li>
         </ul>
     rec: |
--
-    tipo: 24. Sistemas de recomencación con datos implicitos
+-   tipo: 24. Sistemas de recomencación con datos implicitos
     fecha: 07/05/2021
     desc: | 
         <ul>
@@ -267,7 +244,6 @@ body:
         <li> Máquinas de factorización Profundas </li>
         </ul>
     rec: | 
-    
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
