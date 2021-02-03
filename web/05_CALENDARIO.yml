@@ -8,7 +8,10 @@ header:
 body:
 - tipo: 1. Introducción, motivación y bienvenida
   fecha: lunes, 15 de marzo de 2021
-  desc: "<ul><li>Definición de componentes claves </li><li>Tipo de problemas de aprendizaje</li><li>Aprendizaje profundo en la vida cotidiana</li></ul>"
+  desc: 
+    <ul><li>Definición de componentes claves </li>
+    <li>Tipo de problemas de aprendizaje</li>
+    <li>Aprendizaje profundo en la vida cotidiana</li></ul>
 - tipo: 2. Implementación de los modelos
   fecha: miércoles, 17 de marzo de 2021
   desc: "<ul><li>Frameworks de aprendizaje profundo</li><li>Entornos de ejecución</li><li>Manipulación y preprocesamiento de datos</li><li>Cálculo automático de gradientes</li></ul>"
