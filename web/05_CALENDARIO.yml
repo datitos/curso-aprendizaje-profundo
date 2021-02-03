@@ -81,11 +81,13 @@ body:
 
 - tipo: Lecture 4
   fecha: Thursday April 16
-  desc: <b>Neural Networks and Backpropagation</b>
+  desc: |
+    <b>Neural Networks and Backpropagation</b>
     Backpropagation
     Multi-layer Perceptrons
     The neural viewpoint
-  rec: <a href="#">slides</a>
+  rec: |
+    <a href="#">slides</a>
     backprop notes
     linear backprop example
     derivatives notes (optional)
@@ -93,13 +95,13 @@ body:
 - tipo: Discussion Section
   fecha: Friday April 17
   desc: Backprop tutorial
-  rec: 
+  rec: |
     slides
     annotated slides
   class: práctica
 - tipo: A1 Due
   fecha: Wednesday April 22
-  desc: 
+  desc: |
     Assignment 1 due
     kNN, SVM, SoftMax, two-layer network
   class: entrega
