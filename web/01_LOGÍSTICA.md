@@ -1,5 +1,4 @@
-Organización y condiciones de cursado
-=====
+# Organización y condiciones de cursado
 
 Este curso implmentará la metodología llamada aula invertida.
 
@@ -12,19 +11,21 @@ En un aula invertida: el materal de estudio está disponible todo el tiempo para
 * Proponer sugerencias
 * Promover la discusión de los temas del curso
 
-
 ## Modalidades de cursado:
 
 Este curso tiene dos modalidades de cursado
 
 1. Alumnos inscriptos:
+
     * Tendrán acceso al material.
     * Tendrán seguimiento de avances.
     * Serán evaluados en las tres instancian señaladas:
+    
         a. Ejercicios obligatorios
         b. Examen global
         c. Proyecto final
-2. Alumnos oyentes: 
+2. Alumnos oyentes:
+
     * Solamente tendrán acceso al material.
 
 ## Prerequisistos:
@@ -39,8 +40,10 @@ Este curso tiene dos modalidades de cursado
 Dadas las características de un aula invertida, las clases sincrónicas no son de carácter obligatorio. Sin embargo, dado que son clases de consulta y de puesta en común, se recomienda la asistencia para un mejor desempeño durante el cursado.
 
 El material del curso consiste en:
+
 * Clases grabadas disponibles desde los primeros días
 * 10 guías de trabajos prácticos. Estos en general tendrán dos partes
+
     - La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución serán de caracter obligatorio.
     - La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
 * Se recomienda respetar las fechas de entrega acordadas durante el curso.
