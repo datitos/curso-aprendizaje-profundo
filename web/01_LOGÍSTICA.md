@@ -1,7 +1,5 @@
-Curso aprendizaje profundo
-=========
-
-# Organización y condiciones de cursado
+Organización y condiciones de cursado
+=====
 
 Este curso implmentará la metodología llamada aula invertida.
 
