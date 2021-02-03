@@ -12,6 +12,8 @@ body:
     <ul><li>Definición de componentes claves </li>
     <li>Tipo de problemas de aprendizaje</li>
     <li>Aprendizaje profundo en la vida cotidiana</li></ul>
+  rec: Diapositivas
+    Video
 - tipo: Clase 2 
   fecha: miércoles, 17 de marzo de 2021
   desc: Implementación de los modelos
@@ -166,12 +168,11 @@ body:
     <li>Muestreo negativo</li>
     <li>Factorización de matrices con MLP":" NeuMF</li>
     <li>Sensibildiad a la secuencia":"  Caser</li></ul>
-
 - tipo: Clase 24
   fecha: miércoles, 2 de junio de 2021
   desc: Sistemas de recomencación con datos implicitos
     <ul><li>Máquinas de factorización</li>
-    <li>Máquinas de factorización Profundas</li></ul>
+    <li>Máquinas de factorización Profundas</li></ul>    
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
