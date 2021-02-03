@@ -15,14 +15,14 @@ En un aula invertida: el materal de estudio está disponible todo el tiempo para
 
 Este curso tiene dos modalidades de cursado
 
-1. Alumnos inscriptos:
+* Alumnos inscriptos:
 	* Tendrán acceso al material.
 	* Tendrán seguimiento de avances.
 	* Serán evaluados en las tres instancian señaladas:
-		1. Ejercicios obligatorios
-		2. Examen global
-		3. Proyecto final
-2. Alumnos oyentes:
+		* Ejercicios obligatorios
+		* Examen global
+		* Proyecto final
+* Alumnos oyentes:
 	* Solamente tendrán acceso al material.
 
 ## Prerequisistos:
