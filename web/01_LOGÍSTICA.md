@@ -51,3 +51,11 @@ Una vez terminado el cronograma de las clases sincrónicas, se coordinará un ex
 ## Proyecto final:
 
 Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Ejemplos de posibles temas se encuentran en el apartado "Proyectos finales". Estos temas podran elegirse si alguno de los grupos no supiera que tema elegir para el trabajo final. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.
+
+# Código de conducta
+
+Este grupo se dedica a proporcionar una experiencia libre de acoso. No toleramos el acoso en ninguna de las formas posibles.
+
+Los trabajos a entregar deben ser una producción original.  El plagio no será tolerado. En muchos países las vulneración de los derechos de autor es un crimen que se sanciona con carcel.
+
+<b> Cualquier persona que viole este código de conducta deberá ser sancionada o expulsada de este espacio a discreción del equipo organizador.</b>
