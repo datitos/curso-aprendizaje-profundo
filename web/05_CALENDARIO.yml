@@ -162,10 +162,11 @@ body:
 - tipo: Clase 23
   fecha: lunes, 31 de mayo de 2021
   desc: Sistemas de recomendación con ranking
-  <ul><li>Funciones de perdida para ranking</li>
-  <li>Muestreo negativo</li>
-  <li>Factorización de matrices con MLP":" NeuMF</li>
-  <li>Sensibildiad a la secuencia":"  Caser</li></ul>
+    <ul><li>Funciones de perdida para ranking</li>
+    <li>Muestreo negativo</li>
+    <li>Factorización de matrices con MLP":" NeuMF</li>
+    <li>Sensibildiad a la secuencia":"  Caser</li></ul>
+
 - tipo: Clase 24
   fecha: miércoles, 2 de junio de 2021
   desc: Sistemas de recomencación con datos implicitos
