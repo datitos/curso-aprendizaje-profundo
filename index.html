@@ -114,24 +114,66 @@
       <p>Una vez terminado el cronograma de las clases sincrónicas, se coordinará un examen global. Las preguntas de este examen serán similares a las preguntas conceptuales de los trabajos prácticos.</p>
       <h3>Proyecto final:</h3>
       <p>Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Ejemplos de posibles temas se encuentran en el apartado "Proyectos finales". Estos temas podran elegirse si alguno de los grupos no supiera que tema elegir para el trabajo final. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.</p>
-      <h2>Contenido</h2>
-      <h3>What is this course about?</h3>
-      <p>Natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, etc. In recent years, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. As piloted last year, CS224n will be taught using PyTorch this year.</p>
-      <h3>Prerequisites</h3>
-      <h4>Proficiency in Python</h4>
-      <p>All class assignments will be in Python (using NumPy and PyTorch). If you need to remind yourself of Python, or you're not very familiar with NumPy, you can come to the Python review session in week 1 (listed in the schedule). If you have a lot of programming experience but in a different language (e.g. C/C++/Matlab/Java/Javascript), you will probably be fine.</p>
-      <h4>College Calculus, Linear Algebra (e.g. MATH 51, CME 100)</h4>
-      <p>You should be comfortable taking (multivariable) derivatives and understanding matrix/vector notation and operations.</p>
-      <h4>Basic Probability and Statistics (e.g. CS 109 or equivalent)</h4>
-      <p>You should know basics of probabilities, gaussian distributions, mean, standard deviation, etc.</p>
-      <h4>Foundations of Machine Learning (e.g. CS221, CS229, or CS230)</h4>
-      <p>We will be formulating cost functions, taking derivatives and performing optimization with gradient descent. If you already have basic machine learning and/or deep learning knowledge, the course will be easier; however it is possible to take CS224n without it. There are many introductions to ML, in webpage, book, and video form. One approachable introduction is Hal Daumé’s in-progress A Course in Machine Learning. Reading the first 5 chapters of that book would be good background. Knowing the first 7 chapters would be even better!</p>
-      <h3>Recursos de referencia</h3>
-      <p>The following texts are useful, but none are required. All of them can be read free online.</p>
+      <h3>Programa:</h3>
+      <h4>Unidad 1: Machine learning</h4>
       <ul>
-      <li>Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)</li>
-      <li>Jacob Eisenstein. Natural Language Processing</li>
-      <li>Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing</li>
+      <li>Machine learning: Concepto</li>
+      <li>Manipulación de data-sets</li>
+      <li>Frameworks y entornos de ejecución</li>
+      <li>Regresión lineal y redes de una capa</li>
+      <li>Perceptrones multicapa y redes multicapa</li>
+      <li>Overfitting y underfitting</li>
+      <li>Backward propagation y Foward propagation</li>
+      <li>Algoritmos de optimización:<ul>
+      <li>Descenso de gradiente estocástico</li>
+      <li>Momentum</li>
+      <li>ADAGrad</li></ul></li>
+      </ul>
+      <h4>Unidad 2 Computer vision</h4>
+      <ul>
+      <li>Convolución: Concepto</li>
+      <li>Redes neuronales convolucionales</li>
+      <li>Pooling, padding y striding</li>
+      <li>Batch normalization</li>
+      <li>Arquitecturas de redes convolucionales</li>
+      <li>Tranfer learning y Fine-tuning</li>
+      <li>Deteccción de objetos</li>
+      <li>Up-sampling y convolución transpuesta</li>
+      <li>Segmentación semántica</li>
+      <li>GANs</li>
+      </ul>
+      <h4>Unidad 3: Procesamiento de lenguaje natural</h4>
+      <ul>
+      <li>Modelos secuenciales y variables ocultas</li>
+      <li>Perplejidad, verosimilitud y entropia</li>
+      <li>Backpropagation dependiente del tiempo</li>
+      <li>Recurrencias con compuertas y memoria: GRU y LSTM</li>
+      <li>Recurrencia bidireccional</li>
+      <li>Analisis de sentimiento</li>
+      <li>Traducción automática y embeddings</li>
+      <li>Atención:<ul>
+      <li>Concepto</li>
+      <li>Métricas</li>
+      <li>Pooling</li>
+      <li>Modelo de Bahdanau     </li>
+      <li>Multiples cabezales     </li>
+      <li>Autoatención</li></ul></li>
+      <li>Transformers</li>
+      <li>Transformers bidireccionales: BERT</li>
+      <li>Aplicaciones de BERT</li>
+      </ul>
+      <h4>Unidad 4: Sistemas de recomendación</h4>
+      <ul>
+      <li>Sistemas de recomencación con datos explicitos<ul>
+      <li>Factorización de matrices</li>
+      <li>Sistemas de recomendación con ranking</li></ul></li>
+      <li>Funciones de perdida para ranking<br /><ul>
+      <li>Muestreo negativo     </li>
+      <li>Sensibildiad a la secuencia: Caser</li>
+      <li>Factorización de matrices: NeuMF    </li></ul></li>
+      <li>Sistemas de recomencación con datos implicitos</li>
+      <li>Máquinas de factorización     </li>
+      <li>Máquinas de factorización profundas</li>
       </ul>    </section>
 
     <section id="tareas">
