@@ -57,7 +57,7 @@ body:
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 2
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 25 de marzo de 2021
@@ -94,7 +94,7 @@ body:
   rec: <p>entrega</p>
   class: entrega
 - tipo: Encuentro Sincrónico 3
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 1 de abril de 2021
@@ -115,7 +115,7 @@ body:
   class: consulta
 - tipo: Clase 8
   fecha: miércoles, 7 de abril de 2021
-  desc: Redes convolucionales: CNN
+  desc: Redes convolucionales\: CNN
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
     <li>Padding y striding</li>
@@ -125,7 +125,7 @@ body:
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 4
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 8 de abril de 2021
@@ -137,8 +137,8 @@ body:
     <li>Bloques NiN</li>
     <li>GoogLeNet y el bloque Inception</li>
     <li>Batch Normalization</li>
-    <li>Conexiones residuales: ResNet</li>
-    <li>Bloques densos: DenseNet</li></ul>
+    <li>Conexiones residuales\: ResNet</li>
+    <li>Bloques densos\: DenseNet</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
@@ -157,9 +157,9 @@ body:
   desc: Transfer Learning
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
-    <li>Aplicación: Transferencia de estilos</li></ul>
+    <li>Aplicación\: Transferencia de estilos</li></ul>
 - tipo: Encuentro Sincrónico 5
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 15 de abril de 2021
@@ -167,8 +167,8 @@ body:
   fecha: lunes, 19 de abril de 2021
   desc: Detección de Objetos
     <ul><li>Bounding Boxes</li>
-    <li>Detección multiescala: SSD</li>
-    <li>Detección basada en regiones: R-CNN</li></ul>
+    <li>Detección multiescala\: SSD</li>
+    <li>Detección basada en regiones\: R-CNN</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
@@ -186,19 +186,19 @@ body:
   fecha: miércoles, 21 de abril de 2021
   desc: Upsampling
     <ul><li>Convolución traspuesta</li>
-    <li>Segmentación semática: FCN</li>
-    <li>Modelos generativos: GANs</li></ul>
+    <li>Segmentación semática\: FCN</li>
+    <li>Modelos generativos\: GANs</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 6
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 22 de abril de 2021
 - tipo: Clase 13
   fecha: lunes, 26 de abril de 2021
-  desc: Redes recurrentes: RNN
+  desc: Redes recurrentes\: RNN
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
     <li>Perplejidad, verosimilitud y entropia</li>
@@ -221,14 +221,14 @@ body:
 - tipo: Clase 14
   fecha: miércoles, 28 de abril de 2021
   desc: Arquitecturas RNN Modernas
-    <ul><li>Recurrencias con compuertas: GRU</li>
-    <li>Recurrencia con memoria: LSTM</li>
+    <ul><li>Recurrencias con compuertas\: GRU</li>
+    <li>Recurrencia con memoria\: LSTM</li>
     <li>Recurrencia bidireccional</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 7
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 29 de abril de 2021
@@ -253,16 +253,16 @@ body:
 - tipo: Clase 16
   fecha: miércoles, 5 de mayo de 2021
   desc: Traducción automática
-    <ul><li>Problemas de secuencia a secuecia: Seq2Seq</li>
-    <li>Embeddings de palabras: Word2Vec</li>
-    <li>Embeddings de palabras: GloVe</li>
-    <li>Embeddings de morfemas: fastText</li>
+    <ul><li>Problemas de secuencia a secuecia\: Seq2Seq</li>
+    <li>Embeddings de palabras\: Word2Vec</li>
+    <li>Embeddings de palabras\: GloVe</li>
+    <li>Embeddings de morfemas\: fastText</li>
     <li>Implementación con RNN</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 8
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 6 de mayo de 2021
@@ -295,7 +295,7 @@ body:
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 9
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 13 de mayo de 2021
@@ -316,7 +316,7 @@ body:
   fecha: lunes, 17 de mayo de 2021
 - tipo: Clase 20
   fecha: miércoles, 19 de mayo de 2021
-  desc: Transformers bidireccionales: BERT
+  desc: Transformers bidireccionales\: BERT
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
     <li>Modelado del lenguaje con máscaras</li></ul>
@@ -329,7 +329,7 @@ body:
   fecha: miércoles, 19 de mayo de 2021
   class: consulta
 - tipo: Encuentro Sincrónico 10
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 20 de mayo de 2021
@@ -351,14 +351,14 @@ body:
 - tipo: Clase 22
   fecha: miércoles, 26 de mayo de 2021
   desc: Sistemas de recomencación con datos explicitos
-    <ul><li>Sistemas de recomencación: clasificación</li>
+    <ul><li>Sistemas de recomencación\: clasificación</li>
     <li>Factorización de matrices</li>
     <li>Predicción de calificación con autoencoder</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 11
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 27 de mayo de 2021
@@ -367,8 +367,8 @@ body:
   desc: Sistemas de recomendación con ranking
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
-    <li>Factorización de matrices con MLP: NeuMF</li>
-    <li>Sensibildiad a la secuencia:  Caser</li></ul>
+    <li>Factorización de matrices con MLP\: NeuMF</li>
+    <li>Sensibildiad a la secuencia\:  Caser</li></ul>
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
@@ -381,7 +381,7 @@ body:
     <p>Diapositivas</p>
     <p>Video</p>
 - tipo: Encuentro Sincrónico 12
-  desc: 15:30
+  desc: 15\:30
   rec: <p>consulta</p>
   class: práctica
   fecha: jueves, 3 de junio de 2021
