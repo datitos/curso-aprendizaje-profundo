@@ -12,7 +12,6 @@ El materal de estudio está disponible todo el tiempo para los alumnos. Se esper
 ## Modalidades de cursado:
 
 Este curso tiene dos modalidades de cursado
-
 * Alumnos inscriptos:
     - Tendrán acceso al material.
     - Tendrán seguimiento de avances.
