@@ -16,6 +16,9 @@
   h4 {
     @apply font-semibold mt-3;
   }
+  h5 {
+    @apply font-semibold mb-2;
+  }
   p{
     @apply mt-1;
   }
