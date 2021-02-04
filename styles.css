@@ -619,6 +619,11 @@ tbody > tr {
   background-color: rgba(253, 230, 138, var(--tw-bg-opacity));
 }
 
+.consulta {
+  --tw-bg-opacity: 1;
+  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
+}
+
 .container {
   width: 100%;
 }
