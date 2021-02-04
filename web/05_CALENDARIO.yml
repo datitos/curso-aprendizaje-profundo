@@ -324,12 +324,12 @@ body:
   desc: ENTREGA
   rec: <p>entrega</p>
   class: entrega
-  fecha:miércoles, 2 de junio de 2021
+  fecha: miércoles, 2 de junio de 2021
 - tipo: Trabajo Práctico 10
   desc: ENTREGA
   rec: <p>entrega</p>
   class: entrega
-  fecha:miércoles, 16 de junio de 2021
+  fecha: miércoles, 16 de junio de 2021
 - tipo: Lecture 4
   fecha: Thursday April 16
   desc: |
