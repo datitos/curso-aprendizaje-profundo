@@ -576,13 +576,13 @@ h4 {
 }
 
 p, ul {
-  margin-top: 1rem;
+  margin-top: 0.25rem;
 }
 
 ul{
   list-style-position: inside;
   list-style-type: disc;
-  margin-left: 0.25rem;
+  margin-left: 1rem;
 }
 
 a {
