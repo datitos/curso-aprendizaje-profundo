@@ -17,7 +17,7 @@
     @apply font-semibold mt-3;
   }
   p, ul {
-    @apply mt-1;
+    @apply mt-4;
   }
   ul{
     @apply list-inside list-disc ml-1;
