@@ -19,15 +19,14 @@
   h5 {
     @apply font-semibold mb-2;
   }
-  p{
+  p, ul, ol {
     @apply mt-1;
   }
   ul{
-    @apply list-inside list-disc ml-4;
+    @apply list-inside list-disc;
   }
   ol {
-    list-style-type: upper-roman;
-    list-style-position: inside;
+    @apply list-inside list-decimal;
   }
   a {
     @apply text-blue-600;
@@ -53,7 +52,7 @@
   .consulta {
     @apply bg-gray-200;
   }
-} 
+}
 
 @tailwind components;
 @tailwind utilities;

@@ -24,11 +24,14 @@
         <img height="20" src="img/nyan.png" class="h-10 mr-1">
         Datitos
       </a>
-      <a href="#calendario" class="ml-32">
+      <a href="#calendario" class="ml-8">
         Calendario
       </a>
       <a href="#formulario" class="ml-8">
         Inscripción
+      </a>
+      <a href="https://github.com/datitos/curso-aprendizaje-profundo" class="ml-8">
+        GitHub
       </a>
     </div>
   </nav>
@@ -39,17 +42,10 @@
       por Datitos / Otoño 2021
     </div>
 
-    <p>Solo en los últimos cinco años, el aprendizaje profundo ha tomado al mundo por sorpresa, impulsando un rápido progreso en campos tan diversos como la visión por computadora, el procesamiento del lenguaje natural, el reconocimiento automático del habla, el aprendizaje por refuerzo y el modelado estadístico. </p>
+    <section id="intro">
+      {{> INTRODUCCIÓN }}
+    </section>
 
-    <p> Este curso representa nuestro intento de hacer que el aprendizaje profundo sea accesible, enseñandote los conceptos, el contexto y el código. Nos propusimos crear un recurso que simultáneamente pudiera: </p>
-    <ol type="i">
-      <li> estar disponible gratuitamente para todos; </li>
-      <li> ofrecer suficiente profundidad técnica para proporcionar un punto de partida en el camino para convertirse realmente en un científico de aprendizaje automático aplicado; </li>
-      <li> incluir código ejecutable, que muestre a los estudiantes cómo resolver problemas en la práctica. </li>
-    </ol> 
-    <p> El curso está dirigido a estudiantes (de grado o posgrado), ingenieros e investigadores que busquen un conocimiento sólido de las técnicas prácticas del aprendizaje profundo.
-    Debido a que explicamos cada concepto desde cero, no se requieren conocimientos previos en aprendizaje profundo o aprendizaje automático. 
-    Explicar completamente los métodos de aprendizaje profundo requiere algo de matemáticas y programación, pero solo vamos a asumir que saben los conceptos básicos sobre álgebra lineal, cálculo, probabilidad y programación con Python. </p>
     <section id="equipo">
       <h2>Instructores</h2>
       <div class="flex flex-wrap">
@@ -65,7 +61,7 @@
 
         <div class="p-4 text-center">
           <img src="img/matías.jpg" class="h-32 mb-4 rounded-full">
-          Matías Battocchia<br>Coordinador
+          <a href="https://matiasbattocchia.github.io/datitos/">Matías Battocchia</a><br>Coordinador
         </div>
       </div>
     </section>
@@ -75,7 +71,6 @@
 
       {{> 02_CONTENIDO }}
     </section>
-
 
     <!--<section id="tareas">
       {{> 03_PRÁCTICOS }}
@@ -98,7 +93,7 @@
 
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 text-center">Ir al formulario</a>
 
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="800" class="mx-auto hidden md:block">Cargando formulario de inscripción...</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="1000" class="mx-auto hidden md:block">Cargando formulario de inscripción...</iframe>
     </section>
   </div>
 </body>
