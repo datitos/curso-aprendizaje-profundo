@@ -32,7 +32,7 @@ body:
   class: consulta
 - tipo: Encuentro Sincrónico 1
   fecha: jueves, 18 de marzo de 2021
-  desc: 15\":\"30
+  desc: 15&#5830
   rec: <p>consulta</p>
   class: práctica
 - tipo: Clase 3
