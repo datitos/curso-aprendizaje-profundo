@@ -26,7 +26,7 @@
     @apply list-inside list-disc ml-4;
   }
   ol {
-  list-style-type: upper-roman;
+    list-style-type: upper-roman ml-4 list-inside;
   }
   a {
     @apply text-blue-600;
