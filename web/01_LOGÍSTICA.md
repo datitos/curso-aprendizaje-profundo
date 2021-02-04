@@ -37,12 +37,16 @@ Los horarios de consulta no son de carácter obligatorio. Sin embargo, dado que 
 El material del curso consiste en:
 
 * Clases grabadas disponibles desde los primeros días
+	- Las clases grabadas se liberaran para los alumnos los días lunes y miércoles.
 * 10 guías de trabajos prácticos. Estos en general tendrán dos partes
 	- La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución serán de caracter obligatorio.
 	- La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
-* Se recomienda respetar las fechas de entrega acordadas durante el curso.
+	- Las fechas de entrega para los trabajos prácticos están estipuladas más adelante en la sección cronograma. Se recomienda respetar las fechas de entrega acordadas durante el curso.
 
 ## Horarios de Consulta
+
+* Pablo Marinozi: Jueves de 17 a 19
+* Luciano Robino: Viernes de 10 a 12
 
 ## Examen global:
 
