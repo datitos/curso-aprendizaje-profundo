@@ -14,11 +14,9 @@ El materal de estudio está disponible todo el tiempo para los alumnos. Se esper
 Este curso tiene dos modalidades de cursado
 
 * Alumnos inscriptos:
-
 	- Tendrán acceso al material.
 	- Tendrán seguimiento de avances.
 	- Serán evaluados en las tres instancian señaladas:
-	
 		+ Ejercicios obligatorios
 		+ Examen global
 		+ Proyecto final
