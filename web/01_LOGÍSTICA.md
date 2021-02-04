@@ -14,14 +14,14 @@ El materal de estudio está disponible todo el tiempo para los alumnos. Se esper
 Este curso tiene dos modalidades de cursado
 
 * Alumnos inscriptos:
-	- Tendrán acceso al material.
-	- Tendrán seguimiento de avances.
-	- Serán evaluados en las tres instancian señaladas:
-		+ Ejercicios obligatorios
-		+ Examen global
-		+ Proyecto final
+    - Tendrán acceso al material.
+    - Tendrán seguimiento de avances.
+    - Serán evaluados en las tres instancian señaladas:
+        + Ejercicios obligatorios
+        + Examen global
+        + Proyecto final
 * Alumnos oyentes:
-	- Solamente tendrán acceso al material.
+    - Solamente tendrán acceso al material.
 
 ## Prerequisistos:
 
@@ -37,11 +37,11 @@ Los horarios de consulta no son de carácter obligatorio. Sin embargo, dado que 
 El material del curso consiste en:
 
 * Clases grabadas disponibles desde los primeros días
-	- Las clases grabadas se liberaran para los alumnos los días lunes y miércoles.
+    - Las clases grabadas se liberaran para los alumnos los días lunes y miércoles.
 * 10 guías de trabajos prácticos. Estos en general tendrán dos partes
-	- La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución serán de caracter obligatorio.
-	- La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
-	- Las fechas de entrega para los trabajos prácticos están estipuladas más adelante en la sección cronograma. Se recomienda respetar las fechas de entrega acordadas durante el curso.
+    - La primera consitirá en implementación y aplicación de los contenidos desarrollados hasta ese momento. Su entrega y resolución serán de caracter obligatorio.
+    - La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
+    - Las fechas de entrega para los trabajos prácticos están estipuladas más adelante en la sección cronograma. Se recomienda respetar las fechas de entrega acordadas durante el curso.
 
 ## Horarios de Consulta
 
