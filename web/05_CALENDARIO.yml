@@ -8,7 +8,7 @@ header:
 body:
 - tipo: Clase 1
   fecha: lunes, 15 de marzo de 2021
-  desc: Introducción, motivación y bienvenida
+  desc: <h4>Introducción, motivación y bienvenida</h4>
     <ul><li>Definición de componentes claves </li>
     <li>Tipo de problemas de aprendizaje</li>
     <li>Aprendizaje profundo en la vida cotidiana</li></ul>
@@ -17,7 +17,7 @@ body:
     <p><a  href="#">Video</a></p>
 - tipo: Clase 2 
   fecha: miércoles, 17 de marzo de 2021
-  desc: Implementación de los modelos
+  desc: <h4>Implementación de los modelos</h4>
     <ul><li>Frameworks de aprendizaje profundo</li>
     <li>Entornos de ejecución</li>
     <li>Manipulación y preprocesamiento de datos</li>
@@ -42,7 +42,7 @@ body:
   fecha: viernes, 19 de marzo de 2021
 - tipo: Clase 3
   fecha: lunes, 22 de marzo de 2021
-  desc: Redes neuronales de una capa
+  desc: <h4>Redes neuronales de una capa</h4>
     <ul><li>Regresión lineal</li>
     <li>Regresión SoftMax</li>
     <li>Implementación desde cero</li>
@@ -52,7 +52,7 @@ body:
     <p><a  href="#">Video</a></p>
 - tipo: Clase 4
   fecha: miércoles, 24 de marzo de 2021
-  desc: Redes neuronales de multicapa
+  desc: <h4>Redes neuronales de multicapa</h4>
     <ul><li>Perceptrón Multicapa (MLP)</li>
     <li>Foward Propagation</li>
     <li>Backward Propagation</li>
@@ -73,7 +73,7 @@ body:
   fecha: viernes, 26 de marzo de 2021
 - tipo: Clase 5
   fecha: lunes, 29 de marzo de 2021
-  desc: MLP a medida
+  desc: <h4>MLP a medida</h4>
     <ul><li>Capas y Bloques</li>
     <li>Capas diseñadas a medida</li>
     <li>Inicialización y manejo de parámetros</li>
@@ -89,7 +89,7 @@ body:
   class: práctica
 - tipo: Clase 6
   fecha: miércoles, 31 de marzo de 2021
-  desc: Algoritmos de Optimización
+  desc: <h4>Algoritmos de Optimización</h4>
     <ul><li>Descenso de gradiente</li>
     <li>Descenso estocástico de gradiente</li>
     <li>Momentum</li>
@@ -115,7 +115,7 @@ body:
   fecha: viernes, 2 de abril de 2021
 - tipo: Clase 7
   fecha: lunes, 5 de abril de 2021
-  desc: Selección de modelos
+  desc: <h4>Selección de modelos</h4>
     <ul><li>Underfittng</li>
     <li>Overfitting</li>
     <li>Regularización de los pesos</li>
@@ -130,7 +130,7 @@ body:
   class: práctica
 - tipo: Clase 8
   fecha: miércoles, 7 de abril de 2021
-  desc: Redes convolucionales&#58; CNN
+  desc: <h4>Redes convolucionales&#58; CNN</h4>
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
     <li>Padding y striding</li>
@@ -151,7 +151,7 @@ body:
   fecha: viernes, 9 de abril de 2021
 - tipo: Clase 9
   fecha: lunes, 12 de abril de 2021
-  desc: Arquitecturas CNN Modernas
+  desc: <h4>Arquitecturas CNN Modernas</h4>
     <ul><li>AlexNet e ImageNet</li>
     <li>Bloques VGG</li>
     <li>Bloques NiN</li>
@@ -174,7 +174,7 @@ body:
   fecha: lunes, 12 de abril de 2021
 - tipo: Clase 10
   fecha: miércoles, 14 de abril de 2021
-  desc: Transfer Learning
+  desc: <h4>Transfer Learning</h4>
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
     <li>Aplicación&#58; Transferencia de estilos</li></ul>
@@ -190,7 +190,7 @@ body:
   fecha: viernes, 16 de abril de 2021
 - tipo: Clase 11
   fecha: lunes, 19 de abril de 2021
-  desc: Detección de Objetos
+  desc: <h4>Detección de Objetos</h4>
     <ul><li>Bounding Boxes</li>
     <li>Detección multiescala&#58; SSD</li>
     <li>Detección basada en regiones&#58; R-CNN</li></ul>
@@ -209,7 +209,7 @@ body:
   fecha: lunes, 19 de abril de 2021
 - tipo: Clase 12
   fecha: miércoles, 21 de abril de 2021
-  desc: Upsampling
+  desc: <h4>Upsampling</h4>
     <ul><li>Convolución traspuesta</li>
     <li>Segmentación semática&#58; FCN</li>
     <li>Modelos generativos&#58; GANs</li></ul>
@@ -228,7 +228,7 @@ body:
   fecha: viernes, 23 de abril de 2021
 - tipo: Clase 13
   fecha: lunes, 26 de abril de 2021
-  desc: Redes recurrentes&#58; RNN
+  desc: <h4>Redes recurrentes&#58; RNN</h4>
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
     <li>Perplejidad, verosimilitud y entropia</li>
@@ -250,7 +250,7 @@ body:
   fecha: lunes, 26 de abril de 2021
 - tipo: Clase 14
   fecha: miércoles, 28 de abril de 2021
-  desc: Arquitecturas RNN Modernas
+  desc: <h4>Arquitecturas RNN Modernas</h4>
     <ul><li>Recurrencias con compuertas&#58; GRU</li>
     <li>Recurrencia con memoria&#58; LSTM</li>
     <li>Recurrencia bidireccional</li></ul>
@@ -269,7 +269,7 @@ body:
   fecha: viernes, 30 de abril de 2021
 - tipo: Clase 15
   fecha: lunes, 3 de mayo de 2021
-  desc: Analisis de sentimiento
+  desc: <h4>Analisis de sentimiento</h4>
     <ul><li>Implementación con RNN</li>
     <li>Implementación con CNN</li></ul>
   rec: 
@@ -287,7 +287,7 @@ body:
   fecha: lunes, 3 de mayo de 2021
 - tipo: Clase 16
   fecha: miércoles, 5 de mayo de 2021
-  desc: Traducción automática
+  desc: <h4>Traducción automática</h4>
     <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li>
     <li>Embeddings de palabras&#58; Word2Vec</li>
     <li>Embeddings de palabras&#58; GloVe</li>
@@ -308,7 +308,7 @@ body:
   fecha: viernes, 7 de mayo de 2021
 - tipo: Clase 17
   fecha: lunes, 10 de mayo de 2021
-  desc: Mecanismo de atención
+  desc: <h4>Mecanismo de atención</h4>
     <ul><li>Concepto de atención</li>
     <li>Pooling de atención</li>
     <li>Métricas de atención</li></ul>
@@ -327,7 +327,7 @@ body:
   fecha: lunes, 10 de mayo de 2021
 - tipo: Clase 18
   fecha: miércoles, 12 de mayo de 2021
-  desc: Atención en RNN
+  desc: <h4>Atención en RNN</h4>
     <ul><li>Modelo de Bahdanau</li>
     <li>Multiples cabezales</li>
     <li>Autoatención</li></ul>
@@ -346,7 +346,7 @@ body:
   fecha: viernes, 14 de mayo de 2021
 - tipo: Clase 19
   fecha: lunes, 17 de mayo de 2021
-  desc: Transformers
+  desc: <h4>Transformers</h4>
     <ul><li>MLP sensible a la posición</li>
     <li>Normalización por capas</li>
     <li>Atención con máscaras</li>
@@ -361,7 +361,7 @@ body:
   fecha: lunes, 17 de mayo de 2021
 - tipo: Clase 20
   fecha: miércoles, 19 de mayo de 2021
-  desc: Transformers bidireccionales&#58; BERT
+  desc: <h4>Transformers bidireccionales&#58; BERT</h4>
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
     <li>Modelado del lenguaje con máscaras</li></ul>
@@ -385,7 +385,7 @@ body:
   fecha: viernes, 21 de mayo de 2021
 - tipo: Clase 21
   fecha: lunes, 24 de mayo de 2021
-  desc: Aplicaciones de BERT
+  desc: <h4>Aplicaciones de BERT</h4>
     <ul><li>Predicción de próxima oraciones</li>
     <li>Etiquetado automático</li>
     <li>Respuesta automatizada a preguntas</li>
@@ -400,7 +400,7 @@ body:
   fecha: lunes, 24 de mayo de 2021
 - tipo: Clase 22
   fecha: miércoles, 26 de mayo de 2021
-  desc: Sistemas de recomencación con datos explicitos
+  desc: <h4>Sistemas de recomencación con datos explicitos</h4>
     <ul><li>Sistemas de recomencación&#58; clasificación</li>
     <li>Factorización de matrices</li>
     <li>Predicción de calificación con autoencoder</li></ul>
@@ -419,7 +419,7 @@ body:
   fecha: viernes, 28 de mayo de 2021
 - tipo: Clase 23
   fecha: lunes, 31 de mayo de 2021
-  desc: Sistemas de recomendación con ranking
+  desc: <h4>Sistemas de recomendación con ranking</h4>
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
     <li>Factorización de matrices con MLP&#58; NeuMF</li>
@@ -429,7 +429,7 @@ body:
     <p><a  href="#">Video</a></p>
 - tipo: Clase 24
   fecha: miércoles, 2 de junio de 2021
-  desc: Sistemas de recomencación con datos implicitos
+  desc: <h4>Sistemas de recomencación con datos implicitos</h4>
     <ul><li>Máquinas de factorización</li>
     <li>Máquinas de factorización Profundas</li></ul>    
   rec: 
