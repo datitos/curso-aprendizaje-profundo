@@ -16,11 +16,11 @@
   h4 {
     @apply font-semibold mt-3;
   }
-  p, ul, ol, ul ul, ul ul ul, {
+  p, ul {
     @apply mt-1;
   }
-  ul, ol, ul ul, ul ul ul, {
-    @apply list-inside list-disc;
+  ul{
+    @apply list-inside list-disc ml-1;
   }
   a {
     @apply text-blue-600;
