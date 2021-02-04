@@ -590,6 +590,10 @@ ul{
   margin-left: 1rem;
 }
 
+ol {
+  list-style-type: upper-roman;
+}
+
 a {
   --tw-text-opacity: 1;
   color: rgba(37, 99, 235, var(--tw-text-opacity));
