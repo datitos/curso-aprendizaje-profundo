@@ -20,9 +20,7 @@ Este curso tiene dos modalidades de cursado
 		+ Ejercicios obligatorios
 		+ Examen global
 		+ Proyecto final
-		
 * Alumnos oyentes:
-
 	- Solamente tendrán acceso al material.
 
 ## Prerequisistos:
