@@ -3,7 +3,7 @@ header:
   tipo: Clase
   fecha: Fecha
   desc: Descripción
-  rec: Recursos
+  rec: 
 
 body:
 - tipo: Clase 1
@@ -12,7 +12,8 @@ body:
     <ul><li>Definición de componentes claves </li>
     <li>Tipo de problemas de aprendizaje</li>
     <li>Aprendizaje profundo en la vida cotidiana</li></ul>
-  rec: Diapositivas
+  rec: 
+    Diapositivas
     Video
 - tipo: Clase 2 
   fecha: miércoles, 17 de marzo de 2021
@@ -21,7 +22,7 @@ body:
     <li>Entornos de ejecución</li>
     <li>Manipulación y preprocesamiento de datos</li>
     <li>Cálculo automático de gradientes</li></ul>
-- tipo: Clasa 3
+- tipo: Clase 3
   fecha: lunes, 22 de marzo de 2021
   desc: Redes neuronales de una capa
     <ul><li>Regresión lineal</li>
