@@ -580,19 +580,18 @@ h5 {
   margin-bottom: 0.5rem;
 }
 
-p{
+p, ul, ol {
   margin-top: 0.25rem;
 }
 
 ul{
   list-style-position: inside;
   list-style-type: disc;
-  margin-left: 1rem;
 }
 
 ol {
-  list-style-type: upper-roman;
   list-style-position: inside;
+  list-style-type: decimal;
 }
 
 a {
