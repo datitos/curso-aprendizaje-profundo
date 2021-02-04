@@ -52,7 +52,7 @@
     * Máquinas de factorización profundas
  
  
- Referencias:
+ ## Referencias:
  
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Natural Language Processing with Deep Learning, Stanford](http://web.stanford.edu/class/cs224n/index.html)
