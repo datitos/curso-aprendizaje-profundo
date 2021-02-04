@@ -43,7 +43,10 @@
   .entrega {
     @apply bg-yellow-200;
   }
-}
+  .consulta {
+    @apply bg-gray-200;
+  }
+} 
 
 @tailwind components;
 @tailwind utilities;
