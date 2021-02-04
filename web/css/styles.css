@@ -17,10 +17,10 @@
     @apply font-semibold mt-3;
   }
   p, ul {
-    @apply mt-4;
+    @apply mt-1;
   }
   ul{
-    @apply list-inside list-disc ml-1;
+    @apply list-inside list-disc ml-4;
   }
   a {
     @apply text-blue-600;
