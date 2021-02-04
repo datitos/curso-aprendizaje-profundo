@@ -7,150 +7,150 @@ header:
 
 body:
 - tipo: Clase 1
-  fecha: lunes, 15 de marzo
+  fecha: Lunes 15 de marzo
   desc: <h5>Introducción, motivación y bienvenida</h5>
     <ul><li>Definición de componentes claves </li>
     <li>Tipo de problemas de aprendizaje</li>
     <li>Aprendizaje profundo en la vida cotidiana</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Clase 2 
-  fecha: miércoles, 17 de marzo
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Clase 2
+  fecha: Miércoles 17 de marzo
   desc: <h5>Implementación de los modelos</h5>
     <ul><li>Frameworks de aprendizaje profundo</li>
     <li>Entornos de ejecución</li>
     <li>Manipulación y preprocesamiento de datos</li>
     <li>Cálculo automático de gradientes</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 1
-  fecha: miércoles, 17 de marzo
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 1
+  fecha: Miércoles 17 de marzo
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
+  rec: <a href="#">Trabajo práctico</a>
   class: práctica
 - tipo: Consulta Pablo Marinozi
-  fecha: jueves, 18 de marzo
+  fecha: Jueves 18 de marzo
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 19 de marzo
+  fecha: Viernes 19 de marzo
 - tipo: Clase 3
-  fecha: lunes, 22 de marzo
+  fecha: Lunes 22 de marzo
   desc: <h5>Redes neuronales de una capa</h5>
     <ul><li>Regresión lineal</li>
     <li>Regresión SoftMax</li>
     <li>Implementación desde cero</li>
     <li>Implementación usando frameworks</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Clase 4
-  fecha: miércoles, 24 de marzo
+  fecha: Miércoles 24 de marzo
   desc: <h5>Redes neuronales de multicapa</h5>
     <ul><li>Perceptrón Multicapa (MLP)</li>
     <li>Foward Propagation</li>
     <li>Backward Propagation</li>
     <li>Implementación desde cero</li>
     <li>Implementación usando frameworks</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 25 de marzo
+  fecha: Jueves 25 de marzo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 26 de marzo
+  fecha: Viernes 26 de marzo
 - tipo: Clase 5
-  fecha: lunes, 29 de marzo
+  fecha: Lunes 29 de marzo
   desc: <h5>MLP a medida</h5>
     <ul><li>Capas y Bloques</li>
     <li>Capas diseñadas a medida</li>
     <li>Inicialización y manejo de parámetros</li>
     <li>Operaciones de I/O</li>
     <li>GPU</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 2
-  fecha: lunes, 29 de marzo
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 2
+  fecha: Lunes 29 de marzo
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
+  rec: <a href="#">Trabajo práctico</a>
   class: práctica
 - tipo: Clase 6
-  fecha: miércoles, 31 de marzo
+  fecha: Miércoles 31 de marzo
   desc: <h5>Algoritmos de Optimización</h5>
     <ul><li>Descenso de gradiente</li>
     <li>Descenso estocástico de gradiente</li>
     <li>Momentum</li>
     <li>ADAGRAD</li>
     <li>ADAM</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 1
-  fecha: miércoles, 31 de marzo
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 1
+  fecha: Miércoles 31 de marzo
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 1 de abril
+  fecha: Jueves 1 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 2 de abril
+  fecha: Viernes 2 de abril
 - tipo: Clase 7
-  fecha: lunes, 5 de abril
+  fecha: Lunes 5 de abril
   desc: <h5>Selección de modelos</h5>
     <ul><li>Underfittng</li>
     <li>Overfitting</li>
     <li>Regularización de los pesos</li>
     <li>Dropout</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 3
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 3
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 5 de abril
+  rec: <a href="#">Trabajo práctico</a>
+  fecha: Lunes 5 de abril
   class: práctica
 - tipo: Clase 8
-  fecha: miércoles, 7 de abril
+  fecha: Miércoles 7 de abril
   desc: <h5>Redes convolucionales&#58; CNN</h5>
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
     <li>Padding y striding</li>
     <li>Arquitectura LeNet</li>
     <li>Implementacion de LeNet</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 8 de abril
+  fecha: Jueves 8 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 9 de abril
+  fecha: Viernes 9 de abril
 - tipo: Clase 9
-  fecha: lunes, 12 de abril
+  fecha: Lunes 12 de abril
   desc: <h5>Arquitecturas CNN Modernas</h5>
     <ul><li>AlexNet e ImageNet</li>
     <li>Bloques VGG</li>
@@ -159,78 +159,78 @@ body:
     <li>Batch Normalization</li>
     <li>Conexiones residuales&#58; ResNet</li>
     <li>Bloques densos&#58; DenseNet</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 4
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 4
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 12 de abril
+  rec: <a href="#">Trabajo práctico</a>
+  fecha: Lunes 12 de abril
   class: práctica
-- tipo: Trabajo Práctico 2
+- tipo: Trabajo práctico 2
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 12 de abril
+  fecha: Lunes 12 de abril
 - tipo: Clase 10
-  fecha: miércoles, 14 de abril
+  fecha: Miércoles 14 de abril
   desc: <h5>Transfer Learning</h5>
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
     <li>Aplicación&#58; Transferencia de estilos</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 15 de abril
+  fecha: Jueves 15 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 16 de abril
+  fecha: Viernes 16 de abril
 - tipo: Clase 11
-  fecha: lunes, 19 de abril
+  fecha: Lunes 19 de abril
   desc: <h5>Detección de Objetos</h5>
     <ul><li>Bounding Boxes</li>
     <li>Detección multiescala&#58; SSD</li>
     <li>Detección basada en regiones&#58; R-CNN</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 5
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 5
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 19 de abril
+  rec: <a href="#">Trabajo práctico</a>
+  fecha: Lunes 19 de abril
   class: práctica
-- tipo: Trabajo Práctico 3
+- tipo: Trabajo práctico 3
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 19 de abril
+  fecha: Lunes 19 de abril
 - tipo: Clase 12
-  fecha: miércoles, 21 de abril
+  fecha: Miércoles 21 de abril
   desc: <h5>Upsampling</h5>
     <ul><li>Convolución traspuesta</li>
     <li>Segmentación semática&#58; FCN</li>
     <li>Modelos generativos&#58; GANs</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 22 de abril
+  fecha: Jueves 22 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 23 de abril
+  fecha: Viernes 23 de abril
 - tipo: Clase 13
-  fecha: lunes, 26 de abril
+  fecha: Lunes 26 de abril
   desc: <h5>Redes recurrentes&#58; RNN</h5>
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
@@ -238,228 +238,228 @@ body:
     <li>Backpropagation con dependencia temporal</li>
     <li>Implementación desde cero</li>
     <li>Implementación usando frameworks</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 6
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 6
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
+  rec: <a href="#">Trabajo práctico</a>
   class: práctica
-  fecha: lunes, 26 de abril
-- tipo: Trabajo Práctico 4
+  fecha: Lunes 26 de abril
+- tipo: Trabajo práctico 4
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 26 de abril
+  fecha: Lunes 26 de abril
 - tipo: Clase 14
-  fecha: miércoles, 28 de abril
+  fecha: Miércoles 28 de abril
   desc: <h5>Arquitecturas RNN Modernas</h5>
     <ul><li>Recurrencias con compuertas&#58; GRU</li>
     <li>Recurrencia con memoria&#58; LSTM</li>
     <li>Recurrencia bidireccional</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 29 de abril
+  fecha: Jueves 29 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 30 de abril
+  fecha: Viernes 30 de abril
 - tipo: Clase 15
-  fecha: lunes, 3 de mayo
+  fecha: Lunes 3 de mayo
   desc: <h5>Analisis de sentimiento</h5>
     <ul><li>Implementación con RNN</li>
     <li>Implementación con CNN</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 7
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 7
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
+  rec: <a href="#">Trabajo práctico</a>
   class: práctica
-  fecha: lunes, 3 de mayo
-- tipo: Trabajo Práctico 5
+  fecha: Lunes 3 de mayo
+- tipo: Trabajo práctico 5
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 3 de mayo
+  fecha: Lunes 3 de mayo
 - tipo: Clase 16
-  fecha: miércoles, 5 de mayo
+  fecha: Miércoles 5 de mayo
   desc: <h5>Traducción automática</h5>
     <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li>
     <li>Embeddings de palabras&#58; Word2Vec</li>
     <li>Embeddings de palabras&#58; GloVe</li>
     <li>Embeddings de morfemas&#58; fastText</li>
     <li>Implementación con RNN</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 6 de mayo
+  fecha: Jueves 6 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 7 de mayo
+  fecha: Viernes 7 de mayo
 - tipo: Clase 17
-  fecha: lunes, 10 de mayo
+  fecha: Lunes 10 de mayo
   desc: <h5>Mecanismo de atención</h5>
     <ul><li>Concepto de atención</li>
     <li>Pooling de atención</li>
     <li>Métricas de atención</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 8
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 8
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
+  rec: <a href="#">Trabajo práctico</a>
   class: práctica
-  fecha: lunes, 10 de mayo
-- tipo: Trabajo Práctico 6
+  fecha: Lunes 10 de mayo
+- tipo: Trabajo práctico 6
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 10 de mayo
+  fecha: Lunes 10 de mayo
 - tipo: Clase 18
-  fecha: miércoles, 12 de mayo
+  fecha: Miércoles 12 de mayo
   desc: <h5>Atención en RNN</h5>
     <ul><li>Modelo de Bahdanau</li>
     <li>Multiples cabezales</li>
     <li>Autoatención</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 13 de mayo
+  fecha: Jueves 13 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 14 de mayo
+  fecha: Viernes 14 de mayo
 - tipo: Clase 19
-  fecha: lunes, 17 de mayo
+  fecha: Lunes 17 de mayo
   desc: <h5>Transformers</h5>
     <ul><li>MLP sensible a la posición</li>
     <li>Normalización por capas</li>
     <li>Atención con máscaras</li>
     <li>Codificación posicional</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 7
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 7
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 17 de mayo
+  fecha: Lunes 17 de mayo
 - tipo: Clase 20
-  fecha: miércoles, 19 de mayo
+  fecha: Miércoles 19 de mayo
   desc: <h5>Transformers bidireccionales&#58; BERT</h5>
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
     <li>Modelado del lenguaje con máscaras</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 9
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 9
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
-  fecha: miércoles, 19 de mayo
+  rec: <a href="#">Trabajo práctico</a>
+  fecha: Miércoles 19 de mayo
   class: práctica
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 20 de mayo
+  fecha: Jueves 20 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 21 de mayo
+  fecha: Viernes 21 de mayo
 - tipo: Clase 21
-  fecha: lunes, 24 de mayo
+  fecha: Lunes 24 de mayo
   desc: <h5>Aplicaciones de BERT</h5>
     <ul><li>Predicción de próxima oraciones</li>
     <li>Etiquetado automático</li>
     <li>Respuesta automatizada a preguntas</li>
     <li>Inferencia del lenguaje</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 8
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 8
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 24 de mayo
+  fecha: Lunes 24 de mayo
 - tipo: Clase 22
-  fecha: miércoles, 26 de mayo
+  fecha: Miércoles 26 de mayo
   desc: <h5>Sistemas de recomencación con datos explicitos</h5>
     <ul><li>Sistemas de recomencación&#58; clasificación</li>
     <li>Factorización de matrices</li>
     <li>Predicción de calificación con autoencoder</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 27 de mayo
+  fecha: Jueves 27 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 28 de mayo
+  fecha: Viernes 28 de mayo
 - tipo: Clase 23
-  fecha: lunes, 31 de mayo
+  fecha: Lunes 31 de mayo
   desc: <h5>Sistemas de recomendación con ranking</h5>
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
     <li>Factorización de matrices con MLP&#58; NeuMF</li>
     <li>Sensibildiad a la secuencia&#58;  Caser</li></ul>
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
 - tipo: Clase 24
-  fecha: miércoles, 2 de junio
+  fecha: Miércoles 2 de junio
   desc: <h5>Sistemas de recomencación con datos implicitos</h5>
     <ul><li>Máquinas de factorización</li>
-    <li>Máquinas de factorización Profundas</li></ul>    
-  rec: 
-    <a  href="#">Diapositivas</a><br>
-    <a  href="#">Video</a>
-- tipo: Trabajo Práctico 10
+    <li>Máquinas de factorización Profundas</li></ul>
+  rec:
+    <a href="#">Diapositivas</a><br>
+    <a href="#">Video</a>
+- tipo: Trabajo práctico 10
   desc: Habilitado para resolución
-  rec: <a  href="#">Trabajo Práctico</a>
-  fecha: miércoles, 2 de junio
+  rec: <a href="#">Trabajo práctico</a>
+  fecha: Miércoles 2 de junio
   class: práctica
-- tipo: Trabajo Práctico 9
+- tipo: Trabajo práctico 9
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: miércoles, 2 de junio
+  fecha: Miércoles 2 de junio
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 3 de junio
+  fecha: Jueves 3 de junio
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
-  rec: <a  href="#">Consulta</a>
+  rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 4 de junio
-- tipo: Trabajo Práctico 10
+  fecha: Viernes 4 de junio
+- tipo: Trabajo práctico 10
   desc: ENTREGA
-  rec: <a  href="#">Entrega</a>
+  rec: <a href="#">Entrega</a>
   class: entrega
-  fecha: miércoles, 16 de junio
+  fecha: Miércoles 16 de junio
