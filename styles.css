@@ -575,13 +575,14 @@ h4 {
   margin-top: 0.75rem;
 }
 
-p, ul, ol, ul ul, ul ul ul,  {
+p, ul {
   margin-top: 0.25rem;
 }
 
-ul, ol, ul ul, ul ul ul,  {
+ul{
   list-style-position: inside;
   list-style-type: disc;
+  margin-left: 0.25rem;
 }
 
 a {
