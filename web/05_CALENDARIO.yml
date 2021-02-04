@@ -115,7 +115,7 @@ body:
   class: consulta
 - tipo: Clase 8
   fecha: miércoles, 7 de abril de 2021
-  desc: Redes convolucionales\: CNN
+  desc: Redes convolucionales: CNN
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
     <li>Padding y striding</li>
