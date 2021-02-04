@@ -7,7 +7,7 @@ header:
 
 body:
 - tipo: Clase 1
-  fecha: lunes, 15 de marzo de 2021
+  fecha: lunes, 15 de marzo
   desc: <h5>Introducción, motivación y bienvenida</h5>
     <ul><li>Definición de componentes claves </li>
     <li>Tipo de problemas de aprendizaje</li>
@@ -16,7 +16,7 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Clase 2 
-  fecha: miércoles, 17 de marzo de 2021
+  fecha: miércoles, 17 de marzo
   desc: <h5>Implementación de los modelos</h5>
     <ul><li>Frameworks de aprendizaje profundo</li>
     <li>Entornos de ejecución</li>
@@ -26,12 +26,12 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Trabajo Práctico 1
-  fecha: miércoles, 17 de marzo de 2021
+  fecha: miércoles, 17 de marzo
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
   class: práctica
 - tipo: Consulta Pablo Marinozi
-  fecha: jueves, 18 de marzo de 2021
+  fecha: jueves, 18 de marzo
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
@@ -39,9 +39,9 @@ body:
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 19 de marzo de 2021
+  fecha: viernes, 19 de marzo
 - tipo: Clase 3
-  fecha: lunes, 22 de marzo de 2021
+  fecha: lunes, 22 de marzo
   desc: <h5>Redes neuronales de una capa</h5>
     <ul><li>Regresión lineal</li>
     <li>Regresión SoftMax</li>
@@ -51,7 +51,7 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Clase 4
-  fecha: miércoles, 24 de marzo de 2021
+  fecha: miércoles, 24 de marzo
   desc: <h5>Redes neuronales de multicapa</h5>
     <ul><li>Perceptrón Multicapa (MLP)</li>
     <li>Foward Propagation</li>
@@ -65,14 +65,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 25 de marzo de 2021
+  fecha: jueves, 25 de marzo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 26 de marzo de 2021
+  fecha: viernes, 26 de marzo
 - tipo: Clase 5
-  fecha: lunes, 29 de marzo de 2021
+  fecha: lunes, 29 de marzo
   desc: <h5>MLP a medida</h5>
     <ul><li>Capas y Bloques</li>
     <li>Capas diseñadas a medida</li>
@@ -83,12 +83,12 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Trabajo Práctico 2
-  fecha: lunes, 29 de marzo de 2021
+  fecha: lunes, 29 de marzo
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
   class: práctica
 - tipo: Clase 6
-  fecha: miércoles, 31 de marzo de 2021
+  fecha: miércoles, 31 de marzo
   desc: <h5>Algoritmos de Optimización</h5>
     <ul><li>Descenso de gradiente</li>
     <li>Descenso estocástico de gradiente</li>
@@ -99,7 +99,7 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Trabajo Práctico 1
-  fecha: miércoles, 31 de marzo de 2021
+  fecha: miércoles, 31 de marzo
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
@@ -107,14 +107,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 1 de abril de 2021
+  fecha: jueves, 1 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 2 de abril de 2021
+  fecha: viernes, 2 de abril
 - tipo: Clase 7
-  fecha: lunes, 5 de abril de 2021
+  fecha: lunes, 5 de abril
   desc: <h5>Selección de modelos</h5>
     <ul><li>Underfittng</li>
     <li>Overfitting</li>
@@ -126,10 +126,10 @@ body:
 - tipo: Trabajo Práctico 3
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 5 de abril de 2021
+  fecha: lunes, 5 de abril
   class: práctica
 - tipo: Clase 8
-  fecha: miércoles, 7 de abril de 2021
+  fecha: miércoles, 7 de abril
   desc: <h5>Redes convolucionales&#58; CNN</h5>
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
@@ -143,14 +143,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 8 de abril de 2021
+  fecha: jueves, 8 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 9 de abril de 2021
+  fecha: viernes, 9 de abril
 - tipo: Clase 9
-  fecha: lunes, 12 de abril de 2021
+  fecha: lunes, 12 de abril
   desc: <h5>Arquitecturas CNN Modernas</h5>
     <ul><li>AlexNet e ImageNet</li>
     <li>Bloques VGG</li>
@@ -165,15 +165,15 @@ body:
 - tipo: Trabajo Práctico 4
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 12 de abril de 2021
+  fecha: lunes, 12 de abril
   class: práctica
 - tipo: Trabajo Práctico 2
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 12 de abril de 2021
+  fecha: lunes, 12 de abril
 - tipo: Clase 10
-  fecha: miércoles, 14 de abril de 2021
+  fecha: miércoles, 14 de abril
   desc: <h5>Transfer Learning</h5>
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
@@ -185,14 +185,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 15 de abril de 2021
+  fecha: jueves, 15 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 16 de abril de 2021
+  fecha: viernes, 16 de abril
 - tipo: Clase 11
-  fecha: lunes, 19 de abril de 2021
+  fecha: lunes, 19 de abril
   desc: <h5>Detección de Objetos</h5>
     <ul><li>Bounding Boxes</li>
     <li>Detección multiescala&#58; SSD</li>
@@ -203,15 +203,15 @@ body:
 - tipo: Trabajo Práctico 5
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
-  fecha: lunes, 19 de abril de 2021
+  fecha: lunes, 19 de abril
   class: práctica
 - tipo: Trabajo Práctico 3
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 19 de abril de 2021
+  fecha: lunes, 19 de abril
 - tipo: Clase 12
-  fecha: miércoles, 21 de abril de 2021
+  fecha: miércoles, 21 de abril
   desc: <h5>Upsampling</h5>
     <ul><li>Convolución traspuesta</li>
     <li>Segmentación semática&#58; FCN</li>
@@ -223,14 +223,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 22 de abril de 2021
+  fecha: jueves, 22 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 23 de abril de 2021
+  fecha: viernes, 23 de abril
 - tipo: Clase 13
-  fecha: lunes, 26 de abril de 2021
+  fecha: lunes, 26 de abril
   desc: <h5>Redes recurrentes&#58; RNN</h5>
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
@@ -245,14 +245,14 @@ body:
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
   class: práctica
-  fecha: lunes, 26 de abril de 2021
+  fecha: lunes, 26 de abril
 - tipo: Trabajo Práctico 4
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 26 de abril de 2021
+  fecha: lunes, 26 de abril
 - tipo: Clase 14
-  fecha: miércoles, 28 de abril de 2021
+  fecha: miércoles, 28 de abril
   desc: <h5>Arquitecturas RNN Modernas</h5>
     <ul><li>Recurrencias con compuertas&#58; GRU</li>
     <li>Recurrencia con memoria&#58; LSTM</li>
@@ -264,14 +264,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 29 de abril de 2021
+  fecha: jueves, 29 de abril
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 30 de abril de 2021
+  fecha: viernes, 30 de abril
 - tipo: Clase 15
-  fecha: lunes, 3 de mayo de 2021
+  fecha: lunes, 3 de mayo
   desc: <h5>Analisis de sentimiento</h5>
     <ul><li>Implementación con RNN</li>
     <li>Implementación con CNN</li></ul>
@@ -282,14 +282,14 @@ body:
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
   class: práctica
-  fecha: lunes, 3 de mayo de 2021
+  fecha: lunes, 3 de mayo
 - tipo: Trabajo Práctico 5
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 3 de mayo de 2021
+  fecha: lunes, 3 de mayo
 - tipo: Clase 16
-  fecha: miércoles, 5 de mayo de 2021
+  fecha: miércoles, 5 de mayo
   desc: <h5>Traducción automática</h5>
     <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li>
     <li>Embeddings de palabras&#58; Word2Vec</li>
@@ -303,14 +303,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 6 de mayo de 2021
+  fecha: jueves, 6 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 7 de mayo de 2021
+  fecha: viernes, 7 de mayo
 - tipo: Clase 17
-  fecha: lunes, 10 de mayo de 2021
+  fecha: lunes, 10 de mayo
   desc: <h5>Mecanismo de atención</h5>
     <ul><li>Concepto de atención</li>
     <li>Pooling de atención</li>
@@ -322,14 +322,14 @@ body:
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
   class: práctica
-  fecha: lunes, 10 de mayo de 2021
+  fecha: lunes, 10 de mayo
 - tipo: Trabajo Práctico 6
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 10 de mayo de 2021
+  fecha: lunes, 10 de mayo
 - tipo: Clase 18
-  fecha: miércoles, 12 de mayo de 2021
+  fecha: miércoles, 12 de mayo
   desc: <h5>Atención en RNN</h5>
     <ul><li>Modelo de Bahdanau</li>
     <li>Multiples cabezales</li>
@@ -341,14 +341,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 13 de mayo de 2021
+  fecha: jueves, 13 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 14 de mayo de 2021
+  fecha: viernes, 14 de mayo
 - tipo: Clase 19
-  fecha: lunes, 17 de mayo de 2021
+  fecha: lunes, 17 de mayo
   desc: <h5>Transformers</h5>
     <ul><li>MLP sensible a la posición</li>
     <li>Normalización por capas</li>
@@ -361,9 +361,9 @@ body:
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 17 de mayo de 2021
+  fecha: lunes, 17 de mayo
 - tipo: Clase 20
-  fecha: miércoles, 19 de mayo de 2021
+  fecha: miércoles, 19 de mayo
   desc: <h5>Transformers bidireccionales&#58; BERT</h5>
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
@@ -374,20 +374,20 @@ body:
 - tipo: Trabajo Práctico 9
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
-  fecha: miércoles, 19 de mayo de 2021
+  fecha: miércoles, 19 de mayo
   class: práctica
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 20 de mayo de 2021
+  fecha: jueves, 20 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 21 de mayo de 2021
+  fecha: viernes, 21 de mayo
 - tipo: Clase 21
-  fecha: lunes, 24 de mayo de 2021
+  fecha: lunes, 24 de mayo
   desc: <h5>Aplicaciones de BERT</h5>
     <ul><li>Predicción de próxima oraciones</li>
     <li>Etiquetado automático</li>
@@ -400,9 +400,9 @@ body:
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: lunes, 24 de mayo de 2021
+  fecha: lunes, 24 de mayo
 - tipo: Clase 22
-  fecha: miércoles, 26 de mayo de 2021
+  fecha: miércoles, 26 de mayo
   desc: <h5>Sistemas de recomencación con datos explicitos</h5>
     <ul><li>Sistemas de recomencación&#58; clasificación</li>
     <li>Factorización de matrices</li>
@@ -414,14 +414,14 @@ body:
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 27 de mayo de 2021
+  fecha: jueves, 27 de mayo
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 28 de mayo de 2021
+  fecha: viernes, 28 de mayo
 - tipo: Clase 23
-  fecha: lunes, 31 de mayo de 2021
+  fecha: lunes, 31 de mayo
   desc: <h5>Sistemas de recomendación con ranking</h5>
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
@@ -431,7 +431,7 @@ body:
     <a  href="#">Diapositivas</a><br>
     <a  href="#">Video</a>
 - tipo: Clase 24
-  fecha: miércoles, 2 de junio de 2021
+  fecha: miércoles, 2 de junio
   desc: <h5>Sistemas de recomencación con datos implicitos</h5>
     <ul><li>Máquinas de factorización</li>
     <li>Máquinas de factorización Profundas</li></ul>    
@@ -441,25 +441,25 @@ body:
 - tipo: Trabajo Práctico 10
   desc: Habilitado para resolución
   rec: <a  href="#">Trabajo Práctico</a>
-  fecha: miércoles, 2 de junio de 2021
+  fecha: miércoles, 2 de junio
   class: práctica
 - tipo: Trabajo Práctico 9
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: miércoles, 2 de junio de 2021
+  fecha: miércoles, 2 de junio
 - tipo: Consulta Pablo Marinozi
   desc: 17&#58;00 a 19&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: jueves, 3 de junio de 2021
+  fecha: jueves, 3 de junio
 - tipo: Consulta Luciano Robino
   desc: 10&#58;00 a 12&#58;00
   rec: <a  href="#">Consulta</a>
   class: consulta
-  fecha: viernes, 4 de junio de 2021
+  fecha: viernes, 4 de junio
 - tipo: Trabajo Práctico 10
   desc: ENTREGA
   rec: <a  href="#">Entrega</a>
   class: entrega
-  fecha: miércoles, 16 de junio de 2021
+  fecha: miércoles, 16 de junio
