@@ -20,7 +20,7 @@
     @apply mt-1;
   }
   ul, ol, ul ul, ul ul ul, {
-    @apply list-disc list-inside;
+    @apply list-inside list-disc;
   }
   a {
     @apply text-blue-600;
