@@ -16,7 +16,7 @@
   h4 {
     @apply font-semibold mt-3;
   }
-  p, ul {
+  p{
     @apply mt-1;
   }
   ul{
