@@ -29,6 +29,12 @@ body:
   fecha: miércoles, 17 de marzo de 2021
   desc: habilitado para resolución
   rec: Trabajo Práctico
+  class: consulta
+- tipo: Encuentro Sincrónico 1
+  fecha: jueves, 18 de marzo de 2021
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
 - tipo: Clase 3
   fecha: lunes, 22 de marzo de 2021
   desc: Redes neuronales de una capa
@@ -50,6 +56,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 2
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 25 de marzo de 2021
 - tipo: Clase 5
   fecha: lunes, 29 de marzo de 2021
   desc: MLP a medida
@@ -65,6 +76,7 @@ body:
   fecha: lunes, 29 de marzo de 2021
   desc: habilitado para resolución
   rec: Trabajo Práctico
+  class: consulta
 - tipo: Clase 6
   fecha: miércoles, 31 de marzo de 2021
   desc: Algoritmos de Optimización
@@ -81,6 +93,11 @@ body:
   desc: ENTREGA
   rec: <p>entrega</p>
   class: entrega
+- tipo: Encuentro Sincrónico 3
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 1 de abril de 2021
 - tipo: Clase 7
   fecha: lunes, 5 de abril de 2021
   desc: Selección de modelos
@@ -95,6 +112,7 @@ body:
   desc: habilitado para resolución
   rec: Trabajo Práctico
   fecha: lunes, 5 de abril de 2021
+  class: consulta
 - tipo: Clase 8
   fecha: miércoles, 7 de abril de 2021
   desc: Redes convolucionales":" CNN
@@ -106,6 +124,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 4
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 8 de abril de 2021
 - tipo: Clase 9
   fecha: lunes, 12 de abril de 2021
   desc: Arquitecturas CNN Modernas
@@ -119,14 +142,15 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Trabajo Práctico 4
+  desc: habilitado para resolución
+  rec: Trabajo Práctico
+  fecha: lunes, 12 de abril de 2021
+  class: consulta
 - tipo: Trabajo Práctico 2
   desc: ENTREGA
   rec: <p>entrega</p>
   class: entrega
-  fecha: lunes, 12 de abril de 2021
-- tipo: Trabajo Práctico 4
-  desc: habilitado para resolución
-  rec: Trabajo Práctico
   fecha: lunes, 12 de abril de 2021
 - tipo: Clase 10
   fecha: miércoles, 14 de abril de 2021
@@ -134,6 +158,11 @@ body:
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
     <li>Aplicación":" Transferencia de estilos</li></ul>
+- tipo: Encuentro Sincrónico 5
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 15 de abril de 2021
 - tipo: Clase 11
   fecha: lunes, 19 de abril de 2021
   desc: Detección de Objetos
@@ -147,6 +176,7 @@ body:
   desc: habilitado para resolución
   rec: Trabajo Práctico
   fecha: lunes, 19 de abril de 2021
+  class: consulta
 - tipo: Trabajo Práctico 3
   desc: ENTREGA
   rec: <p>entrega</p>
@@ -161,6 +191,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 6
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 22 de abril de 2021
 - tipo: Clase 13
   fecha: lunes, 26 de abril de 2021
   desc: Redes recurrentes":" RNN
@@ -176,6 +211,7 @@ body:
 - tipo: Trabajo Práctico 6
   desc: habilitado para resolución
   rec: Trabajo Práctico
+  class: consulta
   fecha: lunes, 26 de abril de 2021
 - tipo: Trabajo Práctico 4
   desc: ENTREGA
@@ -191,6 +227,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 7
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 29 de abril de 2021
 - tipo: Clase 15
   fecha: lunes, 3 de mayo de 2021
   desc: Analisis de sentimiento
@@ -202,6 +243,7 @@ body:
 - tipo: Trabajo Práctico 7
   desc: habilitado para resolución
   rec: Trabajo Práctico
+  class: consulta
   fecha: lunes, 3 de mayo de 2021
 - tipo: Trabajo Práctico 5
   desc: ENTREGA
@@ -219,6 +261,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 8
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 6 de mayo de 2021
 - tipo: Clase 17
   fecha: lunes, 10 de mayo de 2021
   desc: Mecanismo de atención
@@ -231,6 +278,7 @@ body:
 - tipo: Trabajo Práctico 8
   desc: habilitado para resolución
   rec: Trabajo Práctico
+  class: consulta
   fecha: lunes, 10 de mayo de 2021
 - tipo: Trabajo Práctico 6
   desc: ENTREGA
@@ -246,6 +294,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 9
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 13 de mayo de 2021
 - tipo: Clase 19
   fecha: lunes, 17 de mayo de 2021
   desc: Transformers
@@ -274,6 +327,12 @@ body:
   desc: habilitado para resolución
   rec: Trabajo Práctico
   fecha: miércoles, 19 de mayo de 2021
+  class: consulta
+- tipo: Encuentro Sincrónico 10
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 20 de mayo de 2021
 - tipo: Clase 21
   fecha: lunes, 24 de mayo de 2021
   desc: Aplicaciones de BERT
@@ -298,6 +357,11 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 11
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 27 de mayo de 2021
 - tipo: Clase 23
   fecha: lunes, 31 de mayo de 2021
   desc: Sistemas de recomendación con ranking
@@ -316,10 +380,16 @@ body:
   rec: 
     <p>Diapositivas</p>
     <p>Video</p>
+- tipo: Encuentro Sincrónico 12
+  desc: 15":"30
+  rec: <p>consulta</p>
+  class: práctica
+  fecha: jueves, 3 de junio de 2021
 - tipo: Trabajo Práctico 10
   desc: habilitado para resolución
   rec: Trabajo Práctico
   fecha: miércoles, 2 de junio de 2021
+  class: consulta
 - tipo: Trabajo Práctico 9
   desc: ENTREGA
   rec: <p>entrega</p>
@@ -330,30 +400,3 @@ body:
   rec: <p>entrega</p>
   class: entrega
   fecha: miércoles, 16 de junio de 2021
-- tipo: Lecture 4
-  fecha: Thursday April 16
-  desc: |
-    <b>Neural Networks and Backpropagation</b>
-    Backpropagation
-    Multi-layer Perceptrons
-    The neural viewpoint
-  rec: |
-    <a href="#">slides</a>
-    backprop notes
-    linear backprop example
-    derivatives notes (optional)
-    Efficient BackProp (optional)
-  class: consulta
-- tipo: Discussion Section
-  fecha: Friday April 17
-  desc: Backprop tutorial
-  rec: |
-    slides
-    annotated slides
-  class: práctica
-- tipo: A1 Due
-  fecha: Wednesday April 22
-  desc: |
-    Assignment 1 due
-    kNN, SVM, SoftMax, two-layer network
-  class: entrega
