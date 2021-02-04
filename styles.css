@@ -591,7 +591,7 @@ ul{
 }
 
 ol {
-  list-style-type: upper-roman;
+  list-style-type: upper-roman ml-4 list-inside;
 }
 
 a {
