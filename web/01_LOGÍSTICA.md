@@ -1,6 +1,6 @@
 # Organización y condiciones de cursado
 
-El materal de estudio está disponible todo el tiempo para los alumnos. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. Es muy recomendable que los alumnos interactúen entre ellos en los espacios dedicados para ello. Las horas de consulta servirán para que los docentes resuelvan dudas tanto conceptuales como de aplicación. Las horas de consulta servirán también para:
+El materal de estudio está disponible todo el tiempo para los alumnos. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. Es muy recomendable que los alumnos interactúen entre ellos en el servidor de discord dedicado para esto. Las horas de consulta servirán para que los docentes resuelvan dudas tanto conceptuales como de aplicación. Las horas de consulta servirán también para:
 
 * Hacer puestas en común
 * Resolver ejercicios
