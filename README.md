@@ -1,4 +1,7 @@
 # Curso Aprendizaje Profundo
+
+Las fechas corresponden a las fechas de subida de clases grabadas
+
 ## Cronograma
 
 | |  |
