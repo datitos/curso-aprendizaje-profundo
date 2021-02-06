@@ -1,10 +1,12 @@
+# Ejemplos posibles de Trabajos finales
+
 Dataset FIFA 
-  Regresión del valor de mercado
-  Clasificación de la posición (delantero, mediocampista, defensor o arquero)
-  Generar caras de jugadores de futbol
+  * Regresión del valor de mercado
+  * Clasificación de la posición (delantero, mediocampista, defensor o arquero)
+  * Generar caras de jugadores de futbol
 
 Dataset de yemas 
-  Segmentación de las yemas
+  * Segmentación de las yemas
   
 ![Clasificación de Hiragana](https://www.kaggle.com/c/cursive-hiragana-classification/data)
 
