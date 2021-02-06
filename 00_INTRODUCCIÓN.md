@@ -1,3 +1,5 @@
+# Introducción
+
 Solo en los últimos cinco años, el aprendizaje profundo ha tomado al mundo por sorpresa, impulsando un rápido progreso en campos tan diversos como la visión por computadora, el procesamiento del lenguaje natural, el reconocimiento automático del habla, el aprendizaje por refuerzo y el modelado estadístico.
 
 Este curso representa nuestro intento de hacer que el aprendizaje profundo sea accesible, enseñandote los conceptos, el contexto y el código. Nos propusimos crear un recurso que simultáneamente pudiera:
