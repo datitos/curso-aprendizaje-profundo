@@ -601,6 +601,9 @@ a {
 
 table {
   margin-top: 1rem;
+  min-width: -webkit-max-content;
+  min-width: -moz-max-content;
+  min-width: max-content;
   table-layout: auto;
   width: 100%;
 }

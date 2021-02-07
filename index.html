@@ -19,7 +19,7 @@
 </head>
 <body class="bg-purple-100">
   <nav class="h-12 bg-white fixed top-0 inset-x-0 z-50">
-    <div class="container mx-auto px-4 max-w-screen-xl w-full h-full flex justify-start items-center">
+    <div class="container mx-auto px-8 max-w-screen-xl w-full h-full flex justify-start items-center">
       <a href="#" class="flex items-center">
         <img height="20" src="img/nyan.png" class="h-10 mr-1">
         Datitos
@@ -30,35 +30,59 @@
       <a href="#formulario" class="ml-8">
         Inscripción
       </a>
-      <a href="https://github.com/datitos/curso-aprendizaje-profundo" class="ml-8">
-        GitHub
-      </a>
+      <!--<a href="https://github.com/datitos/curso-aprendizaje-profundo" class="ml-8">-->
+        <!--GitHub-->
+      <!--</a>-->
     </div>
   </nav>
 
-  <div class="container mx-auto px-4 max-w-screen-xl mt-20 mb-7">
+  <div class="container mx-auto px-8 max-w-screen-xl mt-20 mb-16">
     <div class="text-center mb-10">
       <h1>Aprendizaje profundo</h1>
       por Datitos / Otoño 2021
     </div>
 
     <section id="intro">
-      <p>Solo en los últimos cinco años, el aprendizaje profundo ha tomado al mundo por sorpresa, impulsando un rápido progreso en campos tan diversos como la visión por computadora, el procesamiento del lenguaje natural, el reconocimiento automático del habla, el aprendizaje por refuerzo y el modelado estadístico.</p>
-      <p>Este curso representa nuestro intento de hacer que el aprendizaje profundo sea accesible, enseñandote los conceptos, el contexto y el código. Nos propusimos crear un recurso que simultáneamente pudiera:</p>
-      <ol>
-      <li>estar disponible gratuitamente para todos;</li>
-      <li>ofrecer suficiente profundidad técnica para proporcionar un punto de partida en el camino para convertirse realmente en un científico de aprendizaje automático aplicado;</li>
-      <li>incluir código ejecutable, que muestre a los estudiantes cómo resolver problemas en la práctica.</li>
-      </ol>
-      <p>El curso está dirigido a estudiantes (de grado o posgrado), ingenieros e investigadores que busquen un conocimiento sólido de las técnicas prácticas del aprendizaje profundo.</p>
-      <p>Debido a que explicamos cada concepto desde cero, no se requieren conocimientos previos en aprendizaje profundo o aprendizaje automático. Explicar completamente los métodos de aprendizaje profundo requiere algo de matemáticas y programación, pero solo vamos a asumir que saben los conceptos básicos sobre álgebra lineal, cálculo, probabilidad y programación con Python.</p>    </section>
+      <p>
+        En los últimos cinco años el aprendizaje profundo ha tomado al mundo por sorpresa,
+        impulsando un rápido progreso en campos tan diversos como la visión por computadora,
+        el procesamiento del lenguaje natural, el reconocimiento automático del habla,
+        el aprendizaje por refuerzos y el modelado estadístico.
+      </p>
 
-    <section id="equipo">
+      <hr class="m-8 w-1/6 mx-auto border-red-500 border">
+
+      <a href="https://d2l.ai"><img src="img/libro.png" alt="Tapa del libro Dive into Deep Learning" class="h-56 px-4 pb-4 md:float-left"></a>
+
+      <p>
+        Hemos elegido basar el curso en el libro <a href="https://d2l.ai">Dive into Deep Learning</a>, consideramos que
+        ofrece un enfoque práctico y moderno, incluye matemáticas y código, y sus contenidos son actuales.
+      </p>
+
+      <p>
+        Este curso representa nuestro intento de hacer que el aprendizaje profundo sea accesible, enseñándote los conceptos,
+        el contexto y el código. Nos propusimos crear un recurso que simultáneamente pudiera:
+      </p>
+
+      <ul>
+        <li>estar disponible gratuitamente para todes;</li>
+        <li>ofrecer suficiente profundidad técnica para proporcionar un punto de partida en el camino de convertirte
+            en unx científicx de datos;</li>
+        <li>incluir código ejecutable, que muestre cómo resolver problemas en la práctica.</li>
+      </ol>
+
+      <p>
+        El curso está dirigido a estudiantes de grado o posgrado, ingenierxs e investigadores que busquen un conocimiento
+        sólido del aprendizaje profundo.
+      </p>
+    </section>
+
+    <section id="equipo" class="clear-left">
       <h2>Instructores</h2>
       <div class="flex flex-wrap">
         <div class="p-4 text-center">
           <img src="img/luciano.jpg" class="h-32 mb-4 rounded-full">
-          Luciano Robino<br>Docente
+          <a href="#">Luciano Robino</a><br>Docente
         </div>
 
         <div class="p-4 text-center">
@@ -73,18 +97,70 @@
       </div>
     </section>
 
-    <section id="info">
+    <section id="general" class="flex justify-between flex-wrap -ml-16">
+      <div class="w-64 flex-grow ml-16">
+        <h2>Clases</h2>
+        <p>Comienzan en marzo y se extienden hasta junio.</p>
+        <p>
+          Los videos de las clases estarán disponibles los lunes y los miércoles a las 8:30
+          en este <a href="https://www.youtube.com/">canal de YouTube</a>.
+        </p>
+      </div>
+
+      <div class="w-64 flex-grow ml-16">
+        <h2>Consultas</h2>
+        <p>Los horarios de consulta son jueves de 17:00 a 19:00 y viernes de 10:00 a 12:00.</p>
+        <p>
+          Usaremos este <a href="https://discord.com/">servidor de Discord</a> como canal de comunicación
+          para las consultas, grupos de estudio, noticias y demás.
+        </p>
+      </div>
+
+      <div class="w-64 flex-shrink ml-16">
+        <h2>Formato</h2>
+        <ul class="list-none">
+          <li>24 clases</li>
+          <li>10 prácticos</li>
+          <li>2 parciales</li>
+          <li>Proyecto final</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="prerrequisitos">
+      <h2>Prerequisistos</h2>
+      <p>
+        Debido a que explicamos cada concepto desde cero, no requerimos conocimientos previos en aprendizaje profundo
+        ni aprendizaje automático. Explicar completamente los métodos de aprendizaje profundo requiere de matemáticas y
+        programación, pero intentaremos que el curso sea lo más autocontenido posible.
+      </p>
+
+      <h3>Programación en Python</h3>
+      <p>Vamos a programar mucho. Si tenés experiencia programando pero en un lenguaje diferente probablemente estés bien.</p>
+
+      <h3>Cálculo de una variable, cálculo vectorial, álgebra lineal</h3>
+      <p>Tendrías que sentirte bien derivando, operando con vectores y matrices, entendiendo notación.</p>
+
+      <h3>Conocimiento básico de probabilidad y estadística</h3>
+      <p>Deberías saber lo básico de probabilidades, distribución gaussiana, promedio, desviación estándar, etcétera.</p>
+    </section>
+
+    <section id="logística">
       <h2>Organización y condiciones de cursado</h2>
+      <p>¿Dónde enviar los TPs?
+      ¿Hasta que hora el día de entrega es posible enviarlo?
+      ¿Qué pasa si lo entrego tarde?
+      ¿Puedo hacerlo en grupo?</p>
       <p>El material de estudio está disponible todo el tiempo para los alumnos. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. Es muy recomendable que los alumnos interactúen entre ellos en el servidor de discord dedicado para esto. Las horas de consulta servirán para que los docentes resuelvan dudas tanto conceptuales como de aplicación. Las horas de consulta servirán también para:</p>
       <ul>
       <li>Hacer puestas en común</li>
       <li>Resolver ejercicios</li>
-      <li>Discutir otras alternativas de solución </li>
+      <li>Discutir otras alternativas de solución</li>
       <li>Presentar y resolver dudas</li>
       <li>Proponer sugerencias</li>
       <li>Promover la discusión de los temas del curso</li>
       </ul>
-      <h3>Modalidades de cursado:</h3>
+      <h3>Modalidades de cursado</h3>
       <p>Este curso tiene dos modalidades de cursado</p>
       <ul>
       <li>Alumnos inscriptos:<ul>
@@ -97,13 +173,6 @@
       <li>Alumnos oyentes:<ul>
       <li>Solamente tendrán acceso al material.</li></ul></li>
       </ul>
-      <h3>Prerequisistos:</h3>
-      <ul>
-      <li>Manejo básico de Python</li>
-      <li>Cálculo de una variable y Cálculo vectorial</li>
-      <li>Algebra lineal</li>
-      <li>Conocimiento básico de probabilidad y estadística.</li>
-      </ul>
       <h3>Condiciones del cursado</h3>
       <p>Los horarios de consulta no son de carácter obligatorio. Sin embargo, dado que son clases de consulta y de puesta en común, se recomienda la asistencia para un mejor desempeño durante el cursado.</p>
       <p>El material del curso consiste en:</p>
@@ -115,1125 +184,1031 @@
       <li>La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.</li>
       <li>Las fechas de entrega para los trabajos prácticos están estipuladas más adelante en la sección cronograma. Se recomienda respetar las fechas de entrega acordadas durante el curso.</li></ul></li>
       </ul>
-      <h3>Horarios de Consulta</h3>
-      <ul>
-      <li>Pablo Marinozi: Jueves de 17 a 19</li>
-      <li>Luciano Robino: Viernes de 10 a 12</li>
-      </ul>
-      <h3>Examen global:</h3>
+      <h3>Examen global</h3>
       <p>Una vez terminado el cronograma de las clases y consultas, se coordinará un examen global. Las preguntas de este examen serán similares a las preguntas conceptuales de los trabajos prácticos.</p>
-      <h3>Proyecto final:</h3>
+      <h3>Proyecto final</h3>
       <p>Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.</p>
       <h2>Código de conducta</h2>
       <p>Este grupo se dedica a proporcionar una experiencia libre de acoso. No toleramos el acoso en ninguna de las formas posibles.</p>
-      <p>Los trabajos a entregar deben ser una producción original.  El plagio no será tolerado. En muchos países las vulneración de los derechos de autor es un crimen que se sanciona con carcel.</p>
-      <p><strong>Cualquier persona que viole este código de conducta deberá ser sancionada o expulsada de este espacio a discreción del equipo organizador.</strong></p>
-      <h2>Programa:</h2>
-      <h4>Unidad 1: Machine learning</h4>
-      <ul>
-      <li>Machine learning: Concepto</li>
-      <li>Manipulación de data-sets</li>
-      <li>Frameworks y entornos de ejecución</li>
-      <li>Regresión lineal y redes de una capa</li>
-      <li>Perceptrones multicapa y redes multicapa</li>
-      <li>Overfitting y underfitting</li>
-      <li>Backward propagation y Foward propagation</li>
-      <li>Algoritmos de optimización:</li>
-      </ul>
-      <h4>Unidad 2 Computer vision</h4>
-      <ul>
-      <li>Convolución: Concepto</li>
-      <li>Redes neuronales convolucionales</li>
-      <li>Pooling, padding y striding</li>
-      <li>Batch normalization</li>
-      <li>Arquitecturas de redes convolucionales</li>
-      <li>Tranfer learning y Fine-tuning</li>
-      <li>Deteccción de objetos</li>
-      <li>Up-sampling y convolución transpuesta</li>
-      <li>Segmentación semántica</li>
-      <li>GANs</li>
-      </ul>
-      <h4>Unidad 3: Procesamiento de lenguaje natural</h4>
-      <ul>
-      <li>Modelos secuenciales y variables ocultas</li>
-      <li>Perplejidad, verosimilitud y entropia</li>
-      <li>Backpropagation dependiente del tiempo</li>
-      <li>Recurrencias con compuertas y memoria: GRU y LSTM</li>
-      <li>Recurrencia bidireccional</li>
-      <li>Analisis de sentimiento</li>
-      <li>Traducción automática y embeddings</li>
-      <li>Atención:</li>
-      <li>Transformers</li>
-      <li>Transformers bidireccionales: BERT</li>
-      <li>Aplicaciones de BERT</li>
-      </ul>
-      <h4>Unidad 4: Sistemas de recomendación</h4>
-      <ul>
-      <li><p>Sistemas de recomencación con datos explicitos</p>
-      <ul>
-      <li>Factorización de matrices</li></ul></li>
-      <li><p>Sistemas de recomendación con ranking</p>
-      <ul>
-      <li>Funciones de perdida para ranking     </li>
-      <li>Muestreo negativo     </li>
-      <li>Sensibildiad a la secuencia: Caser</li>
-      <li>Factorización de matrices: NeuMF    </li></ul></li>
-      <li><p>Sistemas de recomencación con datos implicitos</p>
-      <ul>
-      <li>Máquinas de factorización     </li>
-      <li>Máquinas de factorización profundas</li></ul>
-      <h3>Referencias:</h3></li>
-      <li><p><a href="https://d2l.ai/">Dive into Deep Learning</a></p></li>
-      <li><p><a href="http://web.stanford.edu/class/cs224n/index.html">Natural Language Processing with Deep Learning, Stanford</a></p></li>
-      <li><p><a href="http://web.stanford.edu/class/cs224n/index.html">Convolutional Neural Networks for Visual Recognition, Stanford</a></p></li>
-      </ul>    </section>
+      <p>Los trabajos a entregar deben ser una producción original. El plagio no será tolerado.</p>
+      <p><strong>Cualquier persona que viole este código de conducta será sancionada o expulsada de este espacio a discreción del equipo organizador.</strong></p>    </section>
 
-    <!--<section id="tareas">
-      <h2>Prácticos</h2>
-      <h3>When to Hand in</h3>
-      <p>The assignments are due at 11:59pm. The due dates for all assignments are on the syllabus page.</p>
-      <h4>Late Policy:</h4>
+    <section id="referencias">
+      <h2>Material de referencia</h2>
       <ul>
-      <li>All students have 4 free late days for the quarter.</li>
-      <li>You may use up to 2 late days per assignment with no penalty.</li>
-      <li>You may use late days for the assignments, project proposal, and project milestone.</li>
-      <li>You may not use late days for the final project report.</li>
-      <li>Once you have exhausted your free late days, we will deduct a late penalty of 25% per additional late day.</li>
-      <li>Example: You submit A1 one day late, submit A2 three days late, and submit A3 two days late. You receive no penalty for A1, and exhaust one of your free late days. For A2 the first two late days exhaust two of your free late days; the third day late incurs a 25% penalty. For A2 the first late day exhausts your final free late day; the second late day incurs a 25% penalty.</li>
-      <li>For the project proposal and milestone we will deduct late days from each group member independently.</li>
+        <li><a href="https://courses.d2l.ai/berkeley-stat-157/index.html">STAT 157: Introduction to Deep Learning, UC Berkeley</a></li>
+        <li><a href="http://cs224n.stanford.edu/">CS224n: Natural Language Processing with Deep Learning, Stanford</a></li>
+        <li><a href="http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks for Visual Recognition, Stanford</a></li>
       </ul>
-      <h3>Where to Hand in</h3>
-      <p>You will hand in the assignments electronically through myth and GradeScope.</p>
-      <p>For submission instructions follow the steps listed on the appropriate assignment page.
-      Do not email us your assignments.</p>
-      <h3>Collaboration Policy</h3>
-      <ul>
-      <li>Study groups are allowed and students may discuss in groups. However, we expect students to understand and complete their own assignments. Each student must write down the solutions independently (without referring to written notes from the joint session) and hand in one assignment per student.</li>
-      <li>If you worked in a group, please put the names of your study group on your assignment on top.</li>
-      <li>Honor Code: There are a number of solutions to assignments from past offerings of CS231n that have been posted online. We are aware of this, and expect that all work submitted by students will be their own. Like all other classes at Stanford, we take the student Honor Code seriously.</li>
-      </ul>
-      <h2>Proyecto</h2>
-      <h3>Overview</h3>
-      <p>The Course Project is an opportunity for you to apply what you have learned in class to a problem of your interest. Potential projects usually fall into these two tracks:</p>
-      <ul>
-      <li>Applications. If you're coming to the class with a specific background and interests (e.g. biology, engineering, physics), we'd love to see you apply ConvNets to problems related to your particular domain of interest. Pick a real-world problem and apply ConvNets to solve it.</li>
-      <li>Models. You can build a new model (algorithm) with ConvNets, or a new variant of existing models, and apply it to tackle vision tasks. This track might be more challenging, and sometimes leads to a piece of publishable work.</li>
-      </ul>
-      <p>One restriction to note is that this is a Computer Vision class, so your project should involve pixels of visual data in some form somewhere. E.g. a pure NLP project is not a good choice, even if your approach involves ConvNets.</p>
-      <p>To get a better feeling for what we expect from CS231n projects, we encourage you to take a look at the project reports from previous years:</p>
-      <ul>
-      <li>Spring 2017</li>
-      <li>Winter 2016</li>
-      <li>Winter 2015</li>
-      </ul>
-      <p>To inspire ideas, you might also look at recent deep learning publications from top-tier conferences, as well as other resources below.</p>
-      <ul>
-      <li>CVPR: IEEE Conference on Computer Vision and Pattern Recognition</li>
-      <li>ICCV: International Conference on Computer Vision</li>
-      <li>ECCV: European Conference on Computer Vision</li>
-      <li>NIPS: Neural Information Processing Systems</li>
-      <li>ICLR: International Conference on Learning Representations</li>
-      <li>ICML: International Conference on Machine Learning</li>
-      <li>Publications from the Stanford Vision Lab</li>
-      <li>Awesome Deep Vision</li>
-      <li>Past CS229 Projects: Example projects from Stanford's machine learning class</li>
-      <li>Kaggle challenges: An online machine learning competition website. For example, a Yelp classification challenge.</li>
-      </ul>
-      <h3>Hay más</h3>
-      <p>Sigue…</p>    </section>-->
+    </section>
 
     <section id="calendario">
       <h2 >Calendario</h2>
 
-      <table>
-        <thead>
-          <tr>
-            <th>
-              
-            </th>
-            <th>
-              Fecha
-            </th>
-            <th>
-              Descripción
-            </th>
-            <th>
-              
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              Clase 1
-            </td>
-            <td>
-              Lunes 15 de marzo
-            </td>
-            <td>
-              <h5>Introducción, motivación y bienvenida</h5> <ul><li>Definición de componentes claves </li> <li>Tipo de problemas de aprendizaje</li> <li>Aprendizaje profundo en la vida cotidiana</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 2
-            </td>
-            <td>
-              Miércoles 17 de marzo
-            </td>
-            <td>
-              <h5>Implementación de los modelos</h5> <ul><li>Frameworks de aprendizaje profundo</li> <li>Entornos de ejecución</li> <li>Manipulación y preprocesamiento de datos</li> <li>Cálculo automático de gradientes</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 1
-            </td>
-            <td>
-              Miércoles 17 de marzo
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 18 de marzo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 19 de marzo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 3
-            </td>
-            <td>
-              Lunes 22 de marzo
-            </td>
-            <td>
-              <h5>Redes neuronales de una capa</h5> <ul><li>Regresión lineal</li> <li>Regresión SoftMax</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 4
-            </td>
-            <td>
-              Miércoles 24 de marzo
-            </td>
-            <td>
-              <h5>Redes neuronales de multicapa</h5> <ul><li>Perceptrón Multicapa (MLP)</li> <li>Foward Propagation</li> <li>Backward Propagation</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 25 de marzo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 26 de marzo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 5
-            </td>
-            <td>
-              Lunes 29 de marzo
-            </td>
-            <td>
-              <h5>MLP a medida</h5> <ul><li>Capas y Bloques</li> <li>Capas diseñadas a medida</li> <li>Inicialización y manejo de parámetros</li> <li>Operaciones de I/O</li> <li>GPU</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 2
-            </td>
-            <td>
-              Lunes 29 de marzo
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 6
-            </td>
-            <td>
-              Miércoles 31 de marzo
-            </td>
-            <td>
-              <h5>Algoritmos de Optimización</h5> <ul><li>Descenso de gradiente</li> <li>Descenso estocástico de gradiente</li> <li>Momentum</li> <li>ADAGRAD</li> <li>ADAM</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 1
-            </td>
-            <td>
-              Miércoles 31 de marzo
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 1 de abril
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 2 de abril
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 7
-            </td>
-            <td>
-              Lunes 5 de abril
-            </td>
-            <td>
-              <h5>Selección de modelos</h5> <ul><li>Underfittng</li> <li>Overfitting</li> <li>Regularización de los pesos</li> <li>Dropout</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 3
-            </td>
-            <td>
-              Lunes 5 de abril
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 8
-            </td>
-            <td>
-              Miércoles 7 de abril
-            </td>
-            <td>
-              <h5>Redes convolucionales&#58; CNN</h5> <ul><li>Convoluciones en imágenes</li> <li>Pooling</li> <li>Padding y striding</li> <li>Arquitectura LeNet</li> <li>Implementacion de LeNet</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 8 de abril
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 9 de abril
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 9
-            </td>
-            <td>
-              Lunes 12 de abril
-            </td>
-            <td>
-              <h5>Arquitecturas CNN Modernas</h5> <ul><li>AlexNet e ImageNet</li> <li>Bloques VGG</li> <li>Bloques NiN</li> <li>GoogLeNet y el bloque Inception</li> <li>Batch Normalization</li> <li>Conexiones residuales&#58; ResNet</li> <li>Bloques densos&#58; DenseNet</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 4
-            </td>
-            <td>
-              Lunes 12 de abril
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 2
-            </td>
-            <td>
-              Lunes 12 de abril
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 10
-            </td>
-            <td>
-              Miércoles 14 de abril
-            </td>
-            <td>
-              <h5>Transfer Learning</h5> <ul><li>Redes preentrenadas</li> <li>Fine-Tuning</li> <li>Aplicación&#58; Transferencia de estilos</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 15 de abril
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 16 de abril
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 11
-            </td>
-            <td>
-              Lunes 19 de abril
-            </td>
-            <td>
-              <h5>Detección de Objetos</h5> <ul><li>Bounding Boxes</li> <li>Detección multiescala&#58; SSD</li> <li>Detección basada en regiones&#58; R-CNN</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 5
-            </td>
-            <td>
-              Lunes 19 de abril
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 3
-            </td>
-            <td>
-              Lunes 19 de abril
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 12
-            </td>
-            <td>
-              Miércoles 21 de abril
-            </td>
-            <td>
-              <h5>Upsampling</h5> <ul><li>Convolución traspuesta</li> <li>Segmentación semática&#58; FCN</li> <li>Modelos generativos&#58; GANs</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 22 de abril
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 23 de abril
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 13
-            </td>
-            <td>
-              Lunes 26 de abril
-            </td>
-            <td>
-              <h5>Redes recurrentes&#58; RNN</h5> <ul><li>Modelos secuenciales</li> <li>Variables ocultas</li> <li>Perplejidad, verosimilitud y entropia</li> <li>Backpropagation con dependencia temporal</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 6
-            </td>
-            <td>
-              Lunes 26 de abril
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 4
-            </td>
-            <td>
-              Lunes 26 de abril
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 14
-            </td>
-            <td>
-              Miércoles 28 de abril
-            </td>
-            <td>
-              <h5>Arquitecturas RNN Modernas</h5> <ul><li>Recurrencias con compuertas&#58; GRU</li> <li>Recurrencia con memoria&#58; LSTM</li> <li>Recurrencia bidireccional</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 29 de abril
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 30 de abril
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 15
-            </td>
-            <td>
-              Lunes 3 de mayo
-            </td>
-            <td>
-              <h5>Analisis de sentimiento</h5> <ul><li>Implementación con RNN</li> <li>Implementación con CNN</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 7
-            </td>
-            <td>
-              Lunes 3 de mayo
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 5
-            </td>
-            <td>
-              Lunes 3 de mayo
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 16
-            </td>
-            <td>
-              Miércoles 5 de mayo
-            </td>
-            <td>
-              <h5>Traducción automática</h5> <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li> <li>Embeddings de palabras&#58; Word2Vec</li> <li>Embeddings de palabras&#58; GloVe</li> <li>Embeddings de morfemas&#58; fastText</li> <li>Implementación con RNN</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 6 de mayo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 7 de mayo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 17
-            </td>
-            <td>
-              Lunes 10 de mayo
-            </td>
-            <td>
-              <h5>Mecanismo de atención</h5> <ul><li>Concepto de atención</li> <li>Pooling de atención</li> <li>Métricas de atención</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 8
-            </td>
-            <td>
-              Lunes 10 de mayo
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 6
-            </td>
-            <td>
-              Lunes 10 de mayo
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 18
-            </td>
-            <td>
-              Miércoles 12 de mayo
-            </td>
-            <td>
-              <h5>Atención en RNN</h5> <ul><li>Modelo de Bahdanau</li> <li>Multiples cabezales</li> <li>Autoatención</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 13 de mayo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 14 de mayo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 19
-            </td>
-            <td>
-              Lunes 17 de mayo
-            </td>
-            <td>
-              <h5>Transformers</h5> <ul><li>MLP sensible a la posición</li> <li>Normalización por capas</li> <li>Atención con máscaras</li> <li>Codificación posicional</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 7
-            </td>
-            <td>
-              Lunes 17 de mayo
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 20
-            </td>
-            <td>
-              Miércoles 19 de mayo
-            </td>
-            <td>
-              <h5>Transformers bidireccionales&#58; BERT</h5> <ul><li>Embeddings sensibles al contexto</li> <li>Arquitectura independiete de la tarea</li> <li>Modelado del lenguaje con máscaras</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 9
-            </td>
-            <td>
-              Miércoles 19 de mayo
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 20 de mayo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 21 de mayo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 21
-            </td>
-            <td>
-              Lunes 24 de mayo
-            </td>
-            <td>
-              <h5>Aplicaciones de BERT</h5> <ul><li>Predicción de próxima oraciones</li> <li>Etiquetado automático</li> <li>Respuesta automatizada a preguntas</li> <li>Inferencia del lenguaje</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 8
-            </td>
-            <td>
-              Lunes 24 de mayo
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 22
-            </td>
-            <td>
-              Miércoles 26 de mayo
-            </td>
-            <td>
-              <h5>Sistemas de recomencación con datos explicitos</h5> <ul><li>Sistemas de recomencación&#58; clasificación</li> <li>Factorización de matrices</li> <li>Predicción de calificación con autoencoder</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 27 de mayo
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 28 de mayo
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 23
-            </td>
-            <td>
-              Lunes 31 de mayo
-            </td>
-            <td>
-              <h5>Sistemas de recomendación con ranking</h5> <ul><li>Funciones de perdida para ranking</li> <li>Muestreo negativo</li> <li>Factorización de matrices con MLP&#58; NeuMF</li> <li>Sensibildiad a la secuencia&#58;  Caser</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              Clase 24
-            </td>
-            <td>
-              Miércoles 2 de junio
-            </td>
-            <td>
-              <h5>Sistemas de recomencación con datos implicitos</h5> <ul><li>Máquinas de factorización</li> <li>Máquinas de factorización Profundas</li></ul>
-            </td>
-            <td>
-              <a href="#">Diapositivas</a><br> <a href="#">Video</a>
-            </td>
-          </tr>
-          <tr class="práctica">
-            <td>
-              Trabajo práctico 10
-            </td>
-            <td>
-              Miércoles 2 de junio
-            </td>
-            <td>
-              Habilitado para resolución
-            </td>
-            <td>
-              <a href="#">Trabajo práctico</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 9
-            </td>
-            <td>
-              Miércoles 2 de junio
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Pablo Marinozi
-            </td>
-            <td>
-              Jueves 3 de junio
-            </td>
-            <td>
-              17&#58;00 a 19&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="consulta">
-            <td>
-              Consulta Luciano Robino
-            </td>
-            <td>
-              Viernes 4 de junio
-            </td>
-            <td>
-              10&#58;00 a 12&#58;00
-            </td>
-            <td>
-              <a href="#">Consulta</a>
-            </td>
-          </tr>
-          <tr class="entrega">
-            <td>
-              Trabajo práctico 10
-            </td>
-            <td>
-              Miércoles 16 de junio
-            </td>
-            <td>
-              ENTREGA
-            </td>
-            <td>
-              <a href="#">Entrega</a>
-            </td>
-          </tr>
-        </tbody>
-      </table>    </section>
+      <div class="overflow-auto">
+        <table>
+          <thead>
+            <tr>
+              <th>
+                
+              </th>
+              <th>
+                Fecha
+              </th>
+              <th>
+                Descripción
+              </th>
+              <th>
+                
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Clase 1
+              </td>
+              <td>
+                Lunes 15 de marzo
+              </td>
+              <td>
+                <h5>Introducción, motivación y bienvenida</h5> <ul><li>Definición de componentes claves </li> <li>Tipo de problemas de aprendizaje</li> <li>Aprendizaje profundo en la vida cotidiana</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 2
+              </td>
+              <td>
+                Miércoles 17 de marzo
+              </td>
+              <td>
+                <h5>Implementación de los modelos</h5> <ul><li>Frameworks de aprendizaje profundo</li> <li>Entornos de ejecución</li> <li>Manipulación y preprocesamiento de datos</li> <li>Cálculo automático de gradientes</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 1
+              </td>
+              <td>
+                Miércoles 17 de marzo
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 18 de marzo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 19 de marzo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 3
+              </td>
+              <td>
+                Lunes 22 de marzo
+              </td>
+              <td>
+                <h5>Redes neuronales de una capa</h5> <ul><li>Regresión lineal</li> <li>Regresión SoftMax</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 4
+              </td>
+              <td>
+                Miércoles 24 de marzo
+              </td>
+              <td>
+                <h5>Redes neuronales de multicapa</h5> <ul><li>Perceptrón Multicapa (MLP)</li> <li>Foward Propagation</li> <li>Backward Propagation</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 25 de marzo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 26 de marzo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 5
+              </td>
+              <td>
+                Lunes 29 de marzo
+              </td>
+              <td>
+                <h5>MLP a medida</h5> <ul><li>Capas y Bloques</li> <li>Capas diseñadas a medida</li> <li>Inicialización y manejo de parámetros</li> <li>Operaciones de I/O</li> <li>GPU</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 2
+              </td>
+              <td>
+                Lunes 29 de marzo
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 6
+              </td>
+              <td>
+                Miércoles 31 de marzo
+              </td>
+              <td>
+                <h5>Algoritmos de Optimización</h5> <ul><li>Descenso de gradiente</li> <li>Descenso estocástico de gradiente</li> <li>Momentum</li> <li>ADAGRAD</li> <li>ADAM</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 1
+              </td>
+              <td>
+                Miércoles 31 de marzo
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 1 de abril
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 2 de abril
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 7
+              </td>
+              <td>
+                Lunes 5 de abril
+              </td>
+              <td>
+                <h5>Selección de modelos</h5> <ul><li>Underfittng</li> <li>Overfitting</li> <li>Regularización de los pesos</li> <li>Dropout</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 3
+              </td>
+              <td>
+                Lunes 5 de abril
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 8
+              </td>
+              <td>
+                Miércoles 7 de abril
+              </td>
+              <td>
+                <h5>Redes convolucionales&#58; CNN</h5> <ul><li>Convoluciones en imágenes</li> <li>Pooling</li> <li>Padding y striding</li> <li>Arquitectura LeNet</li> <li>Implementacion de LeNet</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 8 de abril
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 9 de abril
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 9
+              </td>
+              <td>
+                Lunes 12 de abril
+              </td>
+              <td>
+                <h5>Arquitecturas CNN Modernas</h5> <ul><li>AlexNet e ImageNet</li> <li>Bloques VGG</li> <li>Bloques NiN</li> <li>GoogLeNet y el bloque Inception</li> <li>Batch Normalization</li> <li>Conexiones residuales&#58; ResNet</li> <li>Bloques densos&#58; DenseNet</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 4
+              </td>
+              <td>
+                Lunes 12 de abril
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 2
+              </td>
+              <td>
+                Lunes 12 de abril
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 10
+              </td>
+              <td>
+                Miércoles 14 de abril
+              </td>
+              <td>
+                <h5>Transfer Learning</h5> <ul><li>Redes preentrenadas</li> <li>Fine-Tuning</li> <li>Aplicación&#58; Transferencia de estilos</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 15 de abril
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 16 de abril
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 11
+              </td>
+              <td>
+                Lunes 19 de abril
+              </td>
+              <td>
+                <h5>Detección de Objetos</h5> <ul><li>Bounding Boxes</li> <li>Detección multiescala&#58; SSD</li> <li>Detección basada en regiones&#58; R-CNN</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 5
+              </td>
+              <td>
+                Lunes 19 de abril
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 3
+              </td>
+              <td>
+                Lunes 19 de abril
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 12
+              </td>
+              <td>
+                Miércoles 21 de abril
+              </td>
+              <td>
+                <h5>Upsampling</h5> <ul><li>Convolución traspuesta</li> <li>Segmentación semática&#58; FCN</li> <li>Modelos generativos&#58; GANs</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 22 de abril
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 23 de abril
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 13
+              </td>
+              <td>
+                Lunes 26 de abril
+              </td>
+              <td>
+                <h5>Redes recurrentes&#58; RNN</h5> <ul><li>Modelos secuenciales</li> <li>Variables ocultas</li> <li>Perplejidad, verosimilitud y entropia</li> <li>Backpropagation con dependencia temporal</li> <li>Implementación desde cero</li> <li>Implementación usando frameworks</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 6
+              </td>
+              <td>
+                Lunes 26 de abril
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 4
+              </td>
+              <td>
+                Lunes 26 de abril
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 14
+              </td>
+              <td>
+                Miércoles 28 de abril
+              </td>
+              <td>
+                <h5>Arquitecturas RNN Modernas</h5> <ul><li>Recurrencias con compuertas&#58; GRU</li> <li>Recurrencia con memoria&#58; LSTM</li> <li>Recurrencia bidireccional</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 29 de abril
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 30 de abril
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 15
+              </td>
+              <td>
+                Lunes 3 de mayo
+              </td>
+              <td>
+                <h5>Analisis de sentimiento</h5> <ul><li>Implementación con RNN</li> <li>Implementación con CNN</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 7
+              </td>
+              <td>
+                Lunes 3 de mayo
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 5
+              </td>
+              <td>
+                Lunes 3 de mayo
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 16
+              </td>
+              <td>
+                Miércoles 5 de mayo
+              </td>
+              <td>
+                <h5>Traducción automática</h5> <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li> <li>Embeddings de palabras&#58; Word2Vec</li> <li>Embeddings de palabras&#58; GloVe</li> <li>Embeddings de morfemas&#58; fastText</li> <li>Implementación con RNN</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 6 de mayo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 7 de mayo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 17
+              </td>
+              <td>
+                Lunes 10 de mayo
+              </td>
+              <td>
+                <h5>Mecanismo de atención</h5> <ul><li>Concepto de atención</li> <li>Pooling de atención</li> <li>Métricas de atención</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 8
+              </td>
+              <td>
+                Lunes 10 de mayo
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 6
+              </td>
+              <td>
+                Lunes 10 de mayo
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 18
+              </td>
+              <td>
+                Miércoles 12 de mayo
+              </td>
+              <td>
+                <h5>Atención en RNN</h5> <ul><li>Modelo de Bahdanau</li> <li>Multiples cabezales</li> <li>Autoatención</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 13 de mayo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 14 de mayo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 19
+              </td>
+              <td>
+                Lunes 17 de mayo
+              </td>
+              <td>
+                <h5>Transformers</h5> <ul><li>MLP sensible a la posición</li> <li>Normalización por capas</li> <li>Atención con máscaras</li> <li>Codificación posicional</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 7
+              </td>
+              <td>
+                Lunes 17 de mayo
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 20
+              </td>
+              <td>
+                Miércoles 19 de mayo
+              </td>
+              <td>
+                <h5>Transformers bidireccionales&#58; BERT</h5> <ul><li>Embeddings sensibles al contexto</li> <li>Arquitectura independiete de la tarea</li> <li>Modelado del lenguaje con máscaras</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 9
+              </td>
+              <td>
+                Miércoles 19 de mayo
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 20 de mayo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 21 de mayo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 21
+              </td>
+              <td>
+                Lunes 24 de mayo
+              </td>
+              <td>
+                <h5>Aplicaciones de BERT</h5> <ul><li>Predicción de próxima oraciones</li> <li>Etiquetado automático</li> <li>Respuesta automatizada a preguntas</li> <li>Inferencia del lenguaje</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 8
+              </td>
+              <td>
+                Lunes 24 de mayo
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 22
+              </td>
+              <td>
+                Miércoles 26 de mayo
+              </td>
+              <td>
+                <h5>Sistemas de recomencación con datos explicitos</h5> <ul><li>Sistemas de recomencación&#58; clasificación</li> <li>Factorización de matrices</li> <li>Predicción de calificación con autoencoder</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 27 de mayo
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 28 de mayo
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 23
+              </td>
+              <td>
+                Lunes 31 de mayo
+              </td>
+              <td>
+                <h5>Sistemas de recomendación con ranking</h5> <ul><li>Funciones de perdida para ranking</li> <li>Muestreo negativo</li> <li>Factorización de matrices con MLP&#58; NeuMF</li> <li>Sensibildiad a la secuencia&#58;  Caser</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Clase 24
+              </td>
+              <td>
+                Miércoles 2 de junio
+              </td>
+              <td>
+                <h5>Sistemas de recomencación con datos implicitos</h5> <ul><li>Máquinas de factorización</li> <li>Máquinas de factorización Profundas</li></ul>
+              </td>
+              <td>
+                <a href="#">Diapositivas</a><br> <a href="#">Video</a>
+              </td>
+            </tr>
+            <tr class="práctica">
+              <td>
+                Trabajo práctico 10
+              </td>
+              <td>
+                Miércoles 2 de junio
+              </td>
+              <td>
+                Habilitado para resolución
+              </td>
+              <td>
+                <a href="#">Trabajo práctico</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 9
+              </td>
+              <td>
+                Miércoles 2 de junio
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Pablo Marinozi
+              </td>
+              <td>
+                Jueves 3 de junio
+              </td>
+              <td>
+                17&#58;00 a 19&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="consulta">
+              <td>
+                Consulta Luciano Robino
+              </td>
+              <td>
+                Viernes 4 de junio
+              </td>
+              <td>
+                10&#58;00 a 12&#58;00
+              </td>
+              <td>
+                <a href="#">Consulta</a>
+              </td>
+            </tr>
+            <tr class="entrega">
+              <td>
+                Trabajo práctico 10
+              </td>
+              <td>
+                Miércoles 16 de junio
+              </td>
+              <td>
+                ENTREGA
+              </td>
+              <td>
+                <a href="#">Entrega</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>      </div>
+    </section>
 
     <section id="faq">
       <h2>FAQ</h2>
-      <h4>Me inscribí en el curso, pero figuro como oyente. ¿qué ha pasado?</h4>
-      <p>Dada la cantidad limitda de personas que tenemos para la corrección, no todos los alumnos podrán ser alumnos inscriptos por esta razón se priorizaran las siguientes personas:</p>
-      <ul>
-      <li>Cumplimiento de los prerrequisitos.</li>
-      <li>Radicación en la provincia de Mendoza.</li>
-      <li>Pertenencia a grupos minoritarios.</li>
-      </ul>    </section>
+      <h4>¿Entregarán certificados a quienes aprueben el curso?</h4>
+      <p>Es un curso independiente, los certificados no tendrían ninguna validez académica.
+      Estamos pensando en dejar una nómina de personas que lograron concluirlo en esta misma
+      página, por si sirve de algo.</p>
+      <h4>Tengo dudas acerca de si cumplo con los prerrequisitos, ¿cómo saber si podré hacer el curso?</h4>
+      <p>La mejor manera es ojear el <a href="https://d2l.ai">libro</a> del curso y llegar a una conclusión personalmente.</p>
+      <h4>¿Qué es Datitos?</h4>
+      <p>Es un grupo de científicxs de datos que viven en Mendoza.</p>    </section>
 
     <section id="formulario">
       <h2>Inscripción</h2>
+      <p>
+        Dado el tamaño del equipo docente, la capacidad de corrección y seguimiento es limitada, por lo que existe
+        un cupo de inscripción. Para la selección priorizaremos:
+      </p>
+      <ul>
+        <li>Cumplimiento de los prerrequisitos.</li>
+        <li>Radicación en la provincia de Mendoza.</li>
+        <li>Pertenencia a grupos minoritarios.</li>
+      </ul>
+      <p>
+        El material del curso es de acceso libre y gratuito, independientemente del resultado de la selección.
+      </p>
 
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 text-center">Ir al formulario</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 mt-8 text-center">Ir al formulario</a>
 
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="1000" class="mx-auto hidden md:block">Cargando formulario de inscripción...</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="1300" class="mx-auto hidden md:block mt-8">Cargando formulario de inscripción...</iframe>
     </section>
   </div>
 </body>
