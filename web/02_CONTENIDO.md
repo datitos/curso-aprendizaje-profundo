@@ -1,6 +1,8 @@
-# Programa:
+Programa
+========
 
-### Unidad 1: Machine learning
+Unidad 1: Aprendizaje automático
+--------------------------------
 
 * Machine learning: Concepto
 * Manipulación de data-sets
@@ -11,7 +13,8 @@
 * Backward propagation y Foward propagation
 * Algoritmos de optimización:
 
-### Unidad 2 Computer vision
+Unidad 2: Visión por computadora
+--------------------------------
 
 * Convolución: Concepto
 * Redes neuronales convolucionales
@@ -24,7 +27,8 @@
 * Segmentación semántica
 * GANs
 
-### Unidad 3: Procesamiento de lenguaje natural
+Unidad 3: Procesamiento de lenguaje natural
+-------------------------------------------
 
 * Modelos secuenciales y variables ocultas
 * Perplejidad, verosimilitud y entropia
@@ -38,22 +42,16 @@
 * Transformers bidireccionales: BERT
 * Aplicaciones de BERT
 
-### Unidad 4: Sistemas de recomendación
+Unidad 4: Sistemas de recomendación
+-----------------------------------
 
 * Sistemas de recomencación con datos explicitos
     * Factorización de matrices
 * Sistemas de recomendación con ranking
-    * Funciones de perdida para ranking     
-    * Muestreo negativo     
+    * Funciones de perdida para ranking
+    * Muestreo negativo
     * Sensibildiad a la secuencia: Caser
-    * Factorización de matrices: NeuMF    
+    * Factorización de matrices: NeuMF
 * Sistemas de recomencación con datos implicitos
-    * Máquinas de factorización     
+    * Máquinas de factorización
     * Máquinas de factorización profundas
- 
- 
- ## Referencias:
- 
-* [Dive into Deep Learning](https://d2l.ai/)
-* [Natural Language Processing with Deep Learning, Stanford](http://web.stanford.edu/class/cs224n/index.html)
-* [Convolutional Neural Networks for Visual Recognition, Stanford](http://web.stanford.edu/class/cs224n/index.html)

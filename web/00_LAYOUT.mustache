@@ -19,7 +19,7 @@
 </head>
 <body class="bg-purple-100">
   <nav class="h-12 bg-white fixed top-0 inset-x-0 z-50">
-    <div class="container mx-auto px-4 max-w-screen-xl w-full h-full flex justify-start items-center">
+    <div class="container mx-auto px-8 max-w-screen-xl w-full h-full flex justify-start items-center">
       <a href="#" class="flex items-center">
         <img height="20" src="img/nyan.png" class="h-10 mr-1">
         Datitos
@@ -30,28 +30,59 @@
       <a href="#formulario" class="ml-8">
         Inscripción
       </a>
-      <a href="https://github.com/datitos/curso-aprendizaje-profundo" class="ml-8">
-        GitHub
-      </a>
+      <!--<a href="https://github.com/datitos/curso-aprendizaje-profundo" class="ml-8">-->
+        <!--GitHub-->
+      <!--</a>-->
     </div>
   </nav>
 
-  <div class="container mx-auto px-4 max-w-screen-xl mt-20 mb-7">
+  <div class="container mx-auto px-8 max-w-screen-xl mt-20 mb-16">
     <div class="text-center mb-10">
       <h1>Aprendizaje profundo</h1>
       por Datitos / Otoño 2021
     </div>
 
     <section id="intro">
-      {{> INTRODUCCIÓN }}
+      <p>
+        En los últimos cinco años el aprendizaje profundo ha tomado al mundo por sorpresa,
+        impulsando un rápido progreso en campos tan diversos como la visión por computadora,
+        el procesamiento del lenguaje natural, el reconocimiento automático del habla,
+        el aprendizaje por refuerzos y el modelado estadístico.
+      </p>
+
+      <hr class="m-8 w-1/6 mx-auto border-red-500 border">
+
+      <a href="https://d2l.ai"><img src="img/libro.png" alt="Tapa del libro Dive into Deep Learning" class="h-56 px-4 pb-4 md:float-left"></a>
+
+      <p>
+        Hemos elegido basar el curso en el libro <a href="https://d2l.ai">Dive into Deep Learning</a>, consideramos que
+        ofrece un enfoque práctico y moderno, incluye matemáticas y código, y sus contenidos son actuales.
+      </p>
+
+      <p>
+        Este curso representa nuestro intento de hacer que el aprendizaje profundo sea accesible, enseñándote los conceptos,
+        el contexto y el código. Nos propusimos crear un recurso que simultáneamente pudiera:
+      </p>
+
+      <ul>
+        <li>estar disponible gratuitamente para todes;</li>
+        <li>ofrecer suficiente profundidad técnica para proporcionar un punto de partida en el camino de convertirte
+            en unx científicx de datos;</li>
+        <li>incluir código ejecutable, que muestre cómo resolver problemas en la práctica.</li>
+      </ol>
+
+      <p>
+        El curso está dirigido a estudiantes de grado o posgrado, ingenierxs e investigadores que busquen un conocimiento
+        sólido del aprendizaje profundo.
+      </p>
     </section>
 
-    <section id="equipo">
+    <section id="equipo" class="clear-left">
       <h2>Instructores</h2>
       <div class="flex flex-wrap">
         <div class="p-4 text-center">
           <img src="img/luciano.jpg" class="h-32 mb-4 rounded-full">
-          Luciano Robino<br>Docente
+          <a href="#">Luciano Robino</a><br>Docente
         </div>
 
         <div class="p-4 text-center">
@@ -66,22 +97,73 @@
       </div>
     </section>
 
-    <section id="info">
-      {{> 01_LOGÍSTICA }}
+    <section id="general" class="flex justify-between flex-wrap -ml-16">
+      <div class="w-64 flex-grow ml-16">
+        <h2>Clases</h2>
+        <p>Comienzan en marzo y se extienden hasta junio.</p>
+        <p>
+          Los videos de las clases estarán disponibles los lunes y los miércoles a las 8:30
+          en este <a href="https://www.youtube.com/">canal de YouTube</a>.
+        </p>
+      </div>
 
-      {{> 02_CONTENIDO }}
+      <div class="w-64 flex-grow ml-16">
+        <h2>Consultas</h2>
+        <p>Los horarios de consulta son jueves de 17:00 a 19:00 y viernes de 10:00 a 12:00.</p>
+        <p>
+          Usaremos este <a href="https://discord.com/">servidor de Discord</a> como canal de comunicación
+          para las consultas, grupos de estudio, noticias y demás.
+        </p>
+      </div>
+
+      <div class="w-64 flex-shrink ml-16">
+        <h2>Formato</h2>
+        <ul class="list-none">
+          <li>24 clases</li>
+          <li>10 prácticos</li>
+          <li>2 parciales</li>
+          <li>Proyecto final</li>
+        </ul>
+      </div>
     </section>
 
-    <!--<section id="tareas">
-      {{> 03_PRÁCTICOS }}
+    <section id="prerrequisitos">
+      <h2>Prerequisistos</h2>
+      <p>
+        Debido a que explicamos cada concepto desde cero, no requerimos conocimientos previos en aprendizaje profundo
+        ni aprendizaje automático. Explicar completamente los métodos de aprendizaje profundo requiere de matemáticas y
+        programación, pero intentaremos que el curso sea lo más autocontenido posible.
+      </p>
 
-      {{> 04_PROYECTO }}
-    </section>-->
+      <h3>Programación en Python</h3>
+      <p>Vamos a programar mucho. Si tenés experiencia programando pero en un lenguaje diferente probablemente estés bien.</p>
+
+      <h3>Cálculo de una variable, cálculo vectorial, álgebra lineal</h3>
+      <p>Tendrías que sentirte bien derivando, operando con vectores y matrices, entendiendo notación.</p>
+
+      <h3>Conocimiento básico de probabilidad y estadística</h3>
+      <p>Deberías saber lo básico de probabilidades, distribución gaussiana, promedio, desviación estándar, etcétera.</p>
+    </section>
+
+    <section id="logística">
+      {{> 01_LOGÍSTICA }}
+    </section>
+
+    <section id="referencias">
+      <h2>Material de referencia</h2>
+      <ul>
+        <li><a href="https://courses.d2l.ai/berkeley-stat-157/index.html">STAT 157: Introduction to Deep Learning, UC Berkeley</a></li>
+        <li><a href="http://cs224n.stanford.edu/">CS224n: Natural Language Processing with Deep Learning, Stanford</a></li>
+        <li><a href="http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks for Visual Recognition, Stanford</a></li>
+      </ul>
+    </section>
 
     <section id="calendario">
       <h2 >Calendario</h2>
 
-      {{> 05_CALENDARIO }}
+      <div class="overflow-auto">
+        {{> 05_CALENDARIO }}
+      </div>
     </section>
 
     <section id="faq">
@@ -90,10 +172,22 @@
 
     <section id="formulario">
       <h2>Inscripción</h2>
+      <p>
+        Dado el tamaño del equipo docente, la capacidad de corrección y seguimiento es limitada, por lo que existe
+        un cupo de inscripción. Para la selección priorizaremos:
+      </p>
+      <ul>
+        <li>Cumplimiento de los prerrequisitos.</li>
+        <li>Radicación en la provincia de Mendoza.</li>
+        <li>Pertenencia a grupos minoritarios.</li>
+      </ul>
+      <p>
+        El material del curso es de acceso libre y gratuito, independientemente del resultado de la selección.
+      </p>
 
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 text-center">Ir al formulario</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform" class="md:hidden bg-white flow-root w-1/2 mx-auto p-4 mt-8 text-center">Ir al formulario</a>
 
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="1000" class="mx-auto hidden md:block">Cargando formulario de inscripción...</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6UGJdHNcGhOL9Kcr1nVK2HNokTk6C39zb0XGKlQ7_mTROxw/viewform?embedded=true" width="640" height="1300" class="mx-auto hidden md:block mt-8">Cargando formulario de inscripción...</iframe>
     </section>
   </div>
 </body>

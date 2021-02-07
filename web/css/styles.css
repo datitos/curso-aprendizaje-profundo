@@ -32,7 +32,7 @@
     @apply text-blue-600;
   }
   table {
-    @apply table-auto w-full mt-4;
+    @apply table-auto w-full mt-4 min-w-max;
   }
   th, td {
     @apply p-2;

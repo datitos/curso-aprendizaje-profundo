@@ -1,15 +1,22 @@
-# Organización y condiciones de cursado
+Organización y condiciones de cursado
+=====================================
+
+¿Dónde enviar los TPs?
+¿Hasta que hora el día de entrega es posible enviarlo?
+¿Qué pasa si lo entrego tarde?
+¿Puedo hacerlo en grupo?
 
 El material de estudio está disponible todo el tiempo para los alumnos. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. Es muy recomendable que los alumnos interactúen entre ellos en el servidor de discord dedicado para esto. Las horas de consulta servirán para que los docentes resuelvan dudas tanto conceptuales como de aplicación. Las horas de consulta servirán también para:
 
 * Hacer puestas en común
 * Resolver ejercicios
-* Discutir otras alternativas de solución 
+* Discutir otras alternativas de solución
 * Presentar y resolver dudas
 * Proponer sugerencias
 * Promover la discusión de los temas del curso
 
-## Modalidades de cursado:
+Modalidades de cursado
+----------------------
 
 Este curso tiene dos modalidades de cursado
 * Alumnos inscriptos:
@@ -22,14 +29,8 @@ Este curso tiene dos modalidades de cursado
 * Alumnos oyentes:
     - Solamente tendrán acceso al material.
 
-## Prerequisistos:
-
-* Manejo básico de Python
-* Cálculo de una variable y Cálculo vectorial
-* Algebra lineal
-* Conocimiento básico de probabilidad y estadística.
-
-## Condiciones del cursado
+Condiciones del cursado
+-----------------------
 
 Los horarios de consulta no son de carácter obligatorio. Sin embargo, dado que son clases de consulta y de puesta en común, se recomienda la asistencia para un mejor desempeño durante el cursado.
 
@@ -42,23 +43,21 @@ El material del curso consiste en:
     - La segunda constará de preguntas que permiten apropiarse de los conceptos subyacentes en los contenidos. Es recomendable la resolución de estas preguntas, pues serán similares a las preguntas del examen global.
     - Las fechas de entrega para los trabajos prácticos están estipuladas más adelante en la sección cronograma. Se recomienda respetar las fechas de entrega acordadas durante el curso.
 
-## Horarios de Consulta
-
-* Pablo Marinozi: Jueves de 17 a 19
-* Luciano Robino: Viernes de 10 a 12
-
-## Examen global:
+Examen global
+-------------
 
 Una vez terminado el cronograma de las clases y consultas, se coordinará un examen global. Las preguntas de este examen serán similares a las preguntas conceptuales de los trabajos prácticos.
 
-## Proyecto final:
+Proyecto final
+--------------
 
 Para aprobar el curso se deberá presentar un proyecto final sobre alguno de los temas discutidos durante el cursado. Estos proyectos finales seran trabajos grupales que los alumnos propondrán. Se espera que este trabajo final sea una producción propia del grupo, por lo que de haber plagio este sera fuertemente sancionado.
 
-# Código de conducta
+Código de conducta
+==================
 
 Este grupo se dedica a proporcionar una experiencia libre de acoso. No toleramos el acoso en ninguna de las formas posibles.
 
-Los trabajos a entregar deben ser una producción original.  El plagio no será tolerado. En muchos países las vulneración de los derechos de autor es un crimen que se sanciona con carcel.
+Los trabajos a entregar deben ser una producción original. El plagio no será tolerado.
 
-**Cualquier persona que viole este código de conducta deberá ser sancionada o expulsada de este espacio a discreción del equipo organizador.**
+**Cualquier persona que viole este código de conducta será sancionada o expulsada de este espacio a discreción del equipo organizador.**

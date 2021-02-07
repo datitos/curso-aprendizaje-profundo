@@ -10,10 +10,11 @@
     "build-css": "postcss css/styles.css -o build/styles.css",
     "assets": "cp -r img build",
     "build": "npm run build-md && npm run build-yml && npm run build-layout && npm run build-css && npm run assets",
-    "watch-html": "onchange '*.mustache' -- npm run build-layout",
+    "watch-md": "onchange '*.md' -- npm run build-md",
+    "watch-layout": "onchange '*.mustache' 'tmp/*.html' -- npm run build-layout",
     "watch-css": "onchange 'css/*.css' -- npm run build-css",
     "serve": "browser-sync start --server build --files 'build/*.html,build/*.css'",
-    "local": "run-p watch-html watch-css serve"
+    "local": "run-p watch-md watch-layout watch-css serve"
   },
   "postcss": {
     "plugins": {
