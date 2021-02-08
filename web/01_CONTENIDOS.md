@@ -59,7 +59,7 @@ procesamiento de lenguaje natural — les dedicaremos una buena parte de esta un
 Unidad 4: Sistemas de recomendación
 -----------------------------------
 
-Finalmente en una unidad breve, veremos sistemas de recomendación —necesidad frecuente de la industria— y de como el aprendizaje profundo
+Finalmente en una unidad breve, veremos sistemas de recomendación —necesidad frecuente de la industria— y de cómo el aprendizaje profundo
 habilita la factorización de matrices de grandes proporciones.
 
 

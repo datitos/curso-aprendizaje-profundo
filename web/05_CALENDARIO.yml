@@ -23,7 +23,7 @@ body:
   desc: |
     <h4>Implementación de los modelos</h4>
     <ul>
-      <li>Frameworks de aprendizaje profundo</li>
+      <li><i>Frameworks</i> de aprendizaje profundo</li>
       <li>Entornos de ejecución</li>
       <li>Manipulación y preprocesamiento de datos</li>
       <li>Cálculo automático de gradientes</li>
@@ -52,7 +52,7 @@ body:
       <li>Regresión lineal</li>
       <li>Regresión softmax</li>
       <li>Implementación desde cero</li>
-      <li>Implementación usando frameworks</li>
+      <li>Implementación usando <i>frameworks</i></li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -75,7 +75,7 @@ body:
       <li>Propagación directa</li>
       <li>Propagación hacia atrás</li>
       <li>Implementación desde cero</li>
-      <li>Implementación usando frameworks</li>
+      <li>Implementación usando <i>frameworks</i></li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -281,7 +281,7 @@ body:
       <li>Modelos secuenciales</li>
       <li>Variables ocultas</li>
       <li>Perplejidad, verosimilitud y entropia</li>
-      <li>Backpropagation con dependencia temporal</li>
+      <li>Propagación hacia atrás con dependencia temporal</li>
       <li>Implementación desde cero</li>
       <li>Implementación usando frameworks</li>
     </ul>
@@ -431,7 +431,7 @@ body:
   desc: |
     <h4>Transformers bidireccionales: BERT</h4>
     <ul>
-      <li>Embeddings sensibles al contexto</li>
+      <li><i>Embeddings</i> sensibles al contexto</li>
       <li>Arquitectura independiete de la tarea</li>
       <li>Modelado del lenguaje con máscaras</li>
     </ul>
@@ -475,7 +475,7 @@ body:
     <ul>
       <li>Sistemas de recomendación: clasificación</li>
       <li>Factorización de matrices</li>
-      <li>Predicción de calificación con autoencoder</li>
+      <li>Predicción de calificación con <i>autoencoder</i></li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
