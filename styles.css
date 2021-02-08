@@ -621,6 +621,11 @@ tbody > tr {
   background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
 }
 
+.examen {
+  --tw-bg-opacity: 1;
+  background-color: rgba(254, 202, 202, var(--tw-bg-opacity));
+}
+
 .container {
   width: 100%;
 }
