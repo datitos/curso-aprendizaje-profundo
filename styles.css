@@ -570,9 +570,13 @@ h3 {
   margin-top: 0.75rem;
 }
 
-h4 {
-  font-weight: 600;
+blockquote {
+  --tw-border-opacity: 1;
+  border-color: rgba(239, 68, 68, var(--tw-border-opacity));
+  border-left-width: 2px;
+  font-weight: 500;
   margin-top: 0.75rem;
+  padding-left: 0.5rem;
 }
 
 h5 {
@@ -584,7 +588,7 @@ p, ul, ol {
   margin-top: 0.25rem;
 }
 
-ul{
+ul {
   list-style-position: inside;
   list-style-type: disc;
 }
@@ -594,9 +598,17 @@ ol {
   list-style-type: decimal;
 }
 
+li > p {
+  padding-left: 1rem;
+}
+
 a {
   --tw-text-opacity: 1;
   color: rgba(37, 99, 235, var(--tw-text-opacity));
+}
+
+strong, b {
+  font-weight: 600;
 }
 
 table {
