@@ -13,8 +13,8 @@
   h3 {
     @apply text-xl mt-3;
   }
-  h4 {
-    @apply font-semibold mt-3;
+  blockquote {
+    @apply font-medium mt-3 border-l-2 border-red-500 pl-2;
   }
   h5 {
     @apply font-semibold mb-2;
@@ -22,14 +22,20 @@
   p, ul, ol {
     @apply mt-1;
   }
-  ul{
+  ul {
     @apply list-inside list-disc;
   }
   ol {
     @apply list-inside list-decimal;
   }
+  li > p {
+    @apply pl-4;
+  }
   a {
     @apply text-blue-600;
+  }
+  strong, b {
+    @apply font-semibold;
   }
   table {
     @apply table-auto w-full mt-4 min-w-max;

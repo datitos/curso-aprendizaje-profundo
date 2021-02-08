@@ -1,10 +1,10 @@
 Organización y condiciones de cursado
 =====================================
 
-¿Dónde enviar los TPs?
-¿Hasta que hora el día de entrega es posible enviarlo?
-¿Qué pasa si lo entrego tarde?
-¿Puedo hacerlo en grupo?
+1. ¿Dónde enviar los TPs?
+2. ¿Hasta que hora el día de entrega es posible enviarlo?
+3. ¿Qué pasa si lo entrego tarde?
+4. ¿Puedo hacerlo en grupo?
 
 El material de estudio está disponible todo el tiempo para los alumnos. Se espera que los alumnos estudien el material de manera asincrónica y que resuelvan los ejercicios propuestos. Es muy recomendable que los alumnos interactúen entre ellos en el servidor de discord dedicado para esto. Las horas de consulta servirán para que los docentes resuelvan dudas tanto conceptuales como de aplicación. Las horas de consulta servirán también para:
 
@@ -58,6 +58,6 @@ Código de conducta
 
 Este grupo se dedica a proporcionar una experiencia libre de acoso. No toleramos el acoso en ninguna de las formas posibles.
 
-Los trabajos a entregar deben ser una producción original. El plagio no será tolerado.
+Los trabajos a entregar deben ser una producción original.
 
 **Cualquier persona que viole este código de conducta será sancionada o expulsada de este espacio a discreción del equipo organizador.**
