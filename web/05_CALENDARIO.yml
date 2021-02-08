@@ -32,14 +32,13 @@ body:
   class: práctica
 - tipo: Consulta Pablo Marinozi
   fecha: Jueves 18 de marzo
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "17:00 a 19:00"
   class: consulta
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "10:00 a 12:00"
   class: consulta
   fecha: Viernes 19 de marzo
+
 - tipo: Clase 3
   fecha: Lunes 22 de marzo
   desc: <h4>Redes neuronales de una capa</h4>
@@ -50,8 +49,18 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 25 de marzo
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 26 de marzo
+
+
 - tipo: Clase 4
-  fecha: Miércoles 24 de marzo
+  fecha: Lunes 29 de marzo
   desc: <h4>Redes neuronales de multicapa</h4>
     <ul><li>Perceptrón Multicapa (MLP)</li>
     <li>Foward Propagation</li>
@@ -61,18 +70,8 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 25 de marzo
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 26 de marzo
 - tipo: Clase 5
-  fecha: Lunes 29 de marzo
+  fecha: Miércoles 31 de marzo
   desc: <h4>MLP a medida</h4>
     <ul><li>Capas y Bloques</li>
     <li>Capas diseñadas a medida</li>
@@ -87,8 +86,13 @@ body:
   desc: Habilitado para resolución
   rec: <a href="#">Trabajo práctico</a>
   class: práctica
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 1 de abril
+
 - tipo: Clase 6
-  fecha: Miércoles 31 de marzo
+  fecha: Lunes 5 de abril
   desc: <h4>Algoritmos de Optimización</h4>
     <ul><li>Descenso de gradiente</li>
     <li>Descenso estocástico de gradiente</li>
@@ -103,18 +107,8 @@ body:
   desc: ENTREGA
   rec: <a href="#">Entrega</a>
   class: entrega
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 1 de abril
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 2 de abril
 - tipo: Clase 7
-  fecha: Lunes 5 de abril
+  fecha: Miércoles 7 de abril
   desc: <h4>Selección de modelos</h4>
     <ul><li>Underfittng</li>
     <li>Overfitting</li>
@@ -128,8 +122,17 @@ body:
   rec: <a href="#">Trabajo práctico</a>
   fecha: Lunes 5 de abril
   class: práctica
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 8 de abril
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 9 de abril
+
 - tipo: Clase 8
-  fecha: Miércoles 7 de abril
+  fecha: Lunes 12 de abril
   desc: <h4>Redes convolucionales&#58; CNN</h4>
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
@@ -139,18 +142,8 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 8 de abril
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 9 de abril
 - tipo: Clase 9
-  fecha: Lunes 12 de abril
+  fecha: Miércoles 14 de abril
   desc: <h4>Arquitecturas CNN Modernas</h4>
     <ul><li>AlexNet e ImageNet</li>
     <li>Bloques VGG</li>
@@ -172,8 +165,17 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 12 de abril
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 15 de abril
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 16 de abril
+
 - tipo: Clase 10
-  fecha: Miércoles 14 de abril
+  fecha: Lunes 19 de abril
   desc: <h4>Transfer Learning</h4>
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
@@ -181,18 +183,8 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 15 de abril
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 16 de abril
 - tipo: Clase 11
-  fecha: Lunes 19 de abril
+  fecha: Miércoles 21 de abril
   desc: <h4>Detección de Objetos</h4>
     <ul><li>Bounding Boxes</li>
     <li>Detección multiescala&#58; SSD</li>
@@ -210,8 +202,17 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 19 de abril
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 22 de abril
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 23 de abril
+
 - tipo: Clase 12
-  fecha: Miércoles 21 de abril
+  fecha: Lunes 26 de abril
   desc: <h4>Upsampling</h4>
     <ul><li>Convolución traspuesta</li>
     <li>Segmentación semática&#58; FCN</li>
@@ -220,17 +221,21 @@ body:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "17:00 a 19:00"
   class: consulta
-  fecha: Jueves 22 de abril
+  fecha: Jueves 29 de abril
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "10:00 a 12:00"
   class: consulta
-  fecha: Viernes 23 de abril
+  fecha: Viernes 30 de abril
+
+- tipo: Parcial 1
+  fecha: Lunes 3 de mayo
+  desc: Conceptos teóricos unidades 1 y 2
+  class: examen
+
 - tipo: Clase 13
-  fecha: Lunes 26 de abril
+  fecha: Lunes 10 de mayo
   desc: <h4>Redes recurrentes&#58; RNN</h4>
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
@@ -252,7 +257,7 @@ body:
   class: entrega
   fecha: Lunes 26 de abril
 - tipo: Clase 14
-  fecha: Miércoles 28 de abril
+  fecha: Miércoles 12 de mayo
   desc: <h4>Arquitecturas RNN Modernas</h4>
     <ul><li>Recurrencias con compuertas&#58; GRU</li>
     <li>Recurrencia con memoria&#58; LSTM</li>
@@ -260,18 +265,10 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 29 de abril
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 30 de abril
+
+
 - tipo: Clase 15
-  fecha: Lunes 3 de mayo
+  fecha: Lunes 17 de mayo
   desc: <h4>Analisis de sentimiento</h4>
     <ul><li>Implementación con RNN</li>
     <li>Implementación con CNN</li></ul>
@@ -289,7 +286,7 @@ body:
   class: entrega
   fecha: Lunes 3 de mayo
 - tipo: Clase 16
-  fecha: Miércoles 5 de mayo
+  fecha: Miércoles 19 de mayo
   desc: <h4>Traducción automática</h4>
     <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li>
     <li>Embeddings de palabras&#58; Word2Vec</li>
@@ -300,17 +297,16 @@ body:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "17:00 a 19:00"
   class: consulta
-  fecha: Jueves 6 de mayo
+  fecha: Jueves 20 de mayo
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
+  desc: "10:00 a 12:00"
   class: consulta
-  fecha: Viernes 7 de mayo
+  fecha: Viernes 21 de mayo
+
 - tipo: Clase 17
-  fecha: Lunes 10 de mayo
+  fecha: Miércoles 26 de mayo
   desc: <h4>Mecanismo de atención</h4>
     <ul><li>Concepto de atención</li>
     <li>Pooling de atención</li>
@@ -328,8 +324,17 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 10 de mayo
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 27 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 28 de mayo
+
 - tipo: Clase 18
-  fecha: Miércoles 12 de mayo
+  fecha: Lunes 31 de mayo
   desc: <h4>Atención en RNN</h4>
     <ul><li>Modelo de Bahdanau</li>
     <li>Multiples cabezales</li>
@@ -337,18 +342,8 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 13 de mayo
-- tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 14 de mayo
 - tipo: Clase 19
-  fecha: Lunes 17 de mayo
+  fecha: Miércoles 2 de junio
   desc: <h4>Transformers</h4>
     <ul><li>MLP sensible a la posición</li>
     <li>Normalización por capas</li>
@@ -362,6 +357,7 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 17 de mayo
+
 - tipo: Clase 20
   fecha: Miércoles 19 de mayo
   desc: <h4>Transformers bidireccionales&#58; BERT</h4>
@@ -377,12 +373,12 @@ body:
   fecha: Miércoles 19 de mayo
   class: práctica
 - tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
+  desc: "17:00 a 19:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Jueves 20 de mayo
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
+  desc: "10:00 a 12:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Viernes 21 de mayo
@@ -411,12 +407,12 @@ body:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
+  desc: "17:00 a 19:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Jueves 27 de mayo
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
+  desc: "10:00 a 12:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Viernes 28 de mayo
@@ -449,12 +445,12 @@ body:
   class: entrega
   fecha: Miércoles 2 de junio
 - tipo: Consulta Pablo Marinozi
-  desc: 17&#58;00 a 19&#58;00
+  desc: "17:00 a 19:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Jueves 3 de junio
 - tipo: Consulta Luciano Robino
-  desc: 10&#58;00 a 12&#58;00
+  desc: "10:00 a 12:00"
   rec: <a href="#">Consulta</a>
   class: consulta
   fecha: Viernes 4 de junio
