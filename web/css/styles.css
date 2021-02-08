@@ -64,6 +64,9 @@
   .consulta {
     @apply bg-gray-200;
   }
+  .examen {
+    @apply bg-red-200;
+  }
 }
 
 @tailwind components;

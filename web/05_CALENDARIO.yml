@@ -265,7 +265,14 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 13 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 14 de mayo
 
 - tipo: Clase 15
   fecha: Lunes 17 de mayo
@@ -357,9 +364,17 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 17 de mayo
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 3 de junio
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 4 de junio
 
 - tipo: Clase 20
-  fecha: Miércoles 19 de mayo
+  fecha: Lunes 7 de junio
   desc: <h4>Transformers bidireccionales&#58; BERT</h4>
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
@@ -372,18 +387,8 @@ body:
   rec: <a href="#">Trabajo práctico</a>
   fecha: Miércoles 19 de mayo
   class: práctica
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 20 de mayo
-- tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 21 de mayo
 - tipo: Clase 21
-  fecha: Lunes 24 de mayo
+  fecha: Miércoles 9 de junio
   desc: <h4>Aplicaciones de BERT</h4>
     <ul><li>Predicción de próxima oraciones</li>
     <li>Etiquetado automático</li>
@@ -397,8 +402,17 @@ body:
   rec: <a href="#">Entrega</a>
   class: entrega
   fecha: Lunes 24 de mayo
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 10 de junio
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 11 de junio
+
 - tipo: Clase 22
-  fecha: Miércoles 26 de mayo
+  fecha: Lunes 14 de junio
   desc: <h4>Sistemas de recomencación con datos explicitos</h4>
     <ul><li>Sistemas de recomencación&#58; clasificación</li>
     <li>Factorización de matrices</li>
@@ -406,18 +420,8 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Jueves 27 de mayo
-- tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
-  rec: <a href="#">Consulta</a>
-  class: consulta
-  fecha: Viernes 28 de mayo
 - tipo: Clase 23
-  fecha: Lunes 31 de mayo
+  fecha: Miércoles 16 de junio
   desc: <h4>Sistemas de recomendación con ranking</h4>
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
@@ -426,8 +430,17 @@ body:
   rec:
     <a href="#">Diapositivas</a><br>
     <a href="#">Video</a>
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 17 de junio
+- tipo: Consulta Luciano Robino
+  desc: "10:00 a 12:00"
+  class: consulta
+  fecha: Viernes 18 de junio
+
 - tipo: Clase 24
-  fecha: Miércoles 2 de junio
+  fecha: Miércoles 23 de junio
   desc: <h4>Sistemas de recomencación con datos implicitos</h4>
     <ul><li>Máquinas de factorización</li>
     <li>Máquinas de factorización Profundas</li></ul>
@@ -448,12 +461,18 @@ body:
   desc: "17:00 a 19:00"
   rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: Jueves 3 de junio
+  fecha: Jueves 24 de junio
 - tipo: Consulta Luciano Robino
   desc: "10:00 a 12:00"
   rec: <a href="#">Consulta</a>
   class: consulta
-  fecha: Viernes 4 de junio
+  fecha: Viernes 25 de junio
+
+- tipo: Parcial 2
+  fecha: Miércoles 30 de junio
+  desc: Conceptos teóricos unidades 2 y 4
+  class: examen
+
 - tipo: Trabajo práctico 10
   desc: ENTREGA
   rec: <a href="#">Entrega</a>
