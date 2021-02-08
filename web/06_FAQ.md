@@ -14,8 +14,8 @@ La mejor manera es ojear el [libro](https://d2l.ai) del curso y llegar a una con
 > ¿Cuál es la diferencia entre este curso y otros disponibles en internet, como los citados en "material de referencia"?
 
 No mucha, la verdad — prácticamente todo el contenido viene del material de referencia.
-Hacemos este curso porque todavía no has hecho los otros, a ver si por medio de la iniciativa
-y el acompañamiento local te motivamos a terminar uno. Sabemos lo difícil que es no colgar
+Hacemos este curso por si todavía no has hecho los otros, a ver si por medio de la iniciativa
+y el acompañamiento local te motivamos a hacer este. Sabemos lo difícil que es no colgar
 un curso en línea que nadie te pidió hacer.
 
 > ¿Qué es Datitos?

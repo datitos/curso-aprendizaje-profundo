@@ -36,7 +36,7 @@ for (const row of doc.body) {
   }
 
   for (const col in doc.header) {
-    const cell = row[col]?.trim().replace(/\n/g,'<br>')
+    const cell = row[col]?.trim()
 
     out.push('      <td>')
     cell && out.push(`        ${cell}`)
