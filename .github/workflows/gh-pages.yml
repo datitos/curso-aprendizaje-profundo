@@ -16,7 +16,7 @@ jobs:
         run: |
           cd web
           npm install
-          npm run build
+          NODE_ENV=production npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
