@@ -2,7 +2,7 @@ Organización y condiciones de cursado
 =====================================
 
 1. ¿Dónde enviar los TPs?
-2. ¿Hasta que hora el día de entrega es posible enviarlo?
+2. ¿Hasta qué hora del día de entrega es posible enviarlo?
 3. ¿Qué pasa si lo entrego tarde?
 4. ¿Puedo hacerlo en grupo?
 

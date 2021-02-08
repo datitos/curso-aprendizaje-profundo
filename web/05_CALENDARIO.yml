@@ -8,8 +8,8 @@ header:
 body:
 - tipo: Clase 1
   fecha: Lunes 15 de marzo
-  desc: <h5>Introducción, motivación y bienvenida</h5>
-    <ul><li>Definición de componentes claves </li>
+  desc: <h4>Introducción, motivación y bienvenida</h4>
+    <ul><li>Definición de componentes claves</li>
     <li>Tipo de problemas de aprendizaje</li>
     <li>Aprendizaje profundo en la vida cotidiana</li></ul>
   rec:
@@ -17,7 +17,7 @@ body:
     <a href="#">Video</a>
 - tipo: Clase 2
   fecha: Miércoles 17 de marzo
-  desc: <h5>Implementación de los modelos</h5>
+  desc: <h4>Implementación de los modelos</h4>
     <ul><li>Frameworks de aprendizaje profundo</li>
     <li>Entornos de ejecución</li>
     <li>Manipulación y preprocesamiento de datos</li>
@@ -42,7 +42,7 @@ body:
   fecha: Viernes 19 de marzo
 - tipo: Clase 3
   fecha: Lunes 22 de marzo
-  desc: <h5>Redes neuronales de una capa</h5>
+  desc: <h4>Redes neuronales de una capa</h4>
     <ul><li>Regresión lineal</li>
     <li>Regresión SoftMax</li>
     <li>Implementación desde cero</li>
@@ -52,7 +52,7 @@ body:
     <a href="#">Video</a>
 - tipo: Clase 4
   fecha: Miércoles 24 de marzo
-  desc: <h5>Redes neuronales de multicapa</h5>
+  desc: <h4>Redes neuronales de multicapa</h4>
     <ul><li>Perceptrón Multicapa (MLP)</li>
     <li>Foward Propagation</li>
     <li>Backward Propagation</li>
@@ -73,7 +73,7 @@ body:
   fecha: Viernes 26 de marzo
 - tipo: Clase 5
   fecha: Lunes 29 de marzo
-  desc: <h5>MLP a medida</h5>
+  desc: <h4>MLP a medida</h4>
     <ul><li>Capas y Bloques</li>
     <li>Capas diseñadas a medida</li>
     <li>Inicialización y manejo de parámetros</li>
@@ -89,7 +89,7 @@ body:
   class: práctica
 - tipo: Clase 6
   fecha: Miércoles 31 de marzo
-  desc: <h5>Algoritmos de Optimización</h5>
+  desc: <h4>Algoritmos de Optimización</h4>
     <ul><li>Descenso de gradiente</li>
     <li>Descenso estocástico de gradiente</li>
     <li>Momentum</li>
@@ -115,7 +115,7 @@ body:
   fecha: Viernes 2 de abril
 - tipo: Clase 7
   fecha: Lunes 5 de abril
-  desc: <h5>Selección de modelos</h5>
+  desc: <h4>Selección de modelos</h4>
     <ul><li>Underfittng</li>
     <li>Overfitting</li>
     <li>Regularización de los pesos</li>
@@ -130,7 +130,7 @@ body:
   class: práctica
 - tipo: Clase 8
   fecha: Miércoles 7 de abril
-  desc: <h5>Redes convolucionales&#58; CNN</h5>
+  desc: <h4>Redes convolucionales&#58; CNN</h4>
     <ul><li>Convoluciones en imágenes</li>
     <li>Pooling</li>
     <li>Padding y striding</li>
@@ -151,7 +151,7 @@ body:
   fecha: Viernes 9 de abril
 - tipo: Clase 9
   fecha: Lunes 12 de abril
-  desc: <h5>Arquitecturas CNN Modernas</h5>
+  desc: <h4>Arquitecturas CNN Modernas</h4>
     <ul><li>AlexNet e ImageNet</li>
     <li>Bloques VGG</li>
     <li>Bloques NiN</li>
@@ -174,7 +174,7 @@ body:
   fecha: Lunes 12 de abril
 - tipo: Clase 10
   fecha: Miércoles 14 de abril
-  desc: <h5>Transfer Learning</h5>
+  desc: <h4>Transfer Learning</h4>
     <ul><li>Redes preentrenadas</li>
     <li>Fine-Tuning</li>
     <li>Aplicación&#58; Transferencia de estilos</li></ul>
@@ -193,7 +193,7 @@ body:
   fecha: Viernes 16 de abril
 - tipo: Clase 11
   fecha: Lunes 19 de abril
-  desc: <h5>Detección de Objetos</h5>
+  desc: <h4>Detección de Objetos</h4>
     <ul><li>Bounding Boxes</li>
     <li>Detección multiescala&#58; SSD</li>
     <li>Detección basada en regiones&#58; R-CNN</li></ul>
@@ -212,7 +212,7 @@ body:
   fecha: Lunes 19 de abril
 - tipo: Clase 12
   fecha: Miércoles 21 de abril
-  desc: <h5>Upsampling</h5>
+  desc: <h4>Upsampling</h4>
     <ul><li>Convolución traspuesta</li>
     <li>Segmentación semática&#58; FCN</li>
     <li>Modelos generativos&#58; GANs</li></ul>
@@ -231,7 +231,7 @@ body:
   fecha: Viernes 23 de abril
 - tipo: Clase 13
   fecha: Lunes 26 de abril
-  desc: <h5>Redes recurrentes&#58; RNN</h5>
+  desc: <h4>Redes recurrentes&#58; RNN</h4>
     <ul><li>Modelos secuenciales</li>
     <li>Variables ocultas</li>
     <li>Perplejidad, verosimilitud y entropia</li>
@@ -253,7 +253,7 @@ body:
   fecha: Lunes 26 de abril
 - tipo: Clase 14
   fecha: Miércoles 28 de abril
-  desc: <h5>Arquitecturas RNN Modernas</h5>
+  desc: <h4>Arquitecturas RNN Modernas</h4>
     <ul><li>Recurrencias con compuertas&#58; GRU</li>
     <li>Recurrencia con memoria&#58; LSTM</li>
     <li>Recurrencia bidireccional</li></ul>
@@ -272,7 +272,7 @@ body:
   fecha: Viernes 30 de abril
 - tipo: Clase 15
   fecha: Lunes 3 de mayo
-  desc: <h5>Analisis de sentimiento</h5>
+  desc: <h4>Analisis de sentimiento</h4>
     <ul><li>Implementación con RNN</li>
     <li>Implementación con CNN</li></ul>
   rec:
@@ -290,7 +290,7 @@ body:
   fecha: Lunes 3 de mayo
 - tipo: Clase 16
   fecha: Miércoles 5 de mayo
-  desc: <h5>Traducción automática</h5>
+  desc: <h4>Traducción automática</h4>
     <ul><li>Problemas de secuencia a secuecia&#58; Seq2Seq</li>
     <li>Embeddings de palabras&#58; Word2Vec</li>
     <li>Embeddings de palabras&#58; GloVe</li>
@@ -311,7 +311,7 @@ body:
   fecha: Viernes 7 de mayo
 - tipo: Clase 17
   fecha: Lunes 10 de mayo
-  desc: <h5>Mecanismo de atención</h5>
+  desc: <h4>Mecanismo de atención</h4>
     <ul><li>Concepto de atención</li>
     <li>Pooling de atención</li>
     <li>Métricas de atención</li></ul>
@@ -330,7 +330,7 @@ body:
   fecha: Lunes 10 de mayo
 - tipo: Clase 18
   fecha: Miércoles 12 de mayo
-  desc: <h5>Atención en RNN</h5>
+  desc: <h4>Atención en RNN</h4>
     <ul><li>Modelo de Bahdanau</li>
     <li>Multiples cabezales</li>
     <li>Autoatención</li></ul>
@@ -349,7 +349,7 @@ body:
   fecha: Viernes 14 de mayo
 - tipo: Clase 19
   fecha: Lunes 17 de mayo
-  desc: <h5>Transformers</h5>
+  desc: <h4>Transformers</h4>
     <ul><li>MLP sensible a la posición</li>
     <li>Normalización por capas</li>
     <li>Atención con máscaras</li>
@@ -364,7 +364,7 @@ body:
   fecha: Lunes 17 de mayo
 - tipo: Clase 20
   fecha: Miércoles 19 de mayo
-  desc: <h5>Transformers bidireccionales&#58; BERT</h5>
+  desc: <h4>Transformers bidireccionales&#58; BERT</h4>
     <ul><li>Embeddings sensibles al contexto</li>
     <li>Arquitectura independiete de la tarea</li>
     <li>Modelado del lenguaje con máscaras</li></ul>
@@ -388,7 +388,7 @@ body:
   fecha: Viernes 21 de mayo
 - tipo: Clase 21
   fecha: Lunes 24 de mayo
-  desc: <h5>Aplicaciones de BERT</h5>
+  desc: <h4>Aplicaciones de BERT</h4>
     <ul><li>Predicción de próxima oraciones</li>
     <li>Etiquetado automático</li>
     <li>Respuesta automatizada a preguntas</li>
@@ -403,7 +403,7 @@ body:
   fecha: Lunes 24 de mayo
 - tipo: Clase 22
   fecha: Miércoles 26 de mayo
-  desc: <h5>Sistemas de recomencación con datos explicitos</h5>
+  desc: <h4>Sistemas de recomencación con datos explicitos</h4>
     <ul><li>Sistemas de recomencación&#58; clasificación</li>
     <li>Factorización de matrices</li>
     <li>Predicción de calificación con autoencoder</li></ul>
@@ -422,7 +422,7 @@ body:
   fecha: Viernes 28 de mayo
 - tipo: Clase 23
   fecha: Lunes 31 de mayo
-  desc: <h5>Sistemas de recomendación con ranking</h5>
+  desc: <h4>Sistemas de recomendación con ranking</h4>
     <ul><li>Funciones de perdida para ranking</li>
     <li>Muestreo negativo</li>
     <li>Factorización de matrices con MLP&#58; NeuMF</li>
@@ -432,7 +432,7 @@ body:
     <a href="#">Video</a>
 - tipo: Clase 24
   fecha: Miércoles 2 de junio
-  desc: <h5>Sistemas de recomencación con datos implicitos</h5>
+  desc: <h4>Sistemas de recomencación con datos implicitos</h4>
     <ul><li>Máquinas de factorización</li>
     <li>Máquinas de factorización Profundas</li></ul>
   rec:

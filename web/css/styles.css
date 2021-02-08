@@ -13,11 +13,11 @@
   h3 {
     @apply text-xl mt-3;
   }
+  h4 {
+    @apply font-semibold;
+  }
   blockquote {
     @apply font-medium mt-3 border-l-2 border-red-500 pl-2;
-  }
-  h5 {
-    @apply font-semibold mb-2;
   }
   p, ul, ol {
     @apply mt-1;
@@ -30,6 +30,9 @@
   }
   li > p {
     @apply pl-4;
+  }
+  li li {
+    @apply ml-4;
   }
   a {
     @apply text-blue-600;
@@ -44,7 +47,10 @@
     @apply p-2;
   }
   th {
-    @apply text-left;
+    @apply text-left font-normal;
+  }
+  td > ul {
+    @apply list-none;
   }
   tbody > tr {
     @apply border-t border-red-400;
