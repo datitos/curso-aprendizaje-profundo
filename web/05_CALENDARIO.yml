@@ -50,7 +50,7 @@ body:
     <h4>Redes neuronales de una capa</h4>
     <ul>
       <li>Regresión lineal</li>
-      <li>Regresión SoftMax</li>
+      <li>Regresión softmax</li>
       <li>Implementación desde cero</li>
       <li>Implementación usando frameworks</li>
     </ul>
@@ -71,9 +71,9 @@ body:
   desc: |
     <h4>Redes neuronales de multicapa</h4>
     <ul>
-      <li>Perceptrón Multicapa (MLP)</li>
-      <li>Foward Propagation</li>
-      <li>Backward Propagation</li>
+      <li>Perceptrón multicapa (MLP)</li>
+      <li>Propagación directa</li>
+      <li>Propagación hacia atrás</li>
       <li>Implementación desde cero</li>
       <li>Implementación usando frameworks</li>
     </ul>
@@ -89,7 +89,7 @@ body:
   desc: |
     <h4>MLP a medida</h4>
     <ul>
-      <li>Capas y Bloques</li>
+      <li>Capas y bloques</li>
       <li>Capas diseñadas a medida</li>
       <li>Inicialización y manejo de parámetros</li>
       <li>Operaciones de I/O</li>
@@ -110,11 +110,11 @@ body:
 - tipo: Clase 6
   fecha: Lunes 5 de abril
   desc: |
-    <h4>Algoritmos de Optimización</h4>
+    <h4>Algoritmos de optimización</h4>
     <ul>
-      <li>Descenso de gradiente</li>
-      <li>Descenso estocástico de gradiente</li>
-      <li>Momentum</li>
+      <li>Descenso por gradiente</li>
+      <li>Descenso por gradiente estocástico</li>
+      <li>Momento</li>
       <li>ADAGRAD</li>
       <li>ADAM</li>
     </ul>
@@ -130,10 +130,10 @@ body:
   desc: |
     <h4>Selección de modelos</h4>
     <ul>
-      <li>Underfittng</li>
-      <li>Overfitting</li>
+      <li><i>Underfitting</i></li>
+      <li><i>Overfitting</i></li>
       <li>Regularización de los pesos</li>
-      <li>Dropout</li>
+      <li><i>Dropout</i></li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -154,13 +154,13 @@ body:
 - tipo: Clase 8
   fecha: Lunes 12 de abril
   desc: |
-    <h4>Redes convolucionales</h4>
+    <h4>Redes convolucionales (CNNs)</h4>
     <ul>
       <li>Convoluciones en imágenes</li>
-      <li>Pooling</li>
-      <li>Padding y striding</li>
+      <li><i>Pooling</i></li>
+      <li><i>Padding</i> y <i>striding</i></li>
       <li>Arquitectura LeNet</li>
-      <li>Implementacion de LeNet</li>
+      <li>Implementación de LeNet</li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -172,13 +172,13 @@ body:
 - tipo: Clase 9
   fecha: Miércoles 14 de abril
   desc: |
-    <h4>Arquitecturas CNN Modernas</h4>
+    <h4>Arquitecturas CNNs modernas</h4>
     <ul>
       <li>AlexNet e ImageNet</li>
       <li>Bloques VGG</li>
       <li>Bloques NiN</li>
       <li>GoogLeNet y el bloque Inception</li>
-      <li>Batch Normalization</li>
+      <li>Normalización por lote</li>
       <li>Conexiones residuales: ResNet</li>
       <li>Bloques densos: DenseNet</li>
     </ul>
@@ -201,10 +201,10 @@ body:
 - tipo: Clase 10
   fecha: Lunes 19 de abril
   desc: |
-    <h4>Transfer Learning</h4>
+    <h4>Transferencia de conocimiento</h4>
     <ul>
       <li>Redes preentrenadas</li>
-      <li>Fine-Tuning</li>
+      <li><i>Fine-tuning</i></li>
       <li>Aplicación: Transferencia de estilos</li>
     </ul>
   rec:
@@ -217,9 +217,9 @@ body:
 - tipo: Clase 11
   fecha: Miércoles 21 de abril
   desc: |
-    <h4>Detección de Objetos</h4>
+    <h4>Detección de objetos</h4>
     <ul>
-      <li>Bounding Boxes</li>
+      <li><i>Bounding boxes</i></li>
       <li>Detección multiescala: SSD</li>
       <li>Detección basada en regiones: R-CNN</li>
     </ul>
@@ -242,7 +242,7 @@ body:
 - tipo: Clase 12
   fecha: Lunes 26 de abril
   desc: |
-    <h4>Upsampling</h4>
+    <h4><i>Upsampling</i></h4>
     <ul>
       <li>Convolución traspuesta</li>
       <li>Segmentación semática: FCN</li>
@@ -276,7 +276,7 @@ body:
 - tipo: Clase 13
   fecha: Lunes 10 de mayo
   desc: |
-    <h4>Redes recurrentes: RNN</h4>
+    <h4>Redes recurrentes (RNNs)</h4>
     <ul>
       <li>Modelos secuenciales</li>
       <li>Variables ocultas</li>
@@ -295,9 +295,9 @@ body:
 - tipo: Clase 14
   fecha: Miércoles 12 de mayo
   desc: |
-    <h4>Arquitecturas RNN Modernas</h4>
+    <h4>Arquitecturas RNNs modernas</h4>
     <ul>
-      <li>Recurrencias con compuertas: GRU</li>
+      <li>Recurrencia con compuertas: GRU</li>
       <li>Recurrencia con memoria: LSTM</li>
       <li>Recurrencia bidireccional</li>
     </ul>
@@ -338,9 +338,9 @@ body:
     <h4>Traducción automática</h4>
     <ul>
       <li>Problemas de secuencia a secuecia: Seq2Seq</li>
-      <li>Embeddings de palabras: Word2Vec</li>
-      <li>Embeddings de palabras: GloVe</li>
-      <li>Embeddings de morfemas: fastText</li>
+      <li><i>Embeddings</i> de palabras: Word2Vec</li>
+      <li><i>Embeddings</i> de palabras: GloVe</li>
+      <li><i>Embeddings</i> de morfemas: fastText</li>
       <li>Implementación con RNN</li>
     </ul>
   rec:
@@ -362,10 +362,10 @@ body:
 - tipo: Clase 17
   fecha: Miércoles 26 de mayo
   desc: |
-    <h4>Mecanismo de atención</h4>
+    <h4>Mecanismos de atención</h4>
     <ul>
       <li>Concepto de atención</li>
-      <li>Pooling de atención</li>
+      <li><i>Pooling</i> de atención</li>
       <li>Métricas de atención</li>
     </ul>
   rec:
@@ -387,7 +387,7 @@ body:
 - tipo: Clase 18
   fecha: Lunes 31 de mayo
   desc: |
-    <h4>Atención en RNN</h4>
+    <h4>Atención en RNNs</h4>
     <ul>
       <li>Modelo de Bahdanau</li>
       <li>Multiples cabezales</li>
@@ -471,9 +471,9 @@ body:
 - tipo: Clase 22
   fecha: Lunes 14 de junio
   desc: |
-    <h4>Sistemas de recomencación con datos explicitos</h4>
+    <h4>Sistemas de recomendación con datos explícitos</h4>
     <ul>
-      <li>Sistemas de recomencación: clasificación</li>
+      <li>Sistemas de recomendación: clasificación</li>
       <li>Factorización de matrices</li>
       <li>Predicción de calificación con autoencoder</li>
     </ul>
@@ -488,7 +488,7 @@ body:
       <li>Funciones de perdida para ranking</li>
       <li>Muestreo negativo</li>
       <li>Factorización de matrices con MLP: NeuMF</li>
-      <li>Sensibildiad a la secuencia:  Caser</li>
+      <li>Sensibilidad a la secuencia: Caser</li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -509,10 +509,10 @@ body:
 - tipo: Clase 24
   fecha: Miércoles 23 de junio
   desc: |
-    <h4>Sistemas de recomencación con datos implicitos</h4>
+    <h4>Sistemas de recomendación con datos implícitos</h4>
     <ul>
       <li>Máquinas de factorización</li>
-      <li>Máquinas de factorización Profundas</li>
+      <li>Máquinas de factorización profundas</li>
     </ul>
   rec:
     <a href="#">Presentación</a><br>
@@ -532,6 +532,6 @@ body:
   class: examen
 
 - tipo: Proyecto final
-  fecha: Lunes 12 de julio
+  fecha: Domingo 11 de julio
   desc: ENTREGA
   class: examen
