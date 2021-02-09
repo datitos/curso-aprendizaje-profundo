@@ -511,7 +511,7 @@ video {
   height: auto;
 }
 
-section {
+section, blockquote {
   scroll-margin-top: 5rem;
 }
 
