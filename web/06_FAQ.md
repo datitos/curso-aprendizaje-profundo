@@ -18,9 +18,13 @@ Hacemos este curso por si todavía no has hecho los otros, a ver si por medio de
 y el acompañamiento local te motivamos a hacer este. Sabemos lo difícil que es no colgar
 un curso en línea que nadie te pidió hacer.
 
-> ¿Qué es Datitos?
+<blockquote id="datitos">
+  <p>¿Qué es Datitos?</p>
+</blockquote>
 
-Es un grupo de científicxs de datos que viven y trabajan en Mendoza, Argentina.
+Es un [grupo de científicxs de datos](https://github.com/orgs/datitos/people) que viven y trabajan en Mendoza, Argentina.
+Nos ayudamos mutuamente y le damos una mano a quienes desean meterse en este mundo. Co-organizamos los
+[eventos locales](https://www.meetup.com/ciencia-de-datos-en-mendoza) de ciencia de datos.
 
 > ¿Dónde enviar los trabajos prácticos?
 
