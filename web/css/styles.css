@@ -1,7 +1,7 @@
 @tailwind base;
 
 @layer base {
-  section {
+  section, blockquote {
     scroll-margin-top: 5rem;
   }
   h1 {
