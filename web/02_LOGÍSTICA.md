@@ -20,7 +20,7 @@ recomendamos que asistas para un mejor desempeño durante el cursado.
 Trabajos prácticos
 ------------------
 
-Habrán diez guías de trabajos prácticos. Estas en general tendrán dos partes.
+Habrá diez guías de trabajos prácticos. Estas en general tendrán dos partes.
 
 * La primera consistirá en la implementación y la aplicación de los contenidos desarrollados
   hasta ese momento. Su entrega y resolución será de carácter obligatorio.
