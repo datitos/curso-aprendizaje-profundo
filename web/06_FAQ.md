@@ -26,6 +26,15 @@ Es un [grupo de científicxs de datos](https://github.com/orgs/datitos/people) q
 Nos ayudamos mutuamente y le damos una mano a quienes desean meterse en este mundo. Co-organizamos los
 [eventos locales](https://www.meetup.com/ciencia-de-datos-en-mendoza) de ciencia de datos.
 
+<blockquote id="lucho">
+  <p>¿Quién es Luciano Robino?</p>
+</blockquote>
+
+Es licenciado en física egresado de Instituto Balseiro. Mágister en física emitido por la misma institución.
+Actualmente cursa la carrera de licenciatura en computación en Facultad de Ingeniería, UNCuyo.
+Ha trabajado en el módulo de Matemática del ingreso a la Facultad de Ciencias Económicas, UNCuyo.
+En sus ratos libres estudia japonés.
+
 > ¿Dónde enviar los trabajos prácticos?
 
 Todavía lo tenemos que determinar. Quizás una dirección de correo electrónico.
