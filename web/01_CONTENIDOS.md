@@ -8,6 +8,12 @@ programación, pero intentaremos que el curso sea lo más autocontenido posible.
 Programación en Python
 ----------------------
 Vamos a programar mucho. Si tenés experiencia programando pero en un lenguaje diferente probablemente estés bien.
+¿Dónde aprender Python? Internet está llena de recursos; algunas recomendaciones:
+
+* [Materia de la UNSaM](https://github.com/python-unsam/Programacion_en_Python_UNSAM)
+* [Tutorial interactivo de LearnPython](https://www.learnpython.org)
+* [Curso de Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+* [Libro A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython)
 
 Cálculo de una variable, cálculo vectorial, álgebra lineal
 ----------------------------------------------------------
