@@ -55,3 +55,10 @@ demasiado extensos, por lo que consideramos tiempo más que suficiente para hace
 Incentivamos la conformación de grupos de estudio. En este sentido podés discutir la resolución de los prácticos
 con otras personas, sin embargo las respuestas deben ser personales. Siempre que presentes un trabajo en el que te has
 apoyado en un conjunto, deberás incluir el nombre de todas las personas del grupo.
+
+> ¿Es necesario inscribirme para poder hacer el curso?
+
+En lo absoluto. La inscripción —que es gratuita— es para obtener seguimiento por parte del equipo docente: corrección de trabajos prácticos,
+exámenes, proyecto final. Aunque no te inscribas todos estos recursos estarán a tu disposición: las clases en YouTube, el servidor de Discord
+para interactuar con el equipo docente (consultas) y otres participantes (grupos de estudio), aquí mismo colgaremos trabajos prácticos y exámenes,
+incluyendo las respuestas a los exámenes.
