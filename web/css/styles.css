@@ -41,10 +41,13 @@
     @apply font-semibold;
   }
   table {
-    @apply table-auto w-full mt-4 min-w-max;
+    @apply table-fixed mt-4;
   }
   th, td {
     @apply p-2;
+  }
+  th:nth-child(3), th:nth-child(4) {
+    @apply w-1/4;
   }
   th {
     @apply text-left font-normal;
