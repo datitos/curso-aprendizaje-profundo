@@ -581,15 +581,15 @@ strong, b {
 
 table {
   margin-top: 1rem;
-  min-width: -webkit-max-content;
-  min-width: -moz-max-content;
-  min-width: max-content;
-  table-layout: auto;
-  width: 100%;
+  table-layout: fixed;
 }
 
 th, td {
   padding: 0.5rem;
+}
+
+th:nth-child(3), th:nth-child(4) {
+  width: 25%;
 }
 
 th {
