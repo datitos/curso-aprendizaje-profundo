@@ -3,6 +3,7 @@ header:
   tipo: ""
   fecha: Fecha
   desc: Descripción
+  libro: Libro
   rec: ""
 
 body:
@@ -15,6 +16,7 @@ body:
       <li>Tipo de problemas de aprendizaje</li>
       <li>Aprendizaje profundo en la vida cotidiana</li>
     </ul>
+  libro: Capítulo 1 "Introduction"
   rec:
     <a href="https://docs.google.com/presentation/d/1Ahh50UJmSQ5SPq-IXRLVJwCrRhZJWwgov_HHqewE6jQ/edit">Presentación</a><br>
     <a href="#">Video</a>
@@ -28,6 +30,7 @@ body:
       <li>Manipulación y preprocesamiento de datos</li>
       <li>Cálculo automático de gradientes</li>
     </ul>
+  libro: Capítulo 2 "Preliminaries"
   rec:
     <a href="https://docs.google.com/presentation/d/1CDrWU9fkyoVMAh2N2pf68M8kkluCXPPor8MCiWPZVuc/edit">Presentación</a><br>
     <a href="#">Video</a>
@@ -54,6 +57,7 @@ body:
       <li>Implementación desde cero</li>
       <li>Implementación usando <i>frameworks</i></li>
     </ul>
+  libro: Capítulo 3 "Linear Neural Networks"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -77,6 +81,7 @@ body:
       <li>Implementación desde cero</li>
       <li>Implementación usando <i>frameworks</i></li>
     </ul>
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.1, 4.2, 4.3, 4.7)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -95,6 +100,7 @@ body:
       <li>Operaciones de I/O</li>
       <li>GPU</li>
     </ul>
+  libro: Capítulo 5 "Deep Learning Computation"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -118,6 +124,7 @@ body:
       <li>ADAGRAD</li>
       <li>ADAM</li>
     </ul>
+  libro: Capítulo 11 "Optimization Algorithms"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -135,6 +142,7 @@ body:
       <li>Regularización de los pesos</li>
       <li><i>Dropout</i></li>
     </ul>
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -162,6 +170,7 @@ body:
       <li>Arquitectura LeNet</li>
       <li>Implementación de LeNet</li>
     </ul>
+  libro: Capítulo 6 "Convolutional Neural Networks"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -182,6 +191,7 @@ body:
       <li>Conexiones residuales: ResNet</li>
       <li>Bloques densos: DenseNet</li>
     </ul>
+  libro: Capítulo 7 "Modern Convolutional Neural Networks"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -207,6 +217,7 @@ body:
       <li><i>Fine-tuning</i></li>
       <li>Aplicación: Transferencia de estilos</li>
     </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.1, 13.2, 13.12)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -223,6 +234,7 @@ body:
       <li>Detección multiescala: SSD</li>
       <li>Detección basada en regiones: R-CNN</li>
     </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -248,6 +260,7 @@ body:
       <li>Segmentación semática: FCN</li>
       <li>Modelos generativos: GANs</li>
     </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -285,6 +298,7 @@ body:
       <li>Implementación desde cero</li>
       <li>Implementación usando frameworks</li>
     </ul>
+  libro: Capítulo 8 "Recurrent Neural Networks"
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -301,6 +315,7 @@ body:
       <li>Recurrencia con memoria: LSTM</li>
       <li>Recurrencia bidireccional</li>
     </ul>
+  libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1, 9.2, 9.3)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -325,6 +340,7 @@ body:
       <li>Implementación con RNN</li>
       <li>Implementación con CNN</li>
     </ul>
+  libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -343,6 +359,7 @@ body:
       <li><i>Embeddings</i> de morfemas: fastText</li>
       <li>Implementación con RNN</li>
     </ul>
+  libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.5, 9.6, 9.7) y capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -368,6 +385,7 @@ body:
       <li><i>Pooling</i> de atención</li>
       <li>Métricas de atención</li>
     </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (secciones 10.1, 10.2, 10.3)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -393,6 +411,7 @@ body:
       <li>Multiples cabezales</li>
       <li>Autoatención</li>
     </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (secciones 10.4, 10.5, 10.6)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -410,6 +429,7 @@ body:
       <li>Atención con máscaras</li>
       <li>Codificación posicional</li>
     </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (sección 10.7)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -435,6 +455,7 @@ body:
       <li>Arquitectura independiete de la tarea</li>
       <li>Modelado del lenguaje con máscaras</li>
     </ul>
+  libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.8, 14.9, 14.10)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -452,6 +473,7 @@ body:
       <li>Respuesta automatizada a preguntas</li>
       <li>Inferencia del lenguaje</li>
     </ul>
+  libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.4 a 15.7)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -477,6 +499,7 @@ body:
       <li>Factorización de matrices</li>
       <li>Predicción de calificación con <i>autoencoder</i></li>
     </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -490,6 +513,7 @@ body:
       <li>Factorización de matrices con MLP: NeuMF</li>
       <li>Sensibilidad a la secuencia: Caser</li>
     </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.8)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
@@ -514,6 +538,7 @@ body:
       <li>Máquinas de factorización</li>
       <li>Máquinas de factorización profundas</li>
     </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.9, 16.10)
   rec:
     <a href="#">Presentación</a><br>
     <a href="#">Video</a>
