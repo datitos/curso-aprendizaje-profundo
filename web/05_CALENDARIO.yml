@@ -19,7 +19,7 @@ body:
   libro: Capítulo 1 "Introduction"
   rec:
     <a href="https://docs.google.com/presentation/d/1Ahh50UJmSQ5SPq-IXRLVJwCrRhZJWwgov_HHqewE6jQ/edit">Presentación</a><br>
-    <a href="#">Video</a>
+    <a href="https://youtu.be/34TKzEhf9jY">Video</a>
 - tipo: Clase 2
   fecha: Miércoles 17 de marzo
   desc: |
@@ -33,7 +33,6 @@ body:
   libro: Capítulo 2 "Preliminaries"
   rec:
     <a href="https://docs.google.com/presentation/d/1CDrWU9fkyoVMAh2N2pf68M8kkluCXPPor8MCiWPZVuc/edit">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 1
   fecha: Miércoles 17 de marzo
   desc: Habilitado para resolución
@@ -59,8 +58,7 @@ body:
     </ul>
   libro: Capítulo 3 "Linear Neural Networks"
   rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
+    <a href="https://docs.google.com/presentation/d/1h3LYR0g-YpFScnCmjL5FkFukAMwYxGYTSz203UDqwPU/edit">Presentación</a><br>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -83,8 +81,7 @@ body:
     </ul>
   libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.1, 4.2, 4.3, 4.7)
   rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
+    <a href="https://docs.google.com/presentation/d/1KgBf6mP_w8j_Zw1YDV_MCSNTTo205S-nHYDFICpMRpg/edit">Presentación</a><br>
 - tipo: Trabajo práctico 2
   fecha: Lunes 29 de marzo
   desc: Habilitado para resolución
@@ -102,8 +99,7 @@ body:
     </ul>
   libro: Capítulo 5 "Deep Learning Computation"
   rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
+    <a href="https://docs.google.com/presentation/d/1_DYxt4HUED1ruX1Vr_Ro0dVJi7jI3ahU78jrLxxAq1E/edit">Presentación</a><br>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -125,9 +121,6 @@ body:
       <li>ADAM</li>
     </ul>
   libro: Capítulo 11 "Optimization Algorithms"
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 3
   desc: Habilitado para resolución
   fecha: Lunes 5 de abril
@@ -143,9 +136,6 @@ body:
       <li><i>Dropout</i></li>
     </ul>
   libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -171,9 +161,6 @@ body:
       <li>Implementación de LeNet</li>
     </ul>
   libro: Capítulo 6 "Convolutional Neural Networks"
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 4
   desc: Habilitado para resolución
   fecha: Lunes 12 de abril
@@ -192,9 +179,6 @@ body:
       <li>Bloques densos: DenseNet</li>
     </ul>
   libro: Capítulo 7 "Modern Convolutional Neural Networks"
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -218,9 +202,6 @@ body:
       <li>Aplicación: Transferencia de estilos</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.1, 13.2, 13.12)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 5
   desc: Habilitado para resolución
   fecha: Lunes 19 de abril
@@ -235,9 +216,6 @@ body:
       <li>Detección basada en regiones: R-CNN</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -261,9 +239,6 @@ body:
       <li>Modelos generativos: GANs</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 6
   desc: Habilitado para resolución
   class: práctica
@@ -299,9 +274,6 @@ body:
       <li>Implementación usando frameworks</li>
     </ul>
   libro: Capítulo 8 "Recurrent Neural Networks"
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 5
   desc: ENTREGA
   class: entrega
@@ -316,9 +288,6 @@ body:
       <li>Recurrencia bidireccional</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1, 9.2, 9.3)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 7
   desc: Habilitado para resolución
   class: práctica
@@ -341,9 +310,6 @@ body:
       <li>Implementación con CNN</li>
     </ul>
   libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 6
   desc: ENTREGA
   class: entrega
@@ -360,9 +326,6 @@ body:
       <li>Implementación con RNN</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.5, 9.6, 9.7) y capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 8
   desc: Habilitado para resolución
   class: práctica
@@ -386,9 +349,6 @@ body:
       <li>Métricas de atención</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (secciones 10.1, 10.2, 10.3)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -412,9 +372,6 @@ body:
       <li>Autoatención</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (secciones 10.4, 10.5, 10.6)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 9
   desc: Habilitado para resolución
   fecha: Lunes 31 de mayo
@@ -430,9 +387,6 @@ body:
       <li>Codificación posicional</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (sección 10.7)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -456,9 +410,6 @@ body:
       <li>Modelado del lenguaje con máscaras</li>
     </ul>
   libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.8, 14.9, 14.10)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Trabajo práctico 10
   desc: Habilitado para resolución
   fecha: Lunes 7 de junio
@@ -474,9 +425,6 @@ body:
       <li>Inferencia del lenguaje</li>
     </ul>
   libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.4 a 15.7)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -500,9 +448,6 @@ body:
       <li>Predicción de calificación con <i>autoencoder</i></li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Clase 23
   fecha: Miércoles 16 de junio
   desc: |
@@ -514,9 +459,6 @@ body:
       <li>Sensibilidad a la secuencia: Caser</li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.8)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -539,9 +481,6 @@ body:
       <li>Máquinas de factorización profundas</li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.9, 16.10)
-  rec:
-    <a href="#">Presentación</a><br>
-    <a href="#">Video</a>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
