@@ -23,7 +23,7 @@ body:
 - tipo: Clase 2
   fecha: Miércoles 17 de marzo
   desc: |
-    <h4>Implementación de los modelos</h4>
+    <h4>Implementación de modelos</h4>
     <ul>
       <li><i>Frameworks</i> de aprendizaje profundo</li>
       <li>Entornos de ejecución</li>
@@ -33,9 +33,13 @@ body:
   libro: Capítulo 2 "Preliminaries"
   rec:
     <a href="https://docs.google.com/presentation/d/1CDrWU9fkyoVMAh2N2pf68M8kkluCXPPor8MCiWPZVuc/edit">Presentación</a><br>
+    <a href="https://youtu.be/lPMLU5zr8_0">Video</a>
 - tipo: Trabajo práctico 1
   fecha: Miércoles 17 de marzo
   desc: Habilitado para resolución
+  rec:
+    <a href="https://colab.research.google.com/drive/1zcS5le6xHokdA9UmrxkHcMvU9-ujL4YP">Notebook</a>
+- tipo: Trabajo práctico 1
   class: práctica
 - tipo: Consulta Pablo Marinozi
   fecha: Jueves 18 de marzo
