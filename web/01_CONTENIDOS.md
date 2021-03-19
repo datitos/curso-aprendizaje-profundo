@@ -15,6 +15,11 @@ Vamos a programar mucho. Si tenés experiencia programando pero en un lenguaje d
 * [Curso de Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
 * [Libro A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython)
 
+También requerimos algo de familiaridad con NumPy y Pandas, dos librerías de Python muy usadas en ciencia de datos.
+
+* [Tutorial NumPy](http://cs231n.github.io/python-numpy-tutorial)
+* [Tutorial Pandas](https://matiasbattocchia.github.io/datitos/Pandas-parte-1.html)
+
 Cálculo de una variable, cálculo vectorial, álgebra lineal
 ----------------------------------------------------------
 Tendrías que sentirte bien derivando, operando con vectores y matrices, y entendiendo la notación.

@@ -59,10 +59,10 @@
     @apply border-t border-red-400;
   }
   .práctica {
-    @apply bg-indigo-200;
+    @apply bg-indigo-50;
   }
   .entrega {
-    @apply bg-yellow-200;
+    @apply bg-yellow-100;
   }
   .consulta {
     @apply bg-gray-200;

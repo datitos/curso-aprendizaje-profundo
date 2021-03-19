@@ -45,7 +45,7 @@ body:
   desc: "17:00 a 19:00"
   class: consulta
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 19 de marzo
 
@@ -67,7 +67,7 @@ body:
   class: consulta
   fecha: Jueves 25 de marzo
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 26 de marzo
 
@@ -82,7 +82,7 @@ body:
       <li>Implementación desde cero</li>
       <li>Implementación usando <i>frameworks</i></li>
     </ul>
-  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.1, 4.2, 4.3, 4.7)
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.1, 4.2, 4.3, 4.7, 4.8)
   rec:
     <a href="https://docs.google.com/presentation/d/1KgBf6mP_w8j_Zw1YDV_MCSNTTo205S-nHYDFICpMRpg/edit">Presentación</a><br>
 - tipo: Trabajo práctico 2
@@ -124,6 +124,8 @@ body:
       <li>ADAM</li>
     </ul>
   libro: Capítulo 11 "Optimization Algorithms"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1UBzDH15vVYl1EIdWWuXmLXPBcWe3w-78qOF0iI3BpSI/edit">Presentación</a><br>
 - tipo: Trabajo práctico 3
   desc: Habilitado para resolución
   fecha: Lunes 5 de abril
@@ -139,12 +141,14 @@ body:
       <li><i>Dropout</i></li>
     </ul>
   libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
   fecha: Jueves 8 de abril
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 9 de abril
 
@@ -187,7 +191,7 @@ body:
   class: consulta
   fecha: Jueves 15 de abril
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 16 de abril
 
@@ -224,7 +228,7 @@ body:
   class: consulta
   fecha: Jueves 22 de abril
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 23 de abril
 
@@ -251,7 +255,7 @@ body:
   class: consulta
   fecha: Jueves 29 de abril
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 30 de abril
 
@@ -300,7 +304,7 @@ body:
   class: consulta
   fecha: Jueves 13 de mayo
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 14 de mayo
 
@@ -338,7 +342,7 @@ body:
   class: consulta
   fecha: Jueves 20 de mayo
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 21 de mayo
 
@@ -357,7 +361,7 @@ body:
   class: consulta
   fecha: Jueves 27 de mayo
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 28 de mayo
 
@@ -395,7 +399,7 @@ body:
   class: consulta
   fecha: Jueves 3 de junio
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 4 de junio
 
@@ -433,7 +437,7 @@ body:
   class: consulta
   fecha: Jueves 10 de junio
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 11 de junio
 
@@ -467,7 +471,7 @@ body:
   class: consulta
   fecha: Jueves 17 de junio
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 18 de junio
 
@@ -489,7 +493,7 @@ body:
   class: consulta
   fecha: Jueves 24 de junio
 - tipo: Consulta Luciano Robino
-  desc: "10:00 a 12:00"
+  desc: "8:00 a 10:00"
   class: consulta
   fecha: Viernes 25 de junio
 

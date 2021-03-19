@@ -9,7 +9,8 @@ página, por si sirve de algo.
 
 > Tengo dudas acerca de si cumplo con los prerrequisitos, ¿cómo saber si podré hacer el curso?
 
-La mejor manera es ojear el [libro](https://d2l.ai) del curso y llegar a una conclusión personalmente.
+La mejor manera es ojear el [libro](https://d2l.ai) del curso, especialmente el [capítulo 2](https://d2l.ai/chapter_preliminaries/index.html),
+y llegar a una conclusión personalmente.
 
 > ¿Cuál es la diferencia entre este curso y otros disponibles en internet, como los citados en "material de referencia"?
 
@@ -35,9 +36,37 @@ Actualmente cursa la carrera de licenciatura en computación en Facultad de Inge
 Ha trabajado en el módulo de Matemática del ingreso a la Facultad de Ciencias Económicas, UNCuyo.
 En sus ratos libres estudia japonés.
 
+> Si la propuesta del curso es estudiar del [libro](https://d2l.ai), ¿para qué están las clases?
+
+Es posible hacer el curso sin ver las clases, solo leyendo el libro. Lo inverso, ver las clases y no leer el libro o hacerlo
+parcialmente no te será de gran ayuda.
+
+La intención de las clases es facilitarte la lectura del libro. El equipo docente prepara las clases en base al mismo intentando ponerse en tu lugar,
+determinando qué partes requieren explicaciones más amplias o desde otro punto de vista. Si al equipo docente le parece que
+el tema está muy claro en el libro, lo más probable es que ni sea tocado en clase.
+
+> ¿Es necesario saber inglés?
+
+Como el libro está en inglés, cierto nivel de comprensión lectora es necesaria. Quizás con la ayuda de traducciones automáticas
+sea posible superar la barrera del idioma.
+
+> El libro tiene implementaciones en código en varios _frameworks_ de redes neuronales: TensorFlow, PyTorch, MXNet.
+¿Hay alguna preferencia?
+
+Son todos excelentes _frameworks_. Por una cuestión de practicidad en el dictado de las clases y en la corrección de trabajos prácticos,
+nos enfocamos solo en PyTorch.
+
+> ¿En necesario instalar programas en mi computadora?
+
+Para los prácticos usamos [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb),
+un servicio gratuito de la nube de Google basado en [Jupyter Notebooks](https://jupyter.org).
+En principio, no necesitás correr código en tu propia máquina para hacer el curso, simplemente trabajar en Colab.
+
 > ¿Dónde enviar los trabajos prácticos?
 
-Todavía lo tenemos que determinar. Quizás una dirección de correo electrónico.
+Al correo [datitos-aprendizaje-profundo@googlegroups.com](mailto:datitos-aprendizaje-profundo@googlegroups.com).
+Es importante que lo hagas desde la misma dirección que utilizaste para la inscripción. En el caso de trabajos hechos en
+Google Colab, descargar una copia del _notebook_ en formato `.ipynb` y enviarlo adjunto.
 
 > ¿Hasta qué hora del día de entrega es posible presentar el trabajo práctico?
 
