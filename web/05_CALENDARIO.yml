@@ -90,6 +90,8 @@ body:
 - tipo: Trabajo práctico 2
   fecha: Lunes 29 de marzo
   desc: Habilitado para resolución
+  rec:
+    <a href="https://www.kaggle.com/c/tp-n2-aprendizaje-profundo-2021-by-datitos">Competencia Kaggle</a>
   class: práctica
 - tipo: Clase 5
   fecha: Miércoles 31 de marzo
@@ -105,10 +107,6 @@ body:
   libro: Capítulo 5 "Deep Learning Computation"
   rec:
     <a href="https://docs.google.com/presentation/d/1_DYxt4HUED1ruX1Vr_Ro0dVJi7jI3ahU78jrLxxAq1E/edit">Presentación</a><br>
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 1 de abril
 
 - tipo: Trabajo práctico 1
   fecha: Domingo 4 de abril
@@ -142,7 +140,7 @@ body:
       <li>Regularización de los pesos</li>
       <li><i>Dropout</i></li>
     </ul>
-  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6)
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6, 4.10)
   rec:
     <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
 - tipo: Consulta Pablo Marinozi
@@ -170,6 +168,8 @@ body:
       <li>Implementación de LeNet</li>
     </ul>
   libro: Capítulo 6 "Convolutional Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/13BXHNIUeqLDhuJNwvp9drLeJ4dGQYUn_2JiZATiyUDs/edit">Presentación</a><br>
 - tipo: Trabajo práctico 4
   desc: Habilitado para resolución
   fecha: Lunes 12 de abril
@@ -188,6 +188,8 @@ body:
       <li>Bloques densos: DenseNet</li>
     </ul>
   libro: Capítulo 7 "Modern Convolutional Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1qhUMcizKvvb_33ZDU__pB5EOT2Cq-UDo12VRKX142hk/edit">Presentación</a><br>
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
