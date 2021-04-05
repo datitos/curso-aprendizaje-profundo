@@ -34,20 +34,6 @@ body:
   rec:
     <a href="https://docs.google.com/presentation/d/1CDrWU9fkyoVMAh2N2pf68M8kkluCXPPor8MCiWPZVuc/edit">Presentación</a><br>
     <a href="https://youtu.be/lPMLU5zr8_0">Video</a>
-- tipo: Trabajo práctico 1
-  fecha: Miércoles 17 de marzo
-  desc: Habilitado para resolución
-  rec:
-    <a href="https://colab.research.google.com/drive/1zcS5le6xHokdA9UmrxkHcMvU9-ujL4YP">Notebook</a>
-  class: práctica
-- tipo: Consulta Pablo Marinozi
-  fecha: Jueves 18 de marzo
-  desc: "17:00 a 19:00"
-  class: consulta
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 19 de marzo
 
 - tipo: Clase 3
   fecha: Lunes 22 de marzo
@@ -63,14 +49,6 @@ body:
   rec:
     <a href="https://docs.google.com/presentation/d/1h3LYR0g-YpFScnCmjL5FkFukAMwYxGYTSz203UDqwPU/edit">Presentación</a><br>
     <a href="https://youtu.be/HJAXJ9A5hs0">Video</a>
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 25 de marzo
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 26 de marzo
 
 - tipo: Clase 4
   fecha: Lunes 29 de marzo
@@ -87,14 +65,9 @@ body:
   rec:
     <a href="https://docs.google.com/presentation/d/1KgBf6mP_w8j_Zw1YDV_MCSNTTo205S-nHYDFICpMRpg/edit">Presentación</a><br>
     <a href="https://youtu.be/ES4CQMoma_s">Video</a>
-- tipo: Trabajo práctico 2
-  fecha: Lunes 29 de marzo
-  desc: Habilitado para resolución
-  rec:
-    <a href="https://www.kaggle.com/c/tp-n2-aprendizaje-profundo-2021-by-datitos">Competencia Kaggle</a>
-  class: práctica
+
 - tipo: Clase 5
-  fecha: Miércoles 31 de marzo
+  fecha: Lunes 5 de abril
   desc: |
     <h4>MLP a medida</h4>
     <ul>
@@ -107,13 +80,9 @@ body:
   libro: Capítulo 5 "Deep Learning Computation"
   rec:
     <a href="https://docs.google.com/presentation/d/1_DYxt4HUED1ruX1Vr_Ro0dVJi7jI3ahU78jrLxxAq1E/edit">Presentación</a><br>
-
-- tipo: Trabajo práctico 1
-  fecha: Domingo 4 de abril
-  desc: ENTREGA
-  class: entrega
+    <a href="https://youtu.be/LIyB424O5ls">Video</a>
 - tipo: Clase 6
-  fecha: Lunes 5 de abril
+  fecha: Miércoles 7 de abril
   desc: |
     <h4>Algoritmos de optimización</h4>
     <ul>
@@ -126,12 +95,9 @@ body:
   libro: Capítulo 11 "Optimization Algorithms"
   rec:
     <a href="https://docs.google.com/presentation/d/1UBzDH15vVYl1EIdWWuXmLXPBcWe3w-78qOF0iI3BpSI/edit">Presentación</a><br>
-- tipo: Trabajo práctico 3
-  desc: Habilitado para resolución
-  fecha: Lunes 5 de abril
-  class: práctica
+
 - tipo: Clase 7
-  fecha: Miércoles 7 de abril
+  fecha: Lunes 12 de abril
   desc: |
     <h4>Selección de modelos</h4>
     <ul>
@@ -143,21 +109,8 @@ body:
   libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6, 4.10)
   rec:
     <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 8 de abril
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 9 de abril
-
-- tipo: Trabajo práctico 2
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 11 de abril
 - tipo: Clase 8
-  fecha: Lunes 12 de abril
+  fecha: Miércoles 14 de abril
   desc: |
     <h4>Redes convolucionales (CNNs)</h4>
     <ul>
@@ -170,12 +123,9 @@ body:
   libro: Capítulo 6 "Convolutional Neural Networks"
   rec:
     <a href="https://docs.google.com/presentation/d/13BXHNIUeqLDhuJNwvp9drLeJ4dGQYUn_2JiZATiyUDs/edit">Presentación</a><br>
-- tipo: Trabajo práctico 4
-  desc: Habilitado para resolución
-  fecha: Lunes 12 de abril
-  class: práctica
+
 - tipo: Clase 9
-  fecha: Miércoles 14 de abril
+  fecha: Lunes 19 de abril
   desc: |
     <h4>Arquitecturas CNNs modernas</h4>
     <ul>
@@ -190,21 +140,8 @@ body:
   libro: Capítulo 7 "Modern Convolutional Neural Networks"
   rec:
     <a href="https://docs.google.com/presentation/d/1qhUMcizKvvb_33ZDU__pB5EOT2Cq-UDo12VRKX142hk/edit">Presentación</a><br>
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 15 de abril
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 16 de abril
-
-- tipo: Trabajo práctico 3
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 18 de abril
 - tipo: Clase 10
-  fecha: Lunes 19 de abril
+  fecha: Miércoles 21 de abril
   desc: |
     <h4>Transferencia de conocimiento</h4>
     <ul>
@@ -213,12 +150,9 @@ body:
       <li>Aplicación: Transferencia de estilos</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.1, 13.2, 13.12)
-- tipo: Trabajo práctico 5
-  desc: Habilitado para resolución
-  fecha: Lunes 19 de abril
-  class: práctica
+
 - tipo: Clase 11
-  fecha: Miércoles 21 de abril
+  fecha: Lunes 26 de abril
   desc: |
     <h4>Detección de objetos</h4>
     <ul>
@@ -227,21 +161,8 @@ body:
       <li>Detección basada en regiones: R-CNN</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 22 de abril
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 23 de abril
-
-- tipo: Trabajo práctico 4
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 25 de abril
 - tipo: Clase 12
-  fecha: Lunes 26 de abril
+  fecha: Miércoles 28 de abril
   desc: |
     <h4><i>Upsampling</i></h4>
     <ul>
@@ -250,30 +171,9 @@ body:
       <li>Modelos generativos: GANs</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
-- tipo: Trabajo práctico 6
-  desc: Habilitado para resolución
-  class: práctica
-  fecha: Lunes 26 de abril
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 29 de abril
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 30 de abril
-
-- tipo: Parcial 1
-  fecha: Lunes 3 de mayo
-  desc: Conceptos teóricos unidades 1 y 2
-  class: examen
-- tipo: Proyecto final
-  fecha: Lunes 3 de mayo
-  desc: Propuestas de proyectos
-  class: práctica
 
 - tipo: Clase 13
-  fecha: Lunes 10 de mayo
+  fecha: Miércoles 12 de mayo
   desc: |
     <h4>Redes recurrentes (RNNs)</h4>
     <ul>
@@ -285,12 +185,9 @@ body:
       <li>Implementación usando frameworks</li>
     </ul>
   libro: Capítulo 8 "Recurrent Neural Networks"
-- tipo: Trabajo práctico 5
-  desc: ENTREGA
-  class: entrega
-  fecha: Martes 11 de mayo
+
 - tipo: Clase 14
-  fecha: Miércoles 12 de mayo
+  fecha: Lunes 17 de mayo
   desc: |
     <h4>Arquitecturas RNNs modernas</h4>
     <ul>
@@ -299,21 +196,8 @@ body:
       <li>Recurrencia bidireccional</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1, 9.2, 9.3)
-- tipo: Trabajo práctico 7
-  desc: Habilitado para resolución
-  class: práctica
-  fecha: Miércoles 12 de mayo
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 13 de mayo
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 14 de mayo
-
 - tipo: Clase 15
-  fecha: Lunes 17 de mayo
+  fecha: Miércoles 19 de mayo
   desc: |
     <h4>Analisis de sentimiento</h4>
     <ul>
@@ -321,12 +205,9 @@ body:
       <li>Implementación con CNN</li>
     </ul>
   libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
-- tipo: Trabajo práctico 6
-  desc: ENTREGA
-  class: entrega
-  fecha: Martes 18 de mayo
+
 - tipo: Clase 16
-  fecha: Miércoles 19 de mayo
+  fecha: Miércoles 26 de mayo
   desc: |
     <h4>Traducción automática</h4>
     <ul>
@@ -337,21 +218,9 @@ body:
       <li>Implementación con RNN</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.5, 9.6, 9.7) y capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
-- tipo: Trabajo práctico 8
-  desc: Habilitado para resolución
-  class: práctica
-  fecha: Miércoles 19 de mayo
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 20 de mayo
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 21 de mayo
 
 - tipo: Clase 17
-  fecha: Miércoles 26 de mayo
+  fecha: Lunes 31 de mayo
   desc: |
     <h4>Mecanismos de atención</h4>
     <ul>
@@ -360,21 +229,8 @@ body:
       <li>Métricas de atención</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (secciones 10.1, 10.2, 10.3)
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 27 de mayo
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 28 de mayo
-
-- tipo: Trabajo práctico 7
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 30 de mayo
 - tipo: Clase 18
-  fecha: Lunes 31 de mayo
+  fecha: Miércoles 2 de junio
   desc: |
     <h4>Atención en RNNs</h4>
     <ul>
@@ -383,12 +239,9 @@ body:
       <li>Autoatención</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (secciones 10.4, 10.5, 10.6)
-- tipo: Trabajo práctico 9
-  desc: Habilitado para resolución
-  fecha: Lunes 31 de mayo
-  class: práctica
+
 - tipo: Clase 19
-  fecha: Miércoles 2 de junio
+  fecha: Lunes 7 de junio
   desc: |
     <h4>Transformers</h4>
     <ul>
@@ -398,21 +251,8 @@ body:
       <li>Codificación posicional</li>
     </ul>
   libro: Capítulo 10 "Attention Mechanisms" (sección 10.7)
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 3 de junio
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 4 de junio
-
-- tipo: Trabajo práctico 8
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 6 de junio
 - tipo: Clase 20
-  fecha: Lunes 7 de junio
+  fecha: Miércoles 9 de junio
   desc: |
     <h4>Transformers bidireccionales: BERT</h4>
     <ul>
@@ -421,12 +261,9 @@ body:
       <li>Modelado del lenguaje con máscaras</li>
     </ul>
   libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.8, 14.9, 14.10)
-- tipo: Trabajo práctico 10
-  desc: Habilitado para resolución
-  fecha: Lunes 7 de junio
-  class: práctica
+
 - tipo: Clase 21
-  fecha: Miércoles 9 de junio
+  fecha: Lunes 14 de junio
   desc: |
     <h4>Aplicaciones de BERT</h4>
     <ul>
@@ -436,21 +273,8 @@ body:
       <li>Inferencia del lenguaje</li>
     </ul>
   libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.4 a 15.7)
-- tipo: Consulta Pablo Marinozi
-  desc: "17:00 a 19:00"
-  class: consulta
-  fecha: Jueves 10 de junio
-- tipo: Consulta Luciano Robino
-  desc: "8:00 a 10:00"
-  class: consulta
-  fecha: Viernes 11 de junio
-
-- tipo: Trabajo práctico 9
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 13 de junio
 - tipo: Clase 22
-  fecha: Lunes 14 de junio
+  fecha: Miércoles 16 de junio
   desc: |
     <h4>Sistemas de recomendación con datos explícitos</h4>
     <ul>
@@ -459,8 +283,9 @@ body:
       <li>Predicción de calificación con <i>autoencoder</i></li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4)
+
 - tipo: Clase 23
-  fecha: Miércoles 16 de junio
+  fecha: Miércoles 23 de junio
   desc: |
     <h4>Sistemas de recomendación con ranking</h4>
     <ul>
@@ -470,6 +295,204 @@ body:
       <li>Sensibilidad a la secuencia: Caser</li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.8)
+
+- tipo: Clase 24
+  fecha: Lunes 28 de junio
+  desc: |
+    <h4>Sistemas de recomendación con datos implícitos</h4>
+    <ul>
+      <li>Máquinas de factorización</li>
+      <li>Máquinas de factorización profundas</li>
+    </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.9, 16.10)
+
+- tipo: Trabajo práctico 1
+  fecha: Miércoles 17 de marzo
+  desc: Habilitado para resolución
+  rec:
+    <a href="https://colab.research.google.com/drive/1zcS5le6xHokdA9UmrxkHcMvU9-ujL4YP">Notebook</a>
+  class: práctica
+- tipo: Trabajo práctico 2
+  fecha: Lunes 5 de abril
+  desc: Habilitado para resolución
+  rec:
+    <a href="https://www.kaggle.com/t/76db23857d154019a2f550043a0b5840">Competencia Kaggle</a>
+  class: práctica
+- tipo: Trabajo práctico 3
+  desc: Habilitado para resolución
+  fecha: Lunes 12 de abril
+  class: práctica
+- tipo: Trabajo práctico 4
+  desc: Habilitado para resolución
+  fecha: Lunes 19 de abril
+  class: práctica
+- tipo: Trabajo práctico 5
+  desc: Habilitado para resolución
+  fecha: Lunes 26 de abril
+  class: práctica
+
+- tipo: Trabajo práctico 6
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Miércoles 12 de mayo
+- tipo: Trabajo práctico 7
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Miércoles 19 de mayo
+- tipo: Trabajo práctico 8
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Lunes 31 de mayo
+- tipo: Trabajo práctico 9
+  desc: Habilitado para resolución
+  fecha: Lunes 7 de junio
+  class: práctica
+- tipo: Trabajo práctico 10
+  desc: Habilitado para resolución
+  fecha: Lunes 14 de junio
+  class: práctica
+
+- tipo: Trabajo práctico 1
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 4 de abril
+- tipo: Trabajo práctico 2
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 18 de abril
+- tipo: Trabajo práctico 3
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 25 de abril
+- tipo: Trabajo práctico 4
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 2 de mayo
+- tipo: Trabajo práctico 5
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 9 de mayo
+
+- tipo: Trabajo práctico 6
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 30 de mayo
+- tipo: Trabajo práctico 7
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 6 de junio
+- tipo: Trabajo práctico 8
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 13 de junio
+- tipo: Trabajo práctico 9
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 20 de junio
+- tipo: Trabajo práctico 10
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 27 de junio
+
+- tipo: Consulta Pablo Marinozi
+  fecha: Jueves 18 de marzo
+  desc: "17:00 a 19:00"
+  class: consulta
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 19 de marzo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 25 de marzo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 26 de marzo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 8 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 9 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 15 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 16 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 22 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 23 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 29 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 30 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 13 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 14 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 20 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 21 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 27 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 28 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 3 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 4 de junio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 10 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 11 de junio
+
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -479,19 +502,6 @@ body:
   class: consulta
   fecha: Viernes 18 de junio
 
-- tipo: Trabajo práctico 10
-  desc: ENTREGA
-  class: entrega
-  fecha: Martes 22 de junio
-- tipo: Clase 24
-  fecha: Miércoles 23 de junio
-  desc: |
-    <h4>Sistemas de recomendación con datos implícitos</h4>
-    <ul>
-      <li>Máquinas de factorización</li>
-      <li>Máquinas de factorización profundas</li>
-    </ul>
-  libro: Capítulo 16 "Recommender Systems" (secciones 16.9, 16.10)
 - tipo: Consulta Pablo Marinozi
   desc: "17:00 a 19:00"
   class: consulta
@@ -501,11 +511,27 @@ body:
   class: consulta
   fecha: Viernes 25 de junio
 
-- tipo: Parcial 2
-  fecha: Miércoles 30 de junio
-  desc: Conceptos teóricos unidades 2 y 4
-  class: examen
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 1 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 2 de julio
 
+- tipo: Parcial 1
+  fecha: Miércoles 5 de mayo
+  desc: Conceptos teóricos unidades 1 y 2
+  class: examen
+- tipo: Parcial 2
+  fecha: Lunes 5 de julio
+  desc: Conceptos teóricos unidades 3 y 4
+  class: examen
+- tipo: Proyecto final
+  fecha: Miércoles 5 de mayo
+  desc: Propuestas de proyectos
+  class: práctica
 - tipo: Proyecto final
   fecha: Domingo 11 de julio
   desc: ENTREGA

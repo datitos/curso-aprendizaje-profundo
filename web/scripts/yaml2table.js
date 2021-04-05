@@ -28,7 +28,32 @@ out.push('    </tr>')
 out.push('  </thead>')
 out.push('  <tbody>')
 
-for (const row of doc.body) {
+function parseDate(input) {
+  const months = [
+    'enero', 'febrero', 'marzo',
+    'abril', 'mayo', 'junio',
+    'julio', 'agosto', 'septiembre',
+    'octubre', 'noviembre', 'diciembre'
+  ]
+
+  const aux = input.split(' ')
+
+  const day = parseInt(aux[1])
+  const month = months.indexOf(aux[3])
+  const year = new Date().getFullYear()
+
+  if (month === -1) {
+    throw `Could not parse date for {string}.`
+  }
+
+  return new Date(year, month, day)
+}
+
+function orderByDate(a, b) {
+  return parseDate(a.fecha) - parseDate(b.fecha)
+}
+
+for (const row of doc.body.sort(orderByDate)) {
   if (row.class) {
     out.push(`    <tr class="${row.class}">`)
   } else {
