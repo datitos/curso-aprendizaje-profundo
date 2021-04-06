@@ -84,6 +84,21 @@ body:
 - tipo: Clase 6
   fecha: Miércoles 7 de abril
   desc: |
+    <h4>Selección de modelos</h4>
+    <ul>
+      <li><i>Underfitting</i></li>
+      <li><i>Overfitting</i></li>
+      <li>Regularización de los pesos</li>
+      <li><i>Dropout</i></li>
+    </ul>
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6, 4.10)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
+    <a href="https://youtu.be/Mh1wdc7fqiA">Video</a>
+
+- tipo: Clase 7
+  fecha: Lunes 12 de abril
+  desc: |
     <h4>Algoritmos de optimización</h4>
     <ul>
       <li>Descenso por gradiente</li>
@@ -95,20 +110,6 @@ body:
   libro: Capítulo 11 "Optimization Algorithms"
   rec:
     <a href="https://docs.google.com/presentation/d/1UBzDH15vVYl1EIdWWuXmLXPBcWe3w-78qOF0iI3BpSI/edit">Presentación</a><br>
-
-- tipo: Clase 7
-  fecha: Lunes 12 de abril
-  desc: |
-    <h4>Selección de modelos</h4>
-    <ul>
-      <li><i>Underfitting</i></li>
-      <li><i>Overfitting</i></li>
-      <li>Regularización de los pesos</li>
-      <li><i>Dropout</i></li>
-    </ul>
-  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6, 4.10)
-  rec:
-    <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
 - tipo: Clase 8
   fecha: Miércoles 14 de abril
   desc: |
@@ -150,6 +151,8 @@ body:
       <li>Aplicación: Transferencia de estilos</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.1, 13.2, 13.12)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1DlwNf5b02HdNhA3fK4Yp_xN3JBv_05sPourug-kPDgY/edit">Presentación</a><br>
 
 - tipo: Clase 11
   fecha: Lunes 26 de abril
@@ -356,6 +359,8 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 4 de abril
+  rec:
+    <a href="https://drive.google.com/drive/folders/1YBx1NdyssFp0rQ4PcsC0qshI3gjN_jZ5">Devoluciones</a>
 - tipo: Trabajo práctico 2
   desc: ENTREGA
   class: entrega
