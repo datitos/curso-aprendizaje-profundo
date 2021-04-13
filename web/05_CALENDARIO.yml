@@ -164,6 +164,8 @@ body:
       <li>Detección basada en regiones: R-CNN</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1pQtbrUp8LXtKmf708V5x_itztjGYJByi30QNxpvaxbw/edit">Presentación</a><br>
 - tipo: Clase 12
   fecha: Miércoles 28 de abril
   desc: |
@@ -174,6 +176,8 @@ body:
       <li>Modelos generativos: GANs</li>
     </ul>
   libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1na0eHpG5mB7fuynRW7dyZMbKrKCnK8B_sfDADULCkv4/edit">Presentación</a><br>
 
 - tipo: Clase 13
   fecha: Miércoles 12 de mayo
