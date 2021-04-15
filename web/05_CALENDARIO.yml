@@ -206,16 +206,6 @@ body:
 - tipo: Clase 15
   fecha: Miércoles 19 de mayo
   desc: |
-    <h4>Analisis de sentimiento</h4>
-    <ul>
-      <li>Implementación con RNN</li>
-      <li>Implementación con CNN</li>
-    </ul>
-  libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
-
-- tipo: Clase 16
-  fecha: Miércoles 26 de mayo
-  desc: |
     <h4>Traducción automática</h4>
     <ul>
       <li>Problemas de secuencia a secuecia: Seq2Seq</li>
@@ -225,6 +215,16 @@ body:
       <li>Implementación con RNN</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.5, 9.6, 9.7) y capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
+
+- tipo: Clase 16
+  fecha: Miércoles 26 de mayo
+  desc: |
+    <h4>Analisis de sentimiento</h4>
+    <ul>
+      <li>Implementación con RNN</li>
+      <li>Implementación con CNN</li>
+    </ul>
+  libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
 
 - tipo: Clase 17
   fecha: Lunes 31 de mayo
