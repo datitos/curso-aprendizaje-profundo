@@ -141,6 +141,7 @@ body:
   libro: Capítulo 7 "Modern Convolutional Neural Networks"
   rec:
     <a href="https://docs.google.com/presentation/d/1qhUMcizKvvb_33ZDU__pB5EOT2Cq-UDo12VRKX142hk/edit">Presentación</a><br>
+    <a href="https://youtu.be/cN_X4-0D1wg">Video</a>
 - tipo: Clase 10
   fecha: Miércoles 21 de abril
   desc: |
@@ -534,6 +535,8 @@ body:
 - tipo: Parcial 1
   fecha: Miércoles 5 de mayo
   desc: Conceptos teóricos unidades 1 y 2
+  rec:
+    <a href="https://docs.google.com/document/d/1oT7CPvnMNbRiWzOtgCF9aoZKcrlmfSULEFbK1k0E-Vc/edit">Examen de ejemplo</a>
   class: examen
 - tipo: Parcial 2
   fecha: Lunes 5 de julio
