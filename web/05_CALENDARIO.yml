@@ -335,6 +335,8 @@ body:
 - tipo: Trabajo práctico 4
   desc: Habilitado para resolución
   fecha: Lunes 19 de abril
+  rec:
+    <a href="https://colab.research.google.com/drive/1PvynNB8MxchaeetV6EDmh0oiBEenrNbu">Notebook</a>
   class: práctica
 - tipo: Trabajo práctico 5
   desc: Habilitado para resolución
