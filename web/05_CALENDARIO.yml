@@ -168,6 +168,7 @@ body:
   libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
   rec:
     <a href="https://docs.google.com/presentation/d/1pQtbrUp8LXtKmf708V5x_itztjGYJByi30QNxpvaxbw/edit">Presentación</a><br>
+    <a href="https://youtu.be/Y5rpSE6r4aQ">Video</a>
 - tipo: Clase 12
   fecha: Miércoles 28 de abril
   desc: |
@@ -180,6 +181,7 @@ body:
   libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
   rec:
     <a href="https://docs.google.com/presentation/d/1na0eHpG5mB7fuynRW7dyZMbKrKCnK8B_sfDADULCkv4/edit">Presentación</a><br>
+    <a href="https://youtu.be/addPBYfRpKE">Video</a>
 
 - tipo: Clase 13
   fecha: Miércoles 12 de mayo
@@ -194,6 +196,8 @@ body:
       <li>Implementación usando frameworks</li>
     </ul>
   libro: Capítulo 8 "Recurrent Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1kWH_NqkSRt7V-HdUWiT-62dt67rcGlrsNYD-boL_fnw/edit">Presentación</a><br>
 
 - tipo: Clase 14
   fecha: Lunes 17 de mayo
@@ -205,6 +209,8 @@ body:
       <li>Recurrencia bidireccional</li>
     </ul>
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1 a 9.4)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1_xRdpsPhrrhpFz4lQVURzgMGjz2G7jwS8AsTpTY7RP4/edit">Presentación</a><br>
 - tipo: Clase 15
   fecha: Miércoles 19 de mayo
   desc: |
@@ -215,6 +221,8 @@ body:
       <li><i>Embeddings</i> de morfemas: fastText</li>
     </ul>
   libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1YgAAbw7Y5C0_8SBb-fHmh_Wj8dOvmGcwKYvoxaWb1mI/edit">Presentación</a><br>
 
 - tipo: Clase 16
   fecha: Miércoles 26 de mayo
