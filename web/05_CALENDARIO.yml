@@ -378,6 +378,8 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 25 de abril
+  rec:
+    <a href="https://drive.google.com/drive/folders/1n7cFKv1Jplc4AoH1quA3Xc3Si8GM7lOK">Devoluciones</a>
 - tipo: Trabajo práctico 4
   desc: ENTREGA
   class: entrega
