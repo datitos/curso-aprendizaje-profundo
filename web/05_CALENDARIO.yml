@@ -346,31 +346,23 @@ body:
   rec:
     <a href="https://colab.research.google.com/drive/1PvynNB8MxchaeetV6EDmh0oiBEenrNbu">Notebook</a>
   class: práctica
+
 - tipo: Trabajo práctico 5
   desc: Habilitado para resolución
-  fecha: Lunes 26 de abril
+  fecha: Lunes 10 de mayo
   class: práctica
-
 - tipo: Trabajo práctico 6
   desc: Habilitado para resolución
   class: práctica
-  fecha: Miércoles 12 de mayo
+  fecha: Lunes 17 de mayo
 - tipo: Trabajo práctico 7
   desc: Habilitado para resolución
   class: práctica
-  fecha: Miércoles 19 de mayo
+  fecha: Lunes 31 de mayo
 - tipo: Trabajo práctico 8
   desc: Habilitado para resolución
   class: práctica
-  fecha: Lunes 31 de mayo
-- tipo: Trabajo práctico 9
-  desc: Habilitado para resolución
   fecha: Lunes 7 de junio
-  class: práctica
-- tipo: Trabajo práctico 10
-  desc: Habilitado para resolución
-  fecha: Lunes 14 de junio
-  class: práctica
 
 - tipo: Trabajo práctico 1
   desc: ENTREGA
@@ -390,15 +382,15 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 2 de mayo
+
 - tipo: Trabajo práctico 5
   desc: ENTREGA
   class: entrega
-  fecha: Domingo 9 de mayo
-
+  fecha: Domingo 16 de mayo
 - tipo: Trabajo práctico 6
   desc: ENTREGA
   class: entrega
-  fecha: Domingo 30 de mayo
+  fecha: Domingo 23 de mayo
 - tipo: Trabajo práctico 7
   desc: ENTREGA
   class: entrega
@@ -407,14 +399,6 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 13 de junio
-- tipo: Trabajo práctico 9
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 20 de junio
-- tipo: Trabajo práctico 10
-  desc: ENTREGA
-  class: entrega
-  fecha: Domingo 27 de junio
 
 - tipo: Consulta Pablo Marinozi
   fecha: Jueves 18 de marzo
@@ -546,17 +530,28 @@ body:
   fecha: Miércoles 5 de mayo
   desc: Conceptos teóricos unidades 1 y 2
   rec:
-    <a href="https://docs.google.com/document/d/1oT7CPvnMNbRiWzOtgCF9aoZKcrlmfSULEFbK1k0E-Vc/edit">Examen de ejemplo</a>
+    <a href="https://docs.google.com/document/d/1oT7CPvnMNbRiWzOtgCF9aoZKcrlmfSULEFbK1k0E-Vc/edit">Examen de ejemplo</a><br/>
+    <b><a href="https://docs.google.com/document/d/1BZc3h7_vd9rXHtMT1CMd2Gx5U4LLlVlHmFDcnZs08bI/edit">Examen</a></b>
   class: examen
+- tipo: Parcial 1
+  fecha: Domingo 9 de mayo
+  desc: ENTREGA
+  class: entrega
+
 - tipo: Parcial 2
-  fecha: Lunes 5 de julio
+  fecha: Miércoles 7 de julio
   desc: Conceptos teóricos unidades 3 y 4
   class: examen
+- tipo: Parcial 2
+  fecha: Domingo 11 de julio
+  desc: ENTREGA
+  class: entrega
+
 - tipo: Proyecto final
-  fecha: Miércoles 5 de mayo
+  fecha: Lunes 14 de junio
   desc: Propuestas de proyectos
   class: práctica
 - tipo: Proyecto final
-  fecha: Domingo 11 de julio
+  fecha: Miércoles 14 de julio
   desc: ENTREGA
   class: examen
