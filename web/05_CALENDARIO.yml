@@ -198,6 +198,7 @@ body:
   libro: Capítulo 8 "Recurrent Neural Networks"
   rec:
     <a href="https://docs.google.com/presentation/d/1kWH_NqkSRt7V-HdUWiT-62dt67rcGlrsNYD-boL_fnw/edit">Presentación</a><br>
+    <a href="https://youtu.be/JwQzNWIhFnU">Video</a>
 
 - tipo: Clase 14
   fecha: Lunes 17 de mayo
@@ -211,6 +212,7 @@ body:
   libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1 a 9.4)
   rec:
     <a href="https://docs.google.com/presentation/d/1_xRdpsPhrrhpFz4lQVURzgMGjz2G7jwS8AsTpTY7RP4/edit">Presentación</a><br>
+    <a href="https://youtu.be/5EyN7v-vIr4">Video</a>
 - tipo: Clase 15
   fecha: Miércoles 19 de mayo
   desc: |
