@@ -364,7 +364,7 @@ body:
   fecha: Lunes 10 de mayo
   rec:
     <p>Elegir uno</p>
-    <a href="https://colab.research.google.com/drive/1_QHpl3kRKO6EEx4h7BdrTSr8F5Sq78Ne">Notebook transferencia</a>
+    <a href="https://colab.research.google.com/drive/1_QHpl3kRKO6EEx4h7BdrTSr8F5Sq78Ne">Notebook transferencia</a><br>
     <a href="https://colab.research.google.com/drive/1hdTurtUkZr4QajmYnwd5vLTQKro69d3z">Notebook GANs</a>
   class: práctica
 - tipo: Trabajo práctico 6
