@@ -381,6 +381,8 @@ body:
   desc: Habilitado para resolución
   class: práctica
   fecha: Lunes 31 de mayo
+  rec:
+    <a href="https://colab.research.google.com/drive/1pLVG-94qieVpzkikp7fJDlWmrwGHAqok">Notebook</a>
 - tipo: Trabajo práctico 8
   desc: Habilitado para resolución
   class: práctica
@@ -413,6 +415,8 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 16 de mayo
+  rec:
+    <a href="https://drive.google.com/drive/folders/1Gskfi_YfxLJzMKmFZ9lwUX6t76KrH9-r">Devoluciones</a>
 - tipo: Trabajo práctico 6
   desc: ENTREGA
   class: entrega
