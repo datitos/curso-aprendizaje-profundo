@@ -301,7 +301,7 @@ body:
   desc: |
     <h4>Aplicaciones de BERT</h4>
     <ul>
-      <li>Predicción de próxima oraciones</li>
+      <li>Predicción de próximas oraciones</li>
       <li>Etiquetado automático</li>
       <li>Respuesta automatizada a preguntas</li>
       <li>Inferencia del lenguaje</li>
@@ -309,6 +309,7 @@ body:
   libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.4 a 15.7)
   rec:
     <a href="https://docs.google.com/presentation/d/1EKPMG7nyNfbEAkZR5sdKnYZBihf7IBFU5goJMmjh__I/edit">Presentación</a><br>
+    <a href="https://youtu.be/CICu4ZbjAc4">Video</a>
 - tipo: Clase 22
   fecha: Miércoles 16 de junio
   desc: |
@@ -319,6 +320,8 @@ body:
       <li>Predicción de calificación con <i>autoencoder</i></li>
     </ul>
   libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1uOFZdhvU6yUD_ffGnU6azbZNyxHLQg9PPSCx8Ph0bcE/edit">Presentación</a><br>
 
 - tipo: Clase 23
   fecha: Miércoles 23 de junio
@@ -330,17 +333,23 @@ body:
       <li>Factorización de matrices con MLP: NeuMF</li>
       <li>Sensibilidad a la secuencia: Caser</li>
     </ul>
-  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.8)
-
-- tipo: Clase 24
-  fecha: Lunes 28 de junio
-  desc: |
     <h4>Sistemas de recomendación con datos implícitos</h4>
     <ul>
       <li>Máquinas de factorización</li>
       <li>Máquinas de factorización profundas</li>
     </ul>
-  libro: Capítulo 16 "Recommender Systems" (secciones 16.9, 16.10)
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.10)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1RbBeLg6TBDfzbUcrbuDX-ltSN3t1nidd0nN2HyVZalk/edit">Presentación</a><br>
+
+- tipo: Clase 24
+  fecha: Lunes 28 de junio
+  desc: |
+    <h4>Ética en la inteligencia artificial</h4>
+    por Ariadna Luján Martínez y Sol Pino
+  rec:
+    <a href="https://www.canva.com/design/DAEfmeQVoSA/FcIpM5bCVFilKbwRZd33NQ/view">Presentación</a><br>
+
 
 - tipo: Trabajo práctico 1
   fecha: Miércoles 17 de marzo
@@ -390,7 +399,7 @@ body:
 - tipo: Trabajo práctico 8
   desc: Habilitado para resolución
   class: práctica
-  fecha: Lunes 7 de junio
+  fecha: Lunes 14 de junio
   rec:
     <a href="https://colab.research.google.com/drive/1uQtT3RPK6rspkC8V58fNPnlAkkX8j7th">Notebook</a>
 
@@ -426,17 +435,17 @@ body:
 - tipo: Trabajo práctico 6
   desc: ENTREGA
   class: entrega
-  fecha: Domingo 23 de mayo
+  fecha: Domingo 30 de mayo
   rec:
     <a href="https://drive.google.com/drive/folders/1s8F_XK3c6V1GHUyWM5biPsPnnLnysciw">Devoluciones</a>
 - tipo: Trabajo práctico 7
   desc: ENTREGA
   class: entrega
-  fecha: Domingo 6 de junio
+  fecha: Domingo 13 de junio
 - tipo: Trabajo práctico 8
   desc: ENTREGA
   class: entrega
-  fecha: Domingo 13 de junio
+  fecha: Lunes 21 de junio
 
 - tipo: Consulta Pablo Marinozi
   fecha: Jueves 18 de marzo
@@ -587,10 +596,10 @@ body:
   class: entrega
 
 - tipo: Proyecto final
-  fecha: Lunes 14 de junio
+  fecha: Martes 22 de junio
   desc: Propuestas de proyectos
   class: práctica
 - tipo: Proyecto final
-  fecha: Miércoles 14 de julio
+  fecha: Miércoles 21 de julio
   desc: ENTREGA
   class: examen
