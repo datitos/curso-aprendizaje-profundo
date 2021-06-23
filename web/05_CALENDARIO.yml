@@ -315,11 +315,14 @@ body:
   desc: |
     <h4>Sistemas de recomendación con datos explícitos</h4>
     <ul>
-      <li>Sistemas de recomendación: clasificación</li>
       <li>Factorización de matrices</li>
-      <li>Predicción de calificación con <i>autoencoder</i></li>
+      <li>Factorización de matrices con MLP: NeuMF</li>
+      <li>Autoencoders en recomendación</li>
+      <li>Muestreo negativo</li>
+      <li>Máquinas de factorización</li>
+      <li>Máquinas de factorización profundas</li>
     </ul>
-  libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4)
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4, 16.6, 16.9, 16.10)
   rec:
     <a href="https://docs.google.com/presentation/d/1uOFZdhvU6yUD_ffGnU6azbZNyxHLQg9PPSCx8Ph0bcE/edit">Presentación</a><br>
     <a href="https://youtu.be/YAvX3BBh7U4">Video</a>
@@ -327,21 +330,17 @@ body:
 - tipo: Clase 23
   fecha: Miércoles 23 de junio
   desc: |
-    <h4>Sistemas de recomendación con ranking</h4>
+    <h4>Sistemas de recomendación II</h4>
     <ul>
-      <li>Funciones de perdida para ranking</li>
-      <li>Muestreo negativo</li>
-      <li>Factorización de matrices con MLP: NeuMF</li>
-      <li>Sensibilidad a la secuencia: Caser</li>
+      <li>CNNs en recomendación Caser</li>
+      <li>Clasificación binaria en sistemas de recomendación</li>
+      <li>Matrices de confusión y métricas</li>
+      <li>Muestreo negativo: funciones de pérdida para ranking</li>
     </ul>
-    <h4>Sistemas de recomendación con datos implícitos</h4>
-    <ul>
-      <li>Máquinas de factorización</li>
-      <li>Máquinas de factorización profundas</li>
-    </ul>
-  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 a 16.10)
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 y 16.7)
   rec:
     <a href="https://docs.google.com/presentation/d/1RbBeLg6TBDfzbUcrbuDX-ltSN3t1nidd0nN2HyVZalk/edit">Presentación</a><br>
+    <a href="https://youtu.be/ZgBDZ8c1r2Q">Video</a>
 
 - tipo: Clase 24
   fecha: Lunes 28 de junio
