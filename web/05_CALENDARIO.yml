@@ -316,7 +316,7 @@ body:
     <h4>Sistemas de recomendación con datos explícitos</h4>
     <ul>
       <li>Factorización de matrices</li>
-      <li>Factorización de matrices con MLP: NeuMF</li>
+      <li>Factorización con MLP: NeuMF</li>
       <li>Autoencoders en recomendación</li>
       <li>Muestreo negativo</li>
       <li>Máquinas de factorización</li>
@@ -600,6 +600,7 @@ body:
   desc: Propuestas de proyectos
   class: práctica
   rec:
+    <a href="https://docs.google.com/document/d/e/2PACX-1vR_773KAUc9hVjtOAoPdNs2QSS43KYoDXvsU0pKb1sM_gxaeCQ04aoxbNCf9aBS7rCD2AwhjoPvnRk8/pub">Instrucciones</a>
     <p>Elegir uno</p>
     <a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-squad-track.pdf">SQuAD</a><br/>
     <a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf">Robust QA</a>
