@@ -349,6 +349,7 @@ body:
     por Ariadna Luján Martínez y Sol Pino
   rec:
     <a href="https://www.canva.com/design/DAEfmeQVoSA/FcIpM5bCVFilKbwRZd33NQ/view">Presentación</a><br>
+    <a href="https://youtu.be/0YP2Y47FOuk">Video</a>
     <a href="https://www.kaggle.com/learn/intro-to-ai-ethics">Mini curso Kaggle</a>
 
 - tipo: Trabajo práctico 1
@@ -442,10 +443,14 @@ body:
   desc: ENTREGA
   class: entrega
   fecha: Domingo 13 de junio
+  rec:
+    <a href="https://drive.google.com/drive/folders/1FiCi9eCFB8zF4MP_aFjx1XNUcterpdrE">Devoluciones</a>
 - tipo: Trabajo práctico 8
   desc: ENTREGA
   class: entrega
   fecha: Lunes 21 de junio
+  rec:
+    <a href="https://drive.google.com/drive/folders/1PPp45Fkycf3VbFuSx6owcQnqphl8yxlO">Devoluciones</a>
 
 - tipo: Consulta Pablo Marinozi
   fecha: Jueves 18 de marzo
@@ -590,6 +595,8 @@ body:
   fecha: Miércoles 7 de julio
   desc: Conceptos teóricos unidades 3 y 4
   class: examen
+  rec:
+    <b><a href="https://docs.google.com/document/d/1cMvsBYpatkRquWunbgLBVigOpPQRxlcnQTqkBESth8g/edit">Examen</a></b>
 - tipo: Parcial 2
   fecha: Domingo 11 de julio
   desc: ENTREGA
