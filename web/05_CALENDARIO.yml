@@ -601,6 +601,8 @@ body:
   fecha: Domingo 11 de julio
   desc: ENTREGA
   class: entrega
+  rec:
+    <a href="https://drive.google.com/drive/folders/1siij-S9TMnMfrc26zmNKiFlxuNTWt20p">Devoluciones</a>
 
 - tipo: Proyecto final
   fecha: Martes 22 de junio
