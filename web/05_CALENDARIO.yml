@@ -578,6 +578,24 @@ body:
   class: consulta
   fecha: Viernes 2 de julio
 
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 15 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 16 de julio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 22 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 23 de julio
+
 - tipo: Parcial 1
   fecha: Miércoles 5 de mayo
   desc: Conceptos teóricos unidades 1 y 2
@@ -620,6 +638,6 @@ body:
     <a href="https://www.deeplearningbook.org/contents/guidelines.html">Metodología práctica</a><br/>
     <a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture10-QA.pdf">Arquitecturas QA</a>
 - tipo: Proyecto final
-  fecha: Miércoles 21 de julio
+  fecha: Miércoles 28 de julio
   desc: ENTREGA
   class: examen
