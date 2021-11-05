@@ -1,0 +1,42 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "description": "Very simple static site generator",
+  "main": "index.js",
+  "scripts": {
+    "build-md": "node scripts/md2html.js '*.md' tmp",
+    "build-yml": "node scripts/yaml2table.js 05_CALENDARIO.yml tmp",
+    "build-layout": "node scripts/renderLayout.js 'tmp/*.html' 00_LAYOUT.mustache build/index.html",
+    "build-css": "postcss css/styles.css -o build/styles.css",
+    "assets": "cp -r img build",
+    "build": "npm run build-md && npm run build-yml && npm run build-layout && npm run build-css && npm run assets",
+    "watch-md": "onchange '*.md' -- npm run build-md",
+    "watch-layout": "onchange '*.mustache' 'tmp/*.html' -- npm run build-layout",
+    "watch-css": "onchange 'css/*.css' -- npm run build-css",
+    "serve": "browser-sync start --server build --files 'build/*.html,build/*.css'",
+    "local": "run-p watch-md watch-layout watch-css serve"
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": {},
+      "autoprefixer": {}
+    }
+  },
+  "author": "Matías Battocchia",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "fast-glob": "^3.2.5",
+    "js-yaml": "^4.0.0",
+    "mustache": "^4.1.0",
+    "postcss": "^8.2.4",
+    "postcss-cli": "^8.3.1",
+    "showdown": "^1.9.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "npm-run-all": "^4.1.5",
+    "browser-sync": "^2.26.14"
+  }
+}

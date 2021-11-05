@@ -1,0 +1,76 @@
+@tailwind base;
+
+@layer base {
+  section, blockquote {
+    scroll-margin-top: 5rem;
+  }
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl text-red-500 mt-8 mb-3;
+  }
+  h3 {
+    @apply text-xl mt-3;
+  }
+  h4 {
+    @apply font-semibold;
+  }
+  blockquote {
+    @apply font-medium mt-3 border-l-2 border-red-500 pl-2;
+  }
+  p, ul, ol {
+    @apply mt-1;
+  }
+  ul {
+    @apply list-inside list-disc;
+  }
+  ol {
+    @apply list-inside list-decimal;
+  }
+  li > p {
+    @apply pl-4;
+  }
+  li li {
+    @apply ml-4;
+  }
+  a {
+    @apply text-blue-600;
+  }
+  strong, b {
+    @apply font-semibold;
+  }
+  table {
+    @apply table-fixed mt-4;
+  }
+  th, td {
+    @apply p-2;
+  }
+  th:nth-child(3), th:nth-child(4) {
+    @apply w-1/4;
+  }
+  th {
+    @apply text-left font-normal;
+  }
+  td > ul {
+    @apply list-none;
+  }
+  tbody > tr {
+    @apply border-t border-red-400;
+  }
+  .práctica {
+    @apply bg-indigo-50;
+  }
+  .entrega {
+    @apply bg-yellow-100;
+  }
+  .consulta {
+    @apply bg-gray-200;
+  }
+  .examen {
+    @apply bg-red-200;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;

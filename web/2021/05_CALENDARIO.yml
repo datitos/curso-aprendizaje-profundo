@@ -1,0 +1,646 @@
+---
+header:
+  tipo: ""
+  fecha: Fecha
+  desc: Descripción
+  libro: Libro
+  rec: ""
+
+body:
+- tipo: Clase 1
+  fecha: Lunes 15 de marzo
+  desc: |
+    <h4>Introducción, motivación y bienvenida</h4>
+    <ul>
+      <li>Definición de componentes claves</li>
+      <li>Tipo de problemas de aprendizaje</li>
+      <li>Aprendizaje profundo en la vida cotidiana</li>
+    </ul>
+  libro: Capítulo 1 "Introduction"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1Ahh50UJmSQ5SPq-IXRLVJwCrRhZJWwgov_HHqewE6jQ/edit">Presentación</a><br>
+    <a href="https://youtu.be/x1nPlkRhd0E">Video</a>
+- tipo: Clase 2
+  fecha: Miércoles 17 de marzo
+  desc: |
+    <h4>Implementación de modelos</h4>
+    <ul>
+      <li><i>Frameworks</i> de aprendizaje profundo</li>
+      <li>Entornos de ejecución</li>
+      <li>Manipulación y preprocesamiento de datos</li>
+      <li>Cálculo automático de gradientes</li>
+    </ul>
+  libro: Capítulo 2 "Preliminaries"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1CDrWU9fkyoVMAh2N2pf68M8kkluCXPPor8MCiWPZVuc/edit">Presentación</a><br>
+    <a href="https://youtu.be/lPMLU5zr8_0">Video</a>
+
+- tipo: Clase 3
+  fecha: Lunes 22 de marzo
+  desc: |
+    <h4>Redes neuronales de una capa</h4>
+    <ul>
+      <li>Regresión lineal</li>
+      <li>Regresión softmax</li>
+      <li>Implementación desde cero</li>
+      <li>Implementación usando <i>frameworks</i></li>
+    </ul>
+  libro: Capítulo 3 "Linear Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1h3LYR0g-YpFScnCmjL5FkFukAMwYxGYTSz203UDqwPU/edit">Presentación</a><br>
+    <a href="https://youtu.be/HJAXJ9A5hs0">Video</a>
+
+- tipo: Clase 4
+  fecha: Lunes 29 de marzo
+  desc: |
+    <h4>Redes neuronales de multicapa</h4>
+    <ul>
+      <li>Perceptrón multicapa (MLP)</li>
+      <li>Propagación directa</li>
+      <li>Propagación hacia atrás</li>
+      <li>Implementación desde cero</li>
+      <li>Implementación usando <i>frameworks</i></li>
+    </ul>
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.1, 4.2, 4.3, 4.7, 4.8)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1KgBf6mP_w8j_Zw1YDV_MCSNTTo205S-nHYDFICpMRpg/edit">Presentación</a><br>
+    <a href="https://youtu.be/ES4CQMoma_s">Video</a>
+
+- tipo: Clase 5
+  fecha: Lunes 5 de abril
+  desc: |
+    <h4>MLP a medida</h4>
+    <ul>
+      <li>Capas y bloques</li>
+      <li>Capas diseñadas a medida</li>
+      <li>Inicialización y manejo de parámetros</li>
+      <li>Operaciones de I/O</li>
+      <li>GPU</li>
+    </ul>
+  libro: Capítulo 5 "Deep Learning Computation"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1_DYxt4HUED1ruX1Vr_Ro0dVJi7jI3ahU78jrLxxAq1E/edit">Presentación</a><br>
+    <a href="https://youtu.be/LIyB424O5ls">Video</a>
+- tipo: Clase 6
+  fecha: Miércoles 7 de abril
+  desc: |
+    <h4>Selección de modelos</h4>
+    <ul>
+      <li><i>Underfitting</i></li>
+      <li><i>Overfitting</i></li>
+      <li>Regularización de los pesos</li>
+      <li><i>Dropout</i></li>
+    </ul>
+  libro: Capítulo 4 "Multilayer Perceptrons" (secciones 4.4, 4.5, 4.6, 4.10)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1GTLJaqC4k-GIw47EjkqHgPZNWnVVZhFbThhAmiwfq60/edit">Presentación</a><br>
+    <a href="https://youtu.be/Xq0O_ZR-aY8">Video</a>
+- tipo: Clase 7
+  fecha: Lunes 12 de abril
+  desc: |
+    <h4>Algoritmos de optimización</h4>
+    <ul>
+      <li>Descenso por gradiente</li>
+      <li>Descenso por gradiente estocástico</li>
+      <li>Momento</li>
+      <li>ADAGRAD</li>
+      <li>ADAM</li>
+    </ul>
+  libro: Capítulo 11 "Optimization Algorithms"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1UBzDH15vVYl1EIdWWuXmLXPBcWe3w-78qOF0iI3BpSI/edit">Presentación</a><br>
+    <a href="https://youtu.be/fa2MDdON0Mg">Video</a>
+- tipo: Clase 8
+  fecha: Miércoles 14 de abril
+  desc: |
+    <h4>Redes convolucionales (CNNs)</h4>
+    <ul>
+      <li>Convoluciones en imágenes</li>
+      <li><i>Pooling</i></li>
+      <li><i>Padding</i> y <i>striding</i></li>
+      <li>Arquitectura LeNet</li>
+      <li>Implementación de LeNet</li>
+    </ul>
+  libro: Capítulo 6 "Convolutional Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/13BXHNIUeqLDhuJNwvp9drLeJ4dGQYUn_2JiZATiyUDs/edit">Presentación</a><br>
+    <a href="https://youtu.be/Mh1wdc7fqiA">Video</a>
+- tipo: Clase 9
+  fecha: Lunes 19 de abril
+  desc: |
+    <h4>Arquitecturas CNNs modernas</h4>
+    <ul>
+      <li>AlexNet e ImageNet</li>
+      <li>Bloques VGG</li>
+      <li>Bloques NiN</li>
+      <li>GoogLeNet y el bloque Inception</li>
+      <li>Normalización por lote</li>
+      <li>Conexiones residuales: ResNet</li>
+      <li>Bloques densos: DenseNet</li>
+    </ul>
+  libro: Capítulo 7 "Modern Convolutional Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1qhUMcizKvvb_33ZDU__pB5EOT2Cq-UDo12VRKX142hk/edit">Presentación</a><br>
+    <a href="https://youtu.be/cN_X4-0D1wg">Video</a>
+- tipo: Clase 10
+  fecha: Miércoles 21 de abril
+  desc: |
+    <h4>Transferencia de conocimiento</h4>
+    <ul>
+      <li>Redes preentrenadas</li>
+      <li><i>Fine-tuning</i></li>
+      <li>Aplicación: Transferencia de estilos</li>
+    </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.1, 13.2, 13.12)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1DlwNf5b02HdNhA3fK4Yp_xN3JBv_05sPourug-kPDgY/edit">Presentación</a><br>
+    <a href="https://youtu.be/ys_XI0Za1NM">Video</a>
+
+- tipo: Clase 11
+  fecha: Lunes 26 de abril
+  desc: |
+    <h4>Detección de objetos</h4>
+    <ul>
+      <li><i>Bounding boxes</i></li>
+      <li>Detección multiescala: SSD</li>
+      <li>Detección basada en regiones: R-CNN</li>
+    </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.3 a 13.8)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1pQtbrUp8LXtKmf708V5x_itztjGYJByi30QNxpvaxbw/edit">Presentación</a><br>
+    <a href="https://youtu.be/Y5rpSE6r4aQ">Video</a>
+- tipo: Clase 12
+  fecha: Miércoles 28 de abril
+  desc: |
+    <h4><i>Upsampling</i></h4>
+    <ul>
+      <li>Convolución traspuesta</li>
+      <li>Segmentación semática: FCN</li>
+      <li>Modelos generativos: GANs</li>
+    </ul>
+  libro: Capítulo 13 "Computer Vision" (secciones 13.9, 13.10, 13.11) y capítulo 17 "Generative Adversarial Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1na0eHpG5mB7fuynRW7dyZMbKrKCnK8B_sfDADULCkv4/edit">Presentación</a><br>
+    <a href="https://youtu.be/addPBYfRpKE">Video</a>
+
+- tipo: Clase 13
+  fecha: Miércoles 12 de mayo
+  desc: |
+    <h4>Redes recurrentes (RNNs)</h4>
+    <ul>
+      <li>Modelos secuenciales</li>
+      <li>Variables ocultas</li>
+      <li>Perplejidad, verosimilitud y entropia</li>
+      <li>Propagación hacia atrás con dependencia temporal</li>
+      <li>Implementación desde cero</li>
+      <li>Implementación usando frameworks</li>
+    </ul>
+  libro: Capítulo 8 "Recurrent Neural Networks"
+  rec:
+    <a href="https://docs.google.com/presentation/d/1kWH_NqkSRt7V-HdUWiT-62dt67rcGlrsNYD-boL_fnw/edit">Presentación</a><br>
+    <a href="https://youtu.be/JwQzNWIhFnU">Video</a>
+
+- tipo: Clase 14
+  fecha: Lunes 17 de mayo
+  desc: |
+    <h4>Arquitecturas RNNs modernas</h4>
+    <ul>
+      <li>Recurrencia con compuertas: GRU</li>
+      <li>Recurrencia con memoria: LSTM</li>
+      <li>Recurrencia bidireccional</li>
+    </ul>
+  libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.1 a 9.4)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1_xRdpsPhrrhpFz4lQVURzgMGjz2G7jwS8AsTpTY7RP4/edit">Presentación</a><br>
+    <a href="https://youtu.be/5EyN7v-vIr4">Video</a>
+- tipo: Clase 15
+  fecha: Miércoles 19 de mayo
+  desc: |
+    <h4>Embeddings</h4>
+    <ul>
+      <li><i>Embeddings</i> de palabras: Word2Vec</li>
+      <li><i>Embeddings</i> de palabras: GloVe</li>
+      <li><i>Embeddings</i> de morfemas: fastText</li>
+    </ul>
+  libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.1 a 14.6)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1YgAAbw7Y5C0_8SBb-fHmh_Wj8dOvmGcwKYvoxaWb1mI/edit">Presentación</a><br>
+    <a href="https://youtu.be/xu3FC81eNKI">Video</a>
+
+- tipo: Clase 16
+  fecha: Miércoles 26 de mayo
+  desc: |
+    <h4>Aplicaciones de RNN</h4>
+    <ul>
+      <li>Análisis de sentimiento</li>
+      <li>Problemas de secuencia a secuecia: Seq2Seq</li>
+      <li>Traducción automática</li>
+    </ul>
+  libro: Capítulo 9 "Modern Recurrent Neural Networks" (secciones 9.5 a 9.8) y capítulo 15 "Natural Language Processing Applications" (secciones 15.1, 15.2, 15.3)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1SlfWEZqR3aJ1buc2A0kLqaIRYYUQ3ICm-evbqQKEpAk/edit">Presentación</a><br>
+    <a href="https://youtu.be/yqLXbrvglNM">Video</a>
+
+- tipo: Clase 17
+  fecha: Lunes 31 de mayo
+  desc: |
+    <h4>Mecanismos de atención</h4>
+    <ul>
+      <li>Concepto de atención</li>
+      <li><i>Pooling</i> de atención</li>
+      <li>Métricas de atención</li>
+    </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (secciones 10.1, 10.2, 10.3)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1BLuNYW14d0Q8DKTtDPm6_je_yicPkbHyf5b44TjED4E/edit">Presentación</a><br>
+    <a href="https://youtu.be/WkaphFaWLOw">Video</a>
+- tipo: Clase 18
+  fecha: Miércoles 2 de junio
+  desc: |
+    <h4>Atención en RNNs</h4>
+    <ul>
+      <li>Modelo de Bahdanau</li>
+      <li>Multiples cabezales</li>
+      <li>Autoatención</li>
+    </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (secciones 10.4, 10.5, 10.6)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1qi9uJhzyU_PynBG3nNHL235z8oQmV-Z9Jl6LvhE2EKw/edit">Presentación</a><br>
+    <a href="https://youtu.be/d-cL1_nb5qA">Video</a>
+
+- tipo: Clase 19
+  fecha: Lunes 7 de junio
+  desc: |
+    <h4>Transformers</h4>
+    <ul>
+      <li>MLP sensible a la posición</li>
+      <li>Normalización por capas</li>
+      <li>Atención con máscaras</li>
+      <li>Codificación posicional</li>
+    </ul>
+  libro: Capítulo 10 "Attention Mechanisms" (sección 10.7)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1TTlvdTs_qBZ16EXjAhjalUknCCmRJ5NYKQjqIy_Tyys/edit">Presentación</a><br>
+    <a href="https://youtu.be/Jxg_e0tnQXo">Video</a>
+- tipo: Clase 20
+  fecha: Miércoles 9 de junio
+  desc: |
+    <h4>Transformers bidireccionales: BERT</h4>
+    <ul>
+      <li><i>Embeddings</i> sensibles al contexto</li>
+      <li>Arquitectura independiete de la tarea</li>
+      <li>Modelado del lenguaje con máscaras</li>
+    </ul>
+  libro: Capítulo 14 "Natural Language Processing Pretraining" (secciones 14.8, 14.9, 14.10)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1kE8bpBC0-k_RjcBBHH03rwGXJLHpnJRAcc55DWj9WEg/edit">Presentación</a><br>
+    <a href="https://youtu.be/eO8V1rJVQBg">Video</a>
+
+- tipo: Clase 21
+  fecha: Lunes 14 de junio
+  desc: |
+    <h4>Aplicaciones de BERT</h4>
+    <ul>
+      <li>Predicción de próximas oraciones</li>
+      <li>Etiquetado automático</li>
+      <li>Respuesta automatizada a preguntas</li>
+      <li>Inferencia del lenguaje</li>
+    </ul>
+  libro: Capítulo 15 "Natural Language Processing Applications" (secciones 15.4 a 15.7)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1EKPMG7nyNfbEAkZR5sdKnYZBihf7IBFU5goJMmjh__I/edit">Presentación</a><br>
+    <a href="https://youtu.be/CICu4ZbjAc4">Video</a>
+- tipo: Clase 22
+  fecha: Miércoles 16 de junio
+  desc: |
+    <h4>Sistemas de recomendación con datos explícitos</h4>
+    <ul>
+      <li>Factorización de matrices</li>
+      <li>Factorización con MLP: NeuMF</li>
+      <li>Autoencoders en recomendación</li>
+      <li>Muestreo negativo</li>
+      <li>Máquinas de factorización</li>
+      <li>Máquinas de factorización profundas</li>
+    </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.1 a 16.4, 16.6, 16.9, 16.10)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1uOFZdhvU6yUD_ffGnU6azbZNyxHLQg9PPSCx8Ph0bcE/edit">Presentación</a><br>
+    <a href="https://youtu.be/YAvX3BBh7U4">Video</a>
+
+- tipo: Clase 23
+  fecha: Miércoles 23 de junio
+  desc: |
+    <h4>Sistemas de recomendación II</h4>
+    <ul>
+      <li>CNNs en recomendación Caser</li>
+      <li>Clasificación binaria en sistemas de recomendación</li>
+      <li>Matrices de confusión y métricas</li>
+      <li>Muestreo negativo: funciones de pérdida para ranking</li>
+    </ul>
+  libro: Capítulo 16 "Recommender Systems" (secciones 16.5 y 16.7)
+  rec:
+    <a href="https://docs.google.com/presentation/d/1RbBeLg6TBDfzbUcrbuDX-ltSN3t1nidd0nN2HyVZalk/edit">Presentación</a><br>
+    <a href="https://youtu.be/ZgBDZ8c1r2Q">Video</a>
+
+- tipo: Clase 24
+  fecha: Lunes 28 de junio
+  desc: |
+    <h4>Ética en la inteligencia artificial</h4>
+    por Ariadna Luján Martínez y Sol Pino
+  rec:
+    <a href="https://www.canva.com/design/DAEfmeQVoSA/FcIpM5bCVFilKbwRZd33NQ/view">Presentación</a><br>
+    <a href="https://youtu.be/0YP2Y47FOuk">Video</a><br>
+    <a href="https://www.kaggle.com/learn/intro-to-ai-ethics">Mini curso Kaggle</a>
+
+- tipo: Trabajo práctico 1
+  fecha: Miércoles 17 de marzo
+  desc: Habilitado para resolución
+  rec:
+    <a href="https://colab.research.google.com/drive/1zcS5le6xHokdA9UmrxkHcMvU9-ujL4YP">Notebook</a>
+  class: práctica
+- tipo: Trabajo práctico 2
+  fecha: Lunes 5 de abril
+  desc: Habilitado para resolución
+  rec:
+    <a href="https://www.kaggle.com/t/d67f76c4b2f64af4afd11195e5036e46">Competencia Kaggle</a>
+  class: práctica
+- tipo: Trabajo práctico 3
+  desc: Habilitado para resolución
+  fecha: Lunes 12 de abril
+  rec:
+    <a href="https://colab.research.google.com/drive/1tFdjNGWOoaSNpr2f7MHcSVVKOBtdPZxs">Notebook</a>
+  class: práctica
+- tipo: Trabajo práctico 4
+  desc: Habilitado para resolución
+  fecha: Lunes 19 de abril
+  rec:
+    <a href="https://colab.research.google.com/drive/1PvynNB8MxchaeetV6EDmh0oiBEenrNbu">Notebook</a>
+  class: práctica
+
+- tipo: Trabajo práctico 5
+  desc: Habilitado para resolución
+  fecha: Lunes 10 de mayo
+  rec:
+    <p>Elegir uno</p>
+    <a href="https://colab.research.google.com/drive/1_QHpl3kRKO6EEx4h7BdrTSr8F5Sq78Ne">Notebook transferencia</a><br>
+    <a href="https://colab.research.google.com/drive/1hdTurtUkZr4QajmYnwd5vLTQKro69d3z">Notebook GANs</a>
+  class: práctica
+- tipo: Trabajo práctico 6
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Lunes 17 de mayo
+  rec:
+    <a href="https://colab.research.google.com/drive/1yCNFeRTFaXBhsP2cPn1M5DGYhQzX2Put">Notebook</a>
+- tipo: Trabajo práctico 7
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Lunes 31 de mayo
+  rec:
+    <a href="https://colab.research.google.com/drive/1pLVG-94qieVpzkikp7fJDlWmrwGHAqok">Notebook</a>
+- tipo: Trabajo práctico 8
+  desc: Habilitado para resolución
+  class: práctica
+  fecha: Lunes 14 de junio
+  rec:
+    <a href="https://colab.research.google.com/drive/1uQtT3RPK6rspkC8V58fNPnlAkkX8j7th">Notebook</a>
+
+- tipo: Trabajo práctico 1
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 4 de abril
+  rec:
+    <a href="https://drive.google.com/drive/folders/1YBx1NdyssFp0rQ4PcsC0qshI3gjN_jZ5">Devoluciones</a>
+- tipo: Trabajo práctico 2
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 18 de abril
+- tipo: Trabajo práctico 3
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 25 de abril
+  rec:
+    <a href="https://drive.google.com/drive/folders/1n7cFKv1Jplc4AoH1quA3Xc3Si8GM7lOK">Devoluciones</a>
+- tipo: Trabajo práctico 4
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 2 de mayo
+  rec:
+    <a href="https://drive.google.com/drive/folders/1e-KmE-de22_2mUWr6CE4CE2ZqOGlN1CD">Devoluciones</a>
+
+- tipo: Trabajo práctico 5
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 16 de mayo
+  rec:
+    <a href="https://drive.google.com/drive/folders/1Gskfi_YfxLJzMKmFZ9lwUX6t76KrH9-r">Devoluciones</a>
+- tipo: Trabajo práctico 6
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 30 de mayo
+  rec:
+    <a href="https://drive.google.com/drive/folders/1s8F_XK3c6V1GHUyWM5biPsPnnLnysciw">Devoluciones</a>
+- tipo: Trabajo práctico 7
+  desc: ENTREGA
+  class: entrega
+  fecha: Domingo 13 de junio
+  rec:
+    <a href="https://drive.google.com/drive/folders/1FiCi9eCFB8zF4MP_aFjx1XNUcterpdrE">Devoluciones</a>
+- tipo: Trabajo práctico 8
+  desc: ENTREGA
+  class: entrega
+  fecha: Lunes 21 de junio
+  rec:
+    <a href="https://drive.google.com/drive/folders/1PPp45Fkycf3VbFuSx6owcQnqphl8yxlO">Devoluciones</a>
+
+- tipo: Consulta Pablo Marinozi
+  fecha: Jueves 18 de marzo
+  desc: "17:00 a 19:00"
+  class: consulta
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 19 de marzo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 25 de marzo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 26 de marzo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 8 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 9 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 15 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 16 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 22 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 23 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 29 de abril
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 30 de abril
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 13 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 14 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 20 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 21 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 27 de mayo
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 28 de mayo
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 3 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 4 de junio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 10 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 11 de junio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 17 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 18 de junio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 24 de junio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 25 de junio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 1 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 2 de julio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 15 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 16 de julio
+
+- tipo: Consulta Pablo Marinozi
+  desc: "17:00 a 19:00"
+  class: consulta
+  fecha: Jueves 22 de julio
+- tipo: Consulta Luciano Robino
+  desc: "8:00 a 10:00"
+  class: consulta
+  fecha: Viernes 23 de julio
+
+- tipo: Parcial 1
+  fecha: Miércoles 5 de mayo
+  desc: Conceptos teóricos unidades 1 y 2
+  rec:
+    <a href="https://docs.google.com/document/d/1oT7CPvnMNbRiWzOtgCF9aoZKcrlmfSULEFbK1k0E-Vc/edit">Examen de ejemplo</a><br/>
+    <b><a href="https://docs.google.com/document/d/1BZc3h7_vd9rXHtMT1CMd2Gx5U4LLlVlHmFDcnZs08bI/edit">Examen</a></b>
+  class: examen
+- tipo: Parcial 1
+  fecha: Domingo 9 de mayo
+  desc: ENTREGA
+  class: entrega
+  rec:
+    <a href="https://drive.google.com/drive/folders/1ZJ4nMq5ckVV4LYIeKhcgyLuq4ik_QfPO">Devoluciones</a>
+- tipo: Parcial 2
+  fecha: Miércoles 7 de julio
+  desc: Conceptos teóricos unidades 3 y 4
+  class: examen
+  rec:
+    <b><a href="https://docs.google.com/document/d/1cMvsBYpatkRquWunbgLBVigOpPQRxlcnQTqkBESth8g/edit">Examen</a></b>
+- tipo: Parcial 2
+  fecha: Domingo 11 de julio
+  desc: ENTREGA
+  class: entrega
+  rec:
+    <a href="https://drive.google.com/drive/folders/1siij-S9TMnMfrc26zmNKiFlxuNTWt20p">Devoluciones</a>
+
+- tipo: Proyecto final
+  fecha: Martes 22 de junio
+  desc: Propuestas de proyectos
+  class: práctica
+  rec:
+    <a href="https://docs.google.com/document/d/e/2PACX-1vR_773KAUc9hVjtOAoPdNs2QSS43KYoDXvsU0pKb1sM_gxaeCQ04aoxbNCf9aBS7rCD2AwhjoPvnRk8/pub">Instrucciones</a>
+    <p>Elegir uno</p>
+    <a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-squad-track.pdf">SQuAD</a><br/>
+    <a href="http://web.stanford.edu/class/cs224n/project/default-final-project-handout-robustqa-track.pdf">Robust QA</a>
+    <p>Dataset</p>
+    <a href="https://rajpurkar.github.io/SQuAD-explorer/">Stanford Question Answering</a>
+    <p>Recursos</p>
+    <a href="http://web.stanford.edu/class/cs224n/readings/final-project-practical-tips.pdf">Consejos para el proyecto final</a><br/>
+    <a href="https://www.deeplearningbook.org/contents/guidelines.html">Metodología práctica</a><br/>
+    <a href="http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture10-QA.pdf">Arquitecturas QA</a>
+- tipo: Proyecto final
+  fecha: Miércoles 28 de julio
+  desc: ENTREGA
+  class: examen
+  rec:
+    <a href="https://youtube.com/playlist?list=PLcfxtMhW8iFMRj27ZpffTRkxLOxhWtHSm">Presentaciones</a><br>
+    <a href="https://drive.google.com/drive/folders/11RAFsu4v0pdXRlvuQVr2dUONGcmryyK3">Informes</a>
