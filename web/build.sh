@@ -1,6 +1,20 @@
-for folder in 20*; do
-  echo ${folder}
-  (cd ${folder} && npm run build)
-  mkdir -p build/${folder} && mv ${folder}/build/* build/${folder}
-  rm -r ${folder}/tmp && rm -r ${folder}/build
+current_version=$(cat web_version)
+mkdir -p build
+
+for version in 20*; do
+  echo ${version}
+  cd ${version}
+  npm install
+  npm run build
+  cd ..
+
+  if [ $version = $current_version ]
+  then
+    mv ${version}/build/* build/
+  else
+    mv ${version}/build/ build/${version}/
+  fi
+
+  rm -rf ${version}/tmp
+  rm -rf ${version}/build
 done
