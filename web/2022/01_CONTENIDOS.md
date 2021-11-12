@@ -1,4 +1,4 @@
-Prerequisitos
+Prerrequisitos
 ==============
 
 Debido a que explicamos cada concepto desde cero, no requerimos conocimientos previos en aprendizaje profundo
