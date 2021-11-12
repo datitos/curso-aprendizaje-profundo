@@ -4,19 +4,12 @@
   "description": "Very simple static site generator",
   "main": "index.js",
   "scripts": {
-    "build-md-current": "node scripts/md2html.js '*.md' tmp",
-    "build-yml-current": "node scripts/yaml2table.js 05_CALENDARIO.yml tmp",
-    "build-layout-current": "node scripts/renderLayout.js 'tmp/*.html' 00_LAYOUT.mustache build/index.html",
-    "build-css-current": "postcss css/styles.css -o build/styles.css",
-    "assets-current": "cp -r img build",
-    "build-md-previous": "node scripts/md2html.js '2021/*.md' tmp",
-    "build-yml-previous": "node scripts/yaml2table.js 2021/05_CALENDARIO.yml tmp",
-    "build-layout-previous": "node scripts/renderLayout.js 'tmp/2021/*.html' 00_LAYOUT.mustache build/2021/index.html",
-    "build-css-previous": "postcss 2021/css/styles.css -o build/2021/styles.css",
-    "assets-previous": "cp -r img build/2021",
-    "build-current": "npm run build-md-current && npm run build-yml-current && npm run build-layout-current && npm run build-css-current && npm run assets-current",
-    "build-previous": "npm run build-md-previous && npm run build-yml-previous && npm run build-layout-previous && npm run build-css-previous && npm run assets-previous",
-    "build": "npm run build-current && npm run build-previous"
+    "build-md": "node scripts/md2html.js '*.md' tmp",
+    "build-yml": "node scripts/yaml2table.js 05_CALENDARIO.yml tmp",
+    "build-layout": "node scripts/renderLayout.js 'tmp/*.html' 00_LAYOUT.mustache build/index.html",
+    "build-css": "postcss css/styles.css -o build/styles.css",
+    "assets": "cp -r img build",
+    "build": "npm run build-md && npm run build-yml && npm run build-layout && npm run build-css && npm run assets"
   },
   "postcss": {
     "plugins": {
