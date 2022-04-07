@@ -612,21 +612,6 @@ tbody > tr {
   background-color: rgba(238, 242, 255, var(--tw-bg-opacity));
 }
 
-.entrega {
-  --tw-bg-opacity: 1;
-  background-color: rgba(254, 243, 199, var(--tw-bg-opacity));
-}
-
-.consulta {
-  --tw-bg-opacity: 1;
-  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
-}
-
-.examen {
-  --tw-bg-opacity: 1;
-  background-color: rgba(254, 202, 202, var(--tw-bg-opacity));
-}
-
 .container {
   width: 100%;
 }
@@ -661,11 +646,6 @@ tbody > tr {
   }
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
-}
-
 .bg-purple-100 {
   --tw-bg-opacity: 1;
   background-color: rgba(237, 233, 254, var(--tw-bg-opacity));
@@ -692,36 +672,8 @@ tbody > tr {
   display: table;
 }
 
-.flow-root {
-  display: flow-root;
-}
-
-.hidden {
-  display: none;
-}
-
 .flex-wrap {
   flex-wrap: wrap;
-}
-
-.items-center {
-  align-items: center;
-}
-
-.justify-start {
-  justify-content: flex-start;
-}
-
-.justify-between {
-  justify-content: space-between;
-}
-
-.flex-grow {
-  flex-grow: 1;
-}
-
-.flex-shrink {
-  flex-shrink: 1;
 }
 
 .clear-left {
@@ -732,28 +684,12 @@ tbody > tr {
   font-weight: 300;
 }
 
-.h-10 {
-  height: 2.5rem;
-}
-
-.h-12 {
-  height: 3rem;
-}
-
 .h-32 {
   height: 8rem;
 }
 
 .h-56 {
   height: 14rem;
-}
-
-.h-full {
-  height: 100%;
-}
-
-.list-none {
-  list-style-type: none;
 }
 
 .m-8 {
@@ -765,20 +701,8 @@ tbody > tr {
   margin-right: auto;
 }
 
-.mr-1 {
-  margin-right: 0.25rem;
-}
-
 .mb-4 {
   margin-bottom: 1rem;
-}
-
-.ml-6 {
-  margin-left: 1.5rem;
-}
-
-.mt-8 {
-  margin-top: 2rem;
 }
 
 .mb-10 {
@@ -789,24 +713,12 @@ tbody > tr {
   margin-bottom: 4rem;
 }
 
-.ml-16 {
-  margin-left: 4rem;
-}
-
 .mt-20 {
   margin-top: 5rem;
 }
 
-.-ml-16 {
-  margin-left: -4rem;
-}
-
 .max-w-screen-xl {
   max-width: 1280px;
-}
-
-.overflow-auto {
-  overflow: auto;
 }
 
 .p-4 {
@@ -827,19 +739,6 @@ tbody > tr {
   padding-bottom: 1rem;
 }
 
-.fixed {
-  position: fixed;
-}
-
-.inset-x-0 {
-  right: 0px;
-  left: 0px;
-}
-
-.top-0 {
-  top: 0px;
-}
-
 * {
   --tw-shadow: 0 0 #0000;
 }
@@ -857,24 +756,8 @@ tbody > tr {
   text-align: center;
 }
 
-.w-64 {
-  width: 16rem;
-}
-
-.w-1\/2 {
-  width: 50%;
-}
-
 .w-1\/6 {
   width: 16.666667%;
-}
-
-.w-full {
-  width: 100%;
-}
-
-.z-50 {
-  z-index: 50;
 }
 
 @-webkit-keyframes spin {
@@ -947,14 +830,6 @@ tbody > tr {
 }
 
 @media (min-width: 768px) {
-  .md\:block {
-    display: block;
-  }
-
-  .md\:hidden {
-    display: none;
-  }
-
   .md\:float-left {
     float: left;
   }
