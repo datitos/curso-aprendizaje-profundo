@@ -15,7 +15,6 @@ jobs:
       - name: Install and Build 🔧
         run: |
           cd web
-          npm install
           NODE_ENV=production sh build.sh
 
       - name: Deploy 🚀
